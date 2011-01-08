@@ -9,6 +9,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 
 # Use unicorn as the web server
 # gem 'unicorn'
+gem "fbgraph" # for facebook, see https://github.com/nsanta/fbgraph
 
 # Deploy with Capistrano
 # gem 'capistrano'
