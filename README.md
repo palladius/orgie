@@ -5,5 +5,10 @@ As the other (hostes by sourceforge), this is open source. Id like in the future
 
 # What's this
 
-* Rails '3.0.3'
-* Nifty Generators
+* Rails '7'
+* TODO(ricc): Nifty Generators if they still work
+
+# UIssues
+
+Doesnt seem to work on Mac w/ ARM  architecture. nokogiri is the usual.
+wait with 2.7.5 it works!
