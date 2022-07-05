@@ -1,0 +1,36 @@
+# MySQL.  Versions 4.1 and 5.0 are recommended.
+#
+#
+# Be sure to use new-style password hashing:
+#   http://dev.mysql.com/doc/refman/5.0/en/old-client.html
+development: #sqlite3:
+  adapter: sqlite3
+  database: db/development.sqlite3
+
+development_old: # mysql
+  adapter: mysql
+  database: goliardia_devel_backup
+  host: dev.goliardia.it
+  username: goldone
+  password: R2ibfA
+  pool: 5
+  timeout: 5000
+  encoding: utf8
+  table_name_prefix: orgiedevel_
+
+test:
+  adapter: mysql
+  database: goliardia_test
+  host: dev.goliardia.it
+  pool: 5
+  timeout: 5000
+  table_name_prefix: orgietest_
+
+production:
+  adapter: mysql
+  database: goliardia_prod
+  host: dev.goliardia.it
+  pool: 5
+  timeout: 5000
+  table_name_prefix: orgie_
+

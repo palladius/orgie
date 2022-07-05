@@ -1,0 +1,55 @@
+
+
+Processing NodesController#index (for 127.0.0.1 at 2009-10-19 12:59:50) [GET]
+  Parameters: {"prefix"=>""}
+Redirected to http://localhost:3211/en
+Filter chain halted as [:check_path] rendered_or_redirected.
+Completed in 199ms (DB: 1) | 302 Found [http://localhost/]
+
+
+Processing NodesController#index (for 127.0.0.1 at 2009-10-19 12:59:51) [GET]
+  Parameters: {"prefix"=>"en"}
+Rendering /localhost/zafu/default/Node-+index/en/_main.erb
+Completed in 415ms (View: 67, DB: 31) | 200 OK [http://localhost/en]
+
+
+Processing NodesController#show (for 127.0.0.1 at 2009-10-19 12:59:51) [GET]
+  Parameters: {"prefix"=>"en", "812173644767"=>nil, "path"=>["image17_tiny.png"]}
+Sending file /Users/riccardo/svn/ricdev/projects/orgie/tag/zena-cms/sites/localhost/data/tiny/3/5/6/favicon
+Completed in 29ms (View: 0, DB: 3) | 200 OK [http://localhost/en/image17_tiny.png?812173644767]
+
+
+Processing NodesController#show (for 127.0.0.1 at 2009-10-19 12:59:51) [GET]
+  Parameters: {"prefix"=>"en", "1255957182"=>nil, "path"=>["textdocument19.css"]}
+Sending data style.css
+Completed in 14ms (View: 0, DB: 3) | 200 OK [http://localhost/en/textdocument19.css?1255957182]
+
+
+Processing NodesController#show (for 127.0.0.1 at 2009-10-19 12:59:54) [GET]
+  Parameters: {"prefix"=>"en", "path"=>["page5.html"]}
+Rendering /localhost/zafu/default/Node/en/_main.erb
+Completed in 281ms (View: 198, DB: 14) | 200 OK [http://localhost/en/page5.html]
+
+
+Processing NodesController#show (for 127.0.0.1 at 2009-10-19 13:00:33) [GET]
+  Parameters: {"prefix"=>"en", "path"=>["section6.html"]}
+Rendering /localhost/zafu/default/Node/en/_main.erb
+Completed in 31ms (View: 14, DB: 9) | 200 OK [http://localhost/en/section6.html]
+
+
+Processing NodesController#index (for 127.0.0.1 at 2009-10-19 13:00:35) [GET]
+  Parameters: {"prefix"=>"en"}
+Rendering /localhost/zafu/default/Node-+index/en/_main.erb
+Completed in 24ms (View: 8, DB: 9) | 200 OK [http://localhost/en]
+
+
+Processing NodesController#index (for 127.0.0.1 at 2009-10-19 13:00:37) [GET]
+  Parameters: {"prefix"=>"en"}
+Rendering /localhost/zafu/default/Node-+index/en/_main.erb
+Completed in 25ms (View: 8, DB: 9) | 200 OK [http://localhost/en]
+
+
+Processing NodesController#show (for 127.0.0.1 at 2009-10-19 13:00:51) [GET]
+  Parameters: {"prefix"=>"en", "path"=>["contact3.html"]}
+Rendering /localhost/zafu/default/Node/en/_main.erb
+Completed in 25ms (View: 10, DB: 7) | 200 OK [http://localhost/en/contact3.html]

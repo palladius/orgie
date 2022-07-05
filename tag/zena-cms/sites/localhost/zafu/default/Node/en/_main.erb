@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang='<%= @node.version.lang %>' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+  <title><% if @title_for_layout -%><%= @title_for_layout %><% elsif @node && !@node.new_record? -%><%= @node.rootpath %><% elsif @node.parent -%><%= @node.parent.rootpath %><% else -%><%= @node.version.title %><% end -%></title>
+<link href='/en/image17_tiny.png?812173644767' rel='shortcut icon' type='image/png'/>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  
+    <link href="/stylesheets/reset.css?1255955326" media="all" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/zena.css?1255955326" media="all" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/code.css?1255955326" media="all" rel="stylesheet" type="text/css" />
+<link href='/en/textdocument19.css?1255957182' rel='Stylesheet' type='text/css'/>
+  
+
+  <script src="/javascripts/prototype.js?1255955326" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1255955326" type="text/javascript"></script>
+<script src="/javascripts/tablekit.js?1255955326" type="text/javascript"></script>
+<script src="/javascripts/zena.js?1255955326" type="text/javascript"></script>
+            <script src="/calendar/calendar.js" type="text/javascript"></script>
+          <script src="/calendar/calendar-setup.js" type="text/javascript"></script>
+          <script src="/calendar/lang/calendar-en-utf8.js" type="text/javascript"></script>
+          <link href="/calendar/calendar-brown.css" media="screen" rel="Stylesheet" type="text/css" />
+          <script type="text/javascript" charset="utf-8">
+// <![CDATA[
+
+          Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d %H:%M";
+          Calendar._TT["FIRST_DAY"] = 0;
+          
+// ]]>
+</script>
+
+</head>
+
+<body>
+<% if var1 = (secure(Node) { Node.find(1)}) -%>  <div id='top'><a href='<%= zen_path(var1) %>'><%= var1.version.title %></a></div><% end -%>
+  <div id='header'>
+    <div id='login'><%= login_link(:node=>@node) %></div>
+    <div id='visitor'><%= visitor_link(:node=>@node) %></div>
+    <div id='search'><%= search_box(:node=>@node, :type=>"search") %></div>
+<% if var1 = (secure(Node) { Node.find(1)}) -%>    <ol id='menu'><% if list1 = var1.do_find(:all, ["SELECT nodes.* FROM nodes WHERE nodes.kpath LIKE 'NP%' AND nodes.parent_id = ? AND (#{var1.secure_scope('nodes')}) ORDER BY nodes.position ASC, nodes.name ASC", var1.id], false, Node) -%>
+<% list1.each do |var2| -%>      <li<%= @node.fullpath =~ /\A#{var2.fullpath}/ ? " class='on'" : "" %>><a href='<%= zen_path(var2) %>'><%= var2.version.title %></a></li><% end -%>
+    <% end -%></ol>
+<% end -%>  </div>
+  <div id='container'>
+    <div id='title'>
+      <h1 class='s<%= @node.version.status %>'><%= show_title(:node=>@node) + node_actions(:node=>@node, :publish_after_save=>nil, :actions=>"all")%></h1>
+      <div class='zazen summary' id='v_summary<%= @node.zip %>'><%= zazen(@node.version.summary, :node=>@node) %></div>
+    </div>
+    <div id='context'>
+<% if var1 = @node.parent -%>      
+        <h3><a href='<%= zen_path(var1) %>'><%= var1.version.title %></a></h3>
+<% if (list1 = var1.do_find(:all, ["SELECT nodes.* FROM nodes WHERE nodes.kpath LIKE 'NP%' AND nodes.parent_id = ? AND (#{var1.secure_scope('nodes')}) ORDER BY nodes.position ASC, nodes.name ASC", var1.id], false, Node)) || (var1.can_write? && list1=[]) -%>        <ol>
+<% list1.each do |var2| -%>          <li><a href='<%= zen_path(var2) %>'><%= var2.version.title %></a></li><% end -%>
+<% if var1.can_write? -%>          <li class='btn_add' id='context1_add'><a href='#' onclick='["context1_add", "context1_form"].each(Element.toggle);$("context1_form_t").focusFirstElement();return false;'><img src='/images/add.png' alt='add'/></a></li><% if var2_new = secure(Node) { Node.new_from_class("Node") } -%>          <li class='inline_form' id='context1_form' style='display:none;'><%= form_remote_tag(:url => nodes_path, :html => {:id => "context1_form_t"}) %>
+<div class='hidden'><input type='hidden' name='dom_id' value='context1'/>
+<input type='hidden' name='t_url' value='/default/Node/context1'/>
+<input type='hidden' name='node[parent_id]' value='<%= var1.zip %>'/>
+</div><%= error_messages_for(var2_new) %><p class='btn_x'><a href='#' onclick='["context1_add", "context1_form"].each(Element.toggle);return false;'><img alt='cancel' src='/images/cross.png'/></a></p>
+
+            <ol>
+<li><select id='context1_klass' name='node[klass]'><%= options_for_select(Node.classes_for_form(:class => "Page"), (var2_new.new_record? ? var2_new.klass.to_s : var2_new.klass)) %></select></li>
+<li><input id='context1_v_title' name='node[v_title]' type='text' value=''/></li>
+<li class='validate'><input id='context1_' type='submit' value=' validate '/></li>
+            </ol>
+          </form></li>
+<% end -%><% end -%>
+        </ol>
+<% end -%>      
+<% end -%>    </div>
+    <div id='content'>
+      <div id='related'>
+<% if (list1 = @node.do_find(:all, ["SELECT nodes.* FROM nodes WHERE nodes.kpath LIKE 'ND%' AND nodes.parent_id = ? AND (#{@node.secure_scope('nodes')}) ORDER BY nodes.position ASC, nodes.name ASC", @node.id], false, Node)) || (@node.can_write? && list1=[]) -%>        <h3>documents</h3>
+          <ol>
+<% list1.each do |var1| -%>            <li><% if var1.can_write? -%>
+              <a href='<%= zen_path(var1) %>'><%= img_tag(var1, :mode=>"tiny") %> <%= var1.version.title %>.<%= var1.version.safe_content_read("ext") %></a>              
+            <% elsif true -%>
+                <a href='<%= zen_path(var1,:format=>var1.c_ext) %>'><%= img_tag(var1, :mode=>"tiny") %> <%= var1.version.title %>.<%= var1.version.safe_content_read("ext") %></a>              <% end -%></li>
+<% end -%><% if @node.can_write? -%>            <li class='btn_add'><a href='/documents/new?parent_id=<%= @node.zip %>' onclick='uploader=window.open("/documents/new?parent_id=<%= @node.zip %>", "upload", "width=400,height=300");return false;'><img src='/images/picture_add.png' alt='add documents'/></a></li>
+<% end -%>          </ol>
+        
+<% end -%><% if (list1 = @node.do_find(:all, ["SELECT nodes.* FROM nodes WHERE nodes.kpath LIKE 'NP%' AND nodes.parent_id = ? AND (#{@node.secure_scope('nodes')}) ORDER BY nodes.position ASC, nodes.name ASC", @node.id], false, Node)) || (@node.can_write? && list1=[]) -%>        <h3>pages</h3>
+          <ol>
+<% list1.each do |var1| -%>            <li class='li_s<%= var1.version.status %>'><a href='<%= zen_path(var1) %>'><%= var1.version.title %></a></li><% end -%>
+<% if @node.can_write? -%>            <li class='btn_add' id='pages_add'><a href='#' onclick='["pages_add", "pages_form"].each(Element.toggle);$("pages_form_t").focusFirstElement();return false;'><img src='/images/add.png' alt='add'/></a></li><% if var1_new = secure(Node) { Node.new_from_class("Node") } -%>            <li class='inline_form' id='pages_form' style='display:none;'><%= form_remote_tag(:url => nodes_path, :html => {:id => "pages_form_t"}) %>
+<div class='hidden'><input type='hidden' name='reference' value='pages_add'/>
+<input type='hidden' name='dom_id' value='pages'/>
+<input type='hidden' name='t_url' value='/default/Node/pages'/>
+<input type='hidden' name='node[parent_id]' value='<%= @node.zip %>'/>
+<input type='hidden' name='position' value='before'/>
+</div><%= error_messages_for(var1_new) %><p class='btn_x'><a href='#' onclick='["pages_add", "pages_form"].each(Element.toggle);return false;'><img alt='cancel' src='/images/cross.png'/></a></p>
+
+              <p class='node_klass'>  <select id='pages_klass' name='node[klass]'><%= options_for_select(Node.classes_for_form(:class => "Page"), (var1_new.new_record? ? var1_new.klass.to_s : var1_new.klass)) %></select></p>
+              <p class='node_v_title'><input id='pages_v_title' name='node[v_title]' type='text' value=''/></p>
+              <p class='btn_validate'><input id='pages_' type='submit' value=' validate '/></p>
+            </form></li>
+<% end -%><% end -%>
+          </ol>
+        
+<% end -%><% if (list1 = @node.do_find(:all, ["SELECT nodes.* FROM nodes WHERE nodes.kpath LIKE 'NR%' AND nodes.parent_id = ? AND (#{@node.secure_scope('nodes')}) ORDER BY nodes.position ASC, nodes.name ASC", @node.id], false, Node)) || (@node.can_write? && list1=[]) -%>        <h3>references</h3>
+          <ol>
+<% list1.each do |var1| -%>            <li class='li_s<%= var1.version.status %>'><a href='<%= zen_path(var1) %>'><%= var1.version.title %></a></li><% end -%>
+<% if @node.can_write? -%>            <li class='btn_add' id='references_add'><a href='#' onclick='["references_add", "references_form"].each(Element.toggle);$("references_form_t").focusFirstElement();return false;'><img src='/images/add.png' alt='add'/></a></li><% if var1_new = secure(Node) { Node.new_from_class("Node") } -%>            <li class='inline_form' id='references_form' style='display:none;'><%= form_remote_tag(:url => nodes_path, :html => {:id => "references_form_t"}) %>
+<div class='hidden'><input type='hidden' name='reference' value='references_add'/>
+<input type='hidden' name='dom_id' value='references'/>
+<input type='hidden' name='t_url' value='/default/Node/references'/>
+<input type='hidden' name='node[parent_id]' value='<%= @node.zip %>'/>
+<input type='hidden' name='position' value='before'/>
+</div><%= error_messages_for(var1_new) %><p class='btn_x'><a href='#' onclick='["references_add", "references_form"].each(Element.toggle);return false;'><img alt='cancel' src='/images/cross.png'/></a></p>
+
+              <p class='node_klass'>  <select id='references_klass' name='node[klass]'><%= options_for_select(Node.classes_for_form(:class => "Reference"), (var1_new.new_record? ? var1_new.klass.to_s : var1_new.klass)) %></select></p>
+              <p class='node_v_title'><input id='references_v_title' name='node[v_title]' type='text' value=''/></p>
+              <p class='btn_validate'><input id='references_' type='submit' value=' validate '/></p>
+            </form></li>
+<% end -%><% end -%>
+          </ol>
+        
+
+<% end -%>      </div>
+      <div id='main'>
+        <div class='zazen' id='v_text<%= @node.zip %>'><% if @node.kind_of?(TextDocument); l = @node.content_lang -%><%= zazen("<code#{l ? " lang='#{l}'" : ''} class=\'full\'>#{@node.version.text}</code>") %><% else -%><%= zazen(@node.version.text, :node=>@node) %><% end -%></div>
+      </div><!-- main -->
+<div class='clear'>&nbsp;</div>
+    </div><!-- content -->
+<div class='clear'>&nbsp;</div>
+  </div><!-- container -->
+  <div id='footer'><a class='zena' href='http://zenadmin.org' title='zena <%= Zena::VERSION %>'>a zen garden</a></div>
+</body>
+
+</html>

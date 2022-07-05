@@ -1,0 +1,52 @@
+<h1>Editing link</h1>
+
+<% form_for(@link) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :titolo %><br />
+    <%= f.text_field :titolo %>
+  </p>
+  <p>
+    <%= f.label :id_login %><br />
+    <%= f.text_field :id_login %>
+  </p>
+  <p>
+    <%= f.label :id_oggettoPuntato %><br />
+    <%= f.text_field :id_oggettoPuntato %>
+  </p>
+  <p>
+    <%= f.label :Data_creazione %><br />
+    <%= f.date_select :Data_creazione %>
+  </p>
+  <p>
+    <%= f.label :tipo %><br />
+    <%= f.text_field :tipo %>
+  </p>
+  <p>
+    <%= f.label :m_battiva %><br />
+    <%= f.check_box :m_battiva %>
+  </p>
+  <p>
+    <%= f.label :URLlink %><br />
+    <%= f.text_field :URLlink %>
+  </p>
+  <p>
+    <%= f.label :URLlinkFoto %><br />
+    <%= f.text_field :URLlinkFoto %>
+  </p>
+  <p>
+    <%= f.label :Descrizione %><br />
+    <%= f.text_area :Descrizione %>
+  </p>
+  <p>
+    <%= f.label :m_bfotoattiva %><br />
+    <%= f.check_box :m_bfotoattiva %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @link %> |
+<%= link_to 'Back', links_path %>

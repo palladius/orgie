@@ -1,0 +1,16 @@
+<% 
+	# REQUIRES VAR "messages"
+%>
+<table width='200' class="message_shorts" bgcolor="orange" >
+<% 
+  ix=0
+  messages.each{|message| 
+  ix += 1
+%>
+	<tr>
+		<td>
+			<%= render :partial => "messages/short" , :locals => { :message => message, :ix => ix }%>
+		</td>
+	</tr>
+<% } %>
+</table>

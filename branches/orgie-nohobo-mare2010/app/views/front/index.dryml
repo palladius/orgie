@@ -1,0 +1,45 @@
+<page title="Home">
+  <body: class="front-page"/>
+  <content:>
+    <header class="content-header">
+      <h1>Welcome to <app-name/></h1>
+		''<i><app-desc/></i>''
+      	<section class="welcome-message">
+		<div align="right" >  <%= logo %> </div>
+		<h2>Roba Riccardo</h2>		
+        <p><i>To customise this page: edit app/views/front/index.dryml</i></p>
+    
+        <% if User.count == 0 -%>
+          <h3 style="margin-top: 20px;">There are no user accounts - please provide the details of the site administrator</h3>
+          <do with="&User.new"><% this.exempt_from_edit_checks = true %>
+            <signup-form/>
+          </do>
+        <% end -%>
+      </section>
+    </header>
+
+    <section class="content-body">
+      <h3><a href="/front/stats"><b>Statistics super cool!!!</b></a></h3>
+		<%= render :partial => "messages/shorts" , :locals => { :messages => @last_five_messages }%>
+	  <p>
+	  	<img src='images/icons/models/message.png' />
+	  	<a href='/messages/10756'> Cuccati un bel messaggio (10756)</a>
+	  </p>
+      <img src='images/icons/models/user.png' />
+	  <p>  Bella Ric  Prova a far vedere gli ultimi utenti...</p>
+      <b>Last users:</b> <%= User.find(:all, :limit => 3 ).map{|x| x.name}.join(', ') %>
+			<p>
+				<tt>Prova a guardare qui un buon tutorial per proxx pagg: http://hobocentral.net/blog/2007/08/15/dryml-tour-06-not-quite-ready-yet/</tt>
+				(o anche <%= link_to  "http://hobocentral.net/blog/2006/11/10/guide-to-dryml/", "http://hobocentral.net/blog/2006/11/10/guide-to-dryml/" %>>)
+			</p>
+
+      <h2>Other amenities</h2>
+        <%= u=User.find(:first); link_to u.photo,u %>
+    </section>
+  </content:>
+  
+</page>
+<header>
+	<hr />
+	Powered by Palladius
+</header>

@@ -1,0 +1,12 @@
+--- 
+users_001: 
+  salt: aea66af00b839163fad09d87919b08f641460e53
+  name: ""
+  updated_at: 2009-09-16 17:24:30
+  crypted_password: 0de288515b482df69ab404076a001f21b904b392
+  remember_token_expires_at: 
+  id: "1"
+  remember_token: 
+  login: palladius
+  created_at: 2009-09-16 17:24:30
+  email: palladiusbonton@gmail.com

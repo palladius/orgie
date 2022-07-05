@@ -1,0 +1,51 @@
+# This file is auto-generated from the current state of the database. Instead of editing this file, 
+# please use the migrations feature of Active Record to incrementally modify your database, and
+# then regenerate this schema definition.
+#
+# Note that this schema.rb definition is the authoritative source for your database schema. If you need
+# to create the application database on another system, you should be using db:schema:load, not running
+# all the migrations from scratch. The latter is a flawed and unsustainable approach (the more migrations
+# you'll amass, the slower it'll run and the greater likelihood for issues).
+#
+# It's strongly recommended to check this file into your version control system.
+
+ActiveRecord::Schema.define(:version => 20091002163846) do
+
+  create_table "cities", :force => true do |t|
+    t.string   "nomecitta"
+    t.string   "sigla"
+    t.string   "regione"
+    t.integer  "id_pseudoid"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "links", :force => true do |t|
+    t.string   "titolo"
+    t.integer  "id_login"
+    t.integer  "id_oggettoPuntato"
+    t.date     "Data_creazione"
+    t.string   "tipo"
+    t.boolean  "m_battiva"
+    t.string   "URLlink"
+    t.string   "URLlinkFoto"
+    t.text     "Descrizione"
+    t.boolean  "m_bfotoattiva"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "orgie_manuale_links", :force => true do |t|
+    t.string   "title"
+    t.integer  "user_id"
+    t.integer  "id_oggettoPuntato"
+    t.datetime "Data_creazione"
+    t.string   "tipo"
+    t.boolean  "m_battiva",                               :default => false, :null => false
+    t.string   "URLlink"
+    t.string   "URLlinkFoto"
+    t.boolean  "m_bfotoattiva",                           :default => false, :null => false
+    t.text     "Descrizione",       :limit => 2147483647
+  end
+
+end

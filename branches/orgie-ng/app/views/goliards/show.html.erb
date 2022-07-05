@@ -1,0 +1,92 @@
+<% title "Goliard" %>
+
+<p>
+  <strong>Name:</strong>
+  <%= @goliard.name %>
+</p>
+<p>
+  <strong>Surname:</strong>
+  <%= @goliard.surname %>
+</p>
+<p>
+  <strong>Process Date:</strong>
+  <%= @goliard.process_date %>
+</p>
+<p>
+  <strong>Address:</strong>
+  <%= @goliard.address %>
+</p>
+<p>
+  <strong>Mobile:</strong>
+  <%= @goliard.mobile %>
+</p>
+<p>
+  <strong>Goliardic Name:</strong>
+  <%= @goliard.goliardic_name %>
+</p>
+<p>
+  <strong>Noble Name:</strong>
+  <%= @goliard.noble_name %>
+</p>
+<p>
+  <strong>Order:</strong>
+  <%= @goliard.order_id %>
+</p>
+<p>
+  <strong>User:</strong>
+  <%= @goliard.user_id %>
+</p>
+<p>
+  <strong>Subscription:</strong>
+  <%= @goliard.subscription %>
+</p>
+<p>
+  <strong>Subscription Stamps:</strong>
+  <%= @goliard.subscription_stamps %>
+</p>
+<p>
+  <strong>Email:</strong>
+  <%= @goliard.email %>
+</p>
+<p>
+  <strong>Scazzi Count:</strong>
+  <%= @goliard.scazzi_count %>
+</p>
+<p>
+  <strong>Privacy Mail:</strong>
+  <%= @goliard.private_mail %>
+</p>
+<p>
+  <strong>Privacy Cell:</strong>
+  <%= @goliard.private_cell %>
+</p>
+<p>
+  <strong>Privacy Address:</strong>
+  <%= @goliard.private_address %>
+</p>
+<p>
+  <strong>Photo:</strong>
+  <%= @goliard.photo %>
+</p>
+<p>
+  <strong>Faculty:</strong>
+  <%= @goliard.faculty_id %>
+</p>
+<p>
+  <strong>Points:</strong>
+  <%= @goliard.points %>
+</p>
+<p>
+  <strong>Male:</strong>
+  <%= @goliard.male %>
+</p>
+<p>
+  <strong>Title:</strong>
+  <%= @goliard.title %>
+</p>
+
+<p>
+  <%= link_to "Edit", edit_goliard_path(@goliard) %> |
+  <%= link_to "Destroy", @goliard, :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", goliards_path %>
+</p>

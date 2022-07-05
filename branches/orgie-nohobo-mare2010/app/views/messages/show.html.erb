@@ -1,0 +1,7 @@
+<%= render :partial => "index_head"%>
+
+<table border ='0' >
+	<%= render :partial => "messages/thread" , :locals => { :message => @message }%>
+</table>
+
+<%= render :partial => "index_foot" %>

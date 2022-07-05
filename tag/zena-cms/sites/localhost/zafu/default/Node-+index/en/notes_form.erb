@@ -1,0 +1,24 @@
+    <li class='inline_form' id='<%= dom_id(@node) %>'>
+        <% if @node.new_record? -%>
+    <p class='btn_x'><a href='#' onclick='["<%= params[:dom_id] %>_add", "<%= params[:dom_id] %>_form"].each(Element.toggle);return false;'><img src='/images/cross.png' alt='cancel'/></a></p>
+  <% else -%>
+    <p class='btn_x'><%= link_to_remote("<img src='/images/cross.png' alt='cancel'/>", :url => node_path(@node.zip) + "/zafu?t_url=%2Fdefault%2FNode-%2Bindex%2Fnotes&dom_id=#{params[:dom_id]}", :method => :get) %></p>
+  <% end -%>
+  <% if @node.new_record? -%>
+  <%= form_remote_tag(:url => nodes_path, :html => {:id => "#{params[:dom_id]}_form_t"}) %>
+  <% else -%>
+  <%= form_remote_tag(:url => node_path(@node.zip), :method => :put, :html => {:id => "#{dom_id(@node)}_form_t"}) %>
+  <% end -%>
+<div class='hidden'><input type='hidden' name='reference' value='<%= params[:dom_id] %>_form'/>
+<input type='hidden' name='dom_id' value='<%= params[:dom_id] %>'/>
+<input type='hidden' name='t_url' value='/default/Node-+index/notes'/>
+<input type='hidden' name='node[parent_id]' value='<%= @node.parent_zip %>'/>
+<input type='hidden' name='position' value='after'/>
+<input type='submit'/>
+</div><%= error_messages_for(@node) %>
+        <p class='node_v_title'><input id='<%= dom_id(@node) %>_v_title' name='node[v_title]' size='25' type='text' value='<%= fquote @node.version.title %>'/></p>
+        <p class='node_klass'>  <select id='<%= dom_id(@node) %>_klass' name='node[klass]'><%= options_for_select(Node.classes_for_form(:class => "Note"), (@node.new_record? ? "Post" : @node.klass)) %></select></p>
+        <p class='node_log_at'> <%= date_box 'node', "log_at", :size=>15, :id=>"#{dom_id(@node)}_log_at" %> </p>
+        <p class='validate'>    <input type='submit' value=' validate '/></p>
+      </form>
+    </li>

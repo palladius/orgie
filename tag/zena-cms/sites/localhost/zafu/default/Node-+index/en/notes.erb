@@ -1,0 +1,9 @@
+    <li class='note'>
+      <div class='header'>
+        <p class='log_at'><%= format_date(@node.log_at, "%A, %B %d %Y") %></p>
+        <h2 class='s<%= @node.version.status %> title'><%= show_title(:node=>@node) + node_actions(:node=>@node, :publish_after_save=>nil, :actions=>"all")%></h2>
+        <div class='zazen summary' id='v_summary<%= @node.zip %>'><%= zazen(@node.version.summary, :node=>@node) %></div>
+      </div>
+      <div class='zazen' id='v_text<%= @node.zip %>'><% if @node.kind_of?(TextDocument); l = @node.content_lang -%><%= zazen("<code#{l ? " lang='#{l}'" : ''} class=\'full\'>#{@node.version.text}</code>") %><% else -%><%= zazen(@node.version.text, :node=>@node) %><% end -%></div>
+      <div class='clear'></div>
+    </li>

@@ -1,0 +1,41 @@
+<tr class='message_single' >
+ <td class='message_single' valign="top"  >
+  <div class='message'>
+	<span class="message_info" align='right'>
+		<small>
+			<i>(<%=link_to( message.user,message.user )%>, on <%= time_ago_in_words(message.data_creazione) %> ago, <%= public_column(message) %>)
+		</small>
+	</span>	
+	<h1>[<%= message.father? ? 'F' : 'S' %>]
+		<%=image_tag("icons/models/message.png", :height => 25 ) %>
+		<%=link_to( message, message) %>
+	</h1>
+	  <%=visualize_message_body(message) %>
+
+	<p>
+	  <% if message.son? %>
+	  	<strong>DEB Father:</strong>
+	  <%#=  link_to(message.id_figliodi_msg,message.id_figliodi_msg) if message.id_figliodi_msg > 0 %>
+	  	<%=  linked_model(message.father) if message.son? %>
+		<% else %>
+		  <strong>DEB Sons:</strong>
+		  <% message.sons.each{|son| %>
+			<%= linked_model(son) %> 
+		  <% } %>
+	  <% end %>
+	</p>
+	<p>
+	  <%= link_to "Edit", edit_message_path(message) %> |
+	  <%= link_to "Destroy", message, :confirm => 'Are you sure?', :method => :delete %> |
+	  <%= link_to "Forum Index", messages_path %>
+	</p>
+	
+	<%#= linked_title(message) %>
+	<hr />
+  </div>
+ </td>
+ <td class='photo' valign="top" >
+	<%= message_photo(message, :height => 80 ) %>
+ </td>
+
+</tr>

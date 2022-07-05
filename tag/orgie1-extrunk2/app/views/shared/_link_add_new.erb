@@ -1,0 +1,17 @@
+<span class="link-add">
+  <%= image_tag 'icons/add.png', :size => '20x20' %>
+  <% if local_assigns.has_key? :model %>
+    <%  if true #user_session.can_write?(model.pluralize) %>
+      <%= link_to "Add new "+model.gsub("_"," "),
+        :controller => model.pluralize ,
+        :action => "new"
+      %>
+    <% else %>
+     Sorry, unauthorized to add new <% model.pluralize %>.
+    <% end %>
+  <% else %>
+    <b>Bug!</b> Unknown ":model"! Tell Riccardo!
+	<%=bug "Unknown :model!" %>
+  <% end %>
+</span>
+

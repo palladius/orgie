@@ -1,0 +1,38 @@
+## YAML Template.
+## $Id: config.yml 80 2009-10-03 09:03:43Z riccardo $
+## Copied from Railcast: http://media.railscasts.com/videos/085_yaml_config_file.mov
+# Most things are NOT implemented, are just for test (so far), i.e. root_users are not working (yet)
+# These variables will go to the following hash: WILL GO TO variable: APP_CONFIG
+# i.e.: APP_CONFIG['dflt_unauthorized_category']
+
+development:
+  description: default/common description for test/devel/production
+  
+test:
+  dflt_guest_user:       	    testreadonly
+  dflt_privileged_user:       testroot
+  db_description:             Tried to move to LOCAL mysql to avoid interferences. Brian made many more.
+  
+production:
+  description: PROD sobenme
+
+_common_to_all:
+  root_users: venerdi, palladius
+  testusers_salt: Ch4ng3m3Abs0lut3ly
+  dflt_unauthorized_category: readonly
+  dflt_unauthorized_user:     guest
+  dflt_admin_category: root
+  dflt_guest_user:      guest
+  dflt_privileged_user: we-shouldnt-have-users-tested-in-envs-except-test
+  read_only_db: false
+  svn_rev: '$Rev: 80 $'
+  db_version:   '1.01'
+  db_lastchange: 1.01 Id ovunque
+  db_history:   <b>History of DB_VERSIONS</b>
+    1.01 created users and boh
+  code_description: 'boh $Rev: 80 $ changed dollars... $Id: config.yml 80 2009-10-03 09:03:43Z riccardo $ '
+  code_ver_name: 0.9
+  code_version:  0.9.001
+  code_history:    <b><u>CODE HISTORY</u></b>
+    0.9.001  Upgraded MajorGroup and trying on staging machine
+    END'

@@ -1,0 +1,17 @@
+= Welcome to Orgie =
+
+Attenzione!
+Questa versione è obsoleta.
+Per ora sto lavorando in tmp/orgie3-hobo/ ... lo so le dovrei mettere in branch mi sa...
+
+
+
+= INSTALL =
+Things done:
+
+script/plugin install git://github.com/activescaffold/active_scaffold.git
+
+script/generate scaffold --svn links titolo:string id_login:integer id_oggettoPuntato:integer Data_creazione:date tipo:string m_battiva:boolean  URLlink:string URLlinkFoto:string Descrizione:text m_bfotoattiva:boolean 
+
+# regioni --> cities tablename=regioni
+script/generate scaffold --svn cities  nomecitta:string  sigla:string   regione:string  id_pseudoid:integer

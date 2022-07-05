@@ -1,0 +1,27 @@
+<%
+  nmessages = 5
+  @last_messages = Message.find(:all, :limit => nmessages ) # TBD sort data discendente
+%>
+
+<h1>Forum</h1>
+Welcome to the forum, dear USER_TBD !
+
+<table>
+  <tr >
+    <th>Ultimi <%=nmessages%> messaggi</th>
+    <th>Forum</th>
+  </tr>
+  <tr>
+    <td valign="top" >
+      <%= @last_messages.map{ |msg|         
+         linked_title( msg )         
+      } %>
+
+    </td>
+    <td valign="top">
+     <%= @last_messages.map{ |msg|
+          title_and_body msg
+      } %>
+    </td>
+  </tr>
+</table>

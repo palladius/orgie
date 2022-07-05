@@ -1,0 +1,78 @@
+HOBO ORGIE 3
+
+TODO IMP:
+	rimetti a posto l'id dei messaggi, faccio una commit e una hobomirgtion per esser sicuro che vadI tutto benei.
+
+= About =
+
+ORGIE (Open Rails Goliardia in IrEland) is an open source application (Ill publish this SVN when Ill get rid of all this damn sensitive information in the DB dumps :) ).
+This application is about 'goliards' (Italian goliardi), that is students. These students are organizied into orders. This site tries to model them.
+
+= install =
+Per esser sicuro che tutto vadI, io digito:
+
+$ rm db/development.sqlite3 ; hobomigra ; rake db:migrate ; rake db:seed
+
+
+= cose fatte fin qui =
+
+
+ruby script/generate #hobo_model_resource cities \
+    name:string       \
+    initials:string   \
+    region:string     \
+    other_id:integer
+
+$ ruby script/generate #hobo_model_resource thing name:string body:text
+$ ruby script/generate hobo_migration
+
+* creati amministratori con modello 'amministratore' poi rinominato 'administrator'
+
+* creato EVENTS a partire da APPUNTAMENTI (sto evitando la roba delle foto).
+ Stavolta provo con SCAFFOLD.
+
+ script/generate scaffold -c events name:string --skip-migration
+
+script/generate scaffold page \
+    title:string abstract:text body:text user_id:integer active:boolean
+
+# provo a migrare le CANZONI come SONGS attraverso la hobo bazza
+
+script/generate #hobo_model_resource  -c   song ID_canzone:integer    titolo:string    id_login:integer    Data_creazione:datetime Autore:string     m_bSeria:boolean   Corpo:text   Note:text   tipo:string
+
+# migro messaggi, nome di merda ma non voglio confonderlo con i posts...
+# forum messaggi
+script/generate  #hobo_model_resource  -c message titolo:string id_login:integer messaggio:text data_creazione:datetime pubblico:boolean id_figliodi_msg:integer id_tipo:integer
+
+#  :primary_key => "ID_GOL", le privacy FALSE a default, Maschio NOT NULL, titolo dflt=''
+script/generate  #hobo_model_resource  -c goliard Nome:string Cognome:string DataProcesso:datetime \
+    Indirizzo:string numcellulare:string Nomegoliardico:string Nomenobiliare:string \
+    ID_Ordine:integer id_login:integer Dataiscrizione:datetime BolliAllIscrizione:integer \
+    email:string contascazzi:integer privacy_mail:boolean privacy_cell:boolean privacy_address:boolean \
+    foto:string ID_FACOLTA:integer m_nPunti:integer m_bIsMaschio:boolean titolo:string
+
+# creo login come entita a parte, poi fonderla lo faro in un secondo momento... :)
+script/generate #hobo_model_resource  -c legacy_login m_sNome:string m_sPwd:string \
+    m_hEmail:string m_dataIscrizione:datetime m_thumbnail:string id_goliarda_default:integer \
+    m_bAdmin:boolean m_nPX:integer m_nLivello:integer m_bIsMaschio:boolean \
+    m_bErreMoscia:boolean m_bAttivo:boolean m_bGuest:boolean m_dataLastCollegato:datetime \
+    m_sNote:string datanascita:datetime m_bIsGoliard:boolean msn:string interessi:string \
+    icq:string provincia:string gustisessuali:string     m_bSerio:boolean     \
+    m_bSingle:boolean    m_bPunizione:boolean     m_snoteadmin:text    m_bmailpubblica:boolean
+
+
+
+
+ create_table "cariche", :primary_key => "ID_CARICA", :force => true do |t|
+    t.integer "ID_Ordine"
+    t.string  "nomecarica",       :limit => 50
+    t.integer "ID_CAR_staSottoA"
+    t.integer "CardinalitàMax"
+    t.string  "Dignità",         :limit => 50
+    t.boolean "Attiva",                          :default => false, :null => false
+    t.boolean "HC",                              :default => false, :null => false
+    t.string  "note",             :limit => 150
+    t.integer "m_nImportanza",                   :default => 0,     :null => false
+  end
+
+script/generate #hobo_model_resource  -c 

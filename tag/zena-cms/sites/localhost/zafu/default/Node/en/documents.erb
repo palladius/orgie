@@ -1,0 +1,4 @@
+            <li><% if @node.can_write? -%>
+              <a href='<%= zen_path(@node) %>'><%= img_tag(@node, :mode=>"tiny") %> <%= @node.version.title %>.<%= @node.version.safe_content_read("ext") %></a>              
+            <% elsif true -%>
+                <a href='<%= zen_path(@node,:format=>@node.c_ext) %>'><%= img_tag(@node, :mode=>"tiny") %> <%= @node.version.title %>.<%= @node.version.safe_content_read("ext") %></a>              <% end -%></li>

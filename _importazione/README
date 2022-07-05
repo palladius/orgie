@@ -1,0 +1,6 @@
+cosa ho fatto:
+
+1. in riccardocarlesso.it ho fatto questo:
+
+	   /usr/bin/mysqldump -u root -p44a4ba88  --compact --compatible=ansi --default-character-set=binary --extended-insert=false og_goliardiait >t
+ e lho portato in locale e messo in un dump qui.

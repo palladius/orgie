@@ -1,0 +1,22 @@
+ /* come rendere il post decente per Rails (mancavano gli ID!) */
+
+
+/*
+ update messaggi set id_msg = 1  WHERE titolo like '%Math and hate%' ;
+ update messaggi set id_msg = 30  WHERE titolo like 'un altro titolo' ;        / * AND id_figliodi_msg = 0 * /
+
+ update messaggi SET id_figliodi_msg=0 WHERE id_msg in (10,30,44);
+ update messaggi SET data_creazione=NOW() WHERE id_msg in (10,30,44);
+
+ update messaggi set id_msg = 14 WHERE titolo like 'Post about number %4%' ;
+ update messaggi set id_msg = 15 WHERE titolo like 'Post about number %5%' ;
+ update messaggi set id_msg = 16 WHERE titolo like 'Post about number %6%' ;
+ update messaggi set id_msg = 17 WHERE titolo like 'Post about number %7%' ;
+ update messaggi set id_msg = 18 WHERE titolo like 'Post about number %8%' ;
+ update messaggi set id_msg = 19 WHERE titolo like 'Post about number %9%' ;
+ update messaggi set id_msg = 20 WHERE titolo like 'Post about number %10%' ;
+
+ SELECT * FROM messaggi ;
+
+*/
+SELECT * FROM users ;

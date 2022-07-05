@@ -1,0 +1,29 @@
+= Orgie 2
+
+Quetso e' orgie riscritto con rails 2.3.4 e activescaffold.
+
+
+
+script/plugin install git://github.com/activescaffold/active_scaffold.git
+
+# VECCCHIO
+script/generate scaffold --svn links titolo:string id_login:integer id_oggettoPuntato:integer Data_creazione:date tipo:string m_battiva:boolean  URLlink:string URLlinkFoto:string Descrizione:text m_bfotoattiva:boolean
+
+# VECCHIO
+# regioni --> cities tablename=regioni
+script/generate scaffold --svn VECCHIO_cities \
+    nomecitta:string \
+    sigla:string   \
+    regione:string  \
+    id_pseudoid:integer
+
+
+== DB
+
+per ora il DB lo migro a MANUASU per ora ho fatto solo i LINKS... ma ne verranno altri, penso che sto approccio paghi.
+
+$ cat db/migrate.sql | script/dbconsole -p
+
+copia la roba in devel.
+
+devi ora mettere a psoto la migrazione e tutto... non son sicuro che i links combacino :)

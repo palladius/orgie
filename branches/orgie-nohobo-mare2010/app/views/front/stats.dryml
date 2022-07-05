@@ -1,0 +1,40 @@
+<% @max = 5 %>
+<page title="Home">
+  <body: class="front-page"/>
+  <content:>
+    <header class="content-header">
+      <h1>Welcome to <app-name/></h1>
+		.. <app-desc/> ..
+      <section class="welcome-message">
+        <h3>Welcome to Hobo Orgie3</h3>
+        <ul>
+          <li>To customise this page: edit app/views/front/index.dryml</li>
+        </ul>
+      </section>
+    </header>
+
+    <section class="content-body">
+      <p>  Bella Ric  Prova a far vedere gli ultimi utenti...</p>
+      <b>Last users:</b> <%= User.find(:all, :limit => @max ).map{|x| x.name}.join(', ') %>
+      <h2>Statistiche max <%=@max%> per ogni modello</h2>
+      <%=
+        ApplicationHelper::ORGIE_MODELS.map{ |model|
+          pluralmodel = model.to_s.tableize
+		  img = image_tag('icons/models/user.png', :height => 20 )
+          last_three= model.find(:all, :limit => 3 ).map{|x|
+            begin
+              link_to("#{x.name} (#{x.class}.#{x.id})",x )
+            rescue  Exception => err
+              "Some error occurred with model #{model}: '#{x}', id=#{x.id}, error=#{ok false,err.message}"
+            end
+          }.join(', ')
+          "#{img} <b>Last #{link_to(pluralmodel,"/#{pluralmodel}/")}</b> (<i>Tot #{model.count}</i>): #{last_three}"
+        }.join('<br/>')
+
+      %>
+      <h2>Other amenities</h2>
+        <%= u=User.find(:first); link_to u.photo,u %>
+    </section>
+    
+  </content:>
+</page>

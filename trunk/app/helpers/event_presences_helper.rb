@@ -1,0 +1,2 @@
+module EventPresencesHelper
+end

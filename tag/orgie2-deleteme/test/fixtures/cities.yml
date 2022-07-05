@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nomecitta: MyString
+  sigla: MyString
+  regione: MyString
+  id_pseudoid: 1
+
+two:
+  nomecitta: MyString
+  sigla: MyString
+  regione: MyString
+  id_pseudoid: 1

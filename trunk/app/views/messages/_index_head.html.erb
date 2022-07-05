@@ -1,0 +1,28 @@
+<%
+  
+  #@last_messages = Message.find(:all, :limit => nmessages ) # TBD sort data discendente
+%>
+
+	<div align='center'>
+		<h1>
+			Forum Index
+		</h1>
+	</div>
+	
+Welcome to the forum, dear 
+	<i>USER_TBD</i>
+!
+
+<table>
+  <tr valign='top' >
+    <th>Ultimi <%=@nmessages%> messaggi</th>
+    <th>Forum</th>
+  </tr>
+  <tr>
+    <td valign="top" >
+		<%= render :partial => "shorts", :locals => { :messages => @last_ten_messages } rescue "Err: #{h $!}"%>
+      <%#= @last_messages.map{ |msg| "<p> ++ " + linked_model(msg)  } rescue "last_messages: #{h $!}" %>
+    </td>
+    <td valign="top">
+
+

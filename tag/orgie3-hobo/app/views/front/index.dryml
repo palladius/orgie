@@ -1,0 +1,33 @@
+<page title="Home">
+
+  <body: class="front-page"/>
+
+  <content:>
+    <header class="content-header">
+      <h1>Welcome to <app-name/></h1>
+      <section class="welcome-message">
+        <h3>Welcome to Hobo Orgie3</h3>
+        <ul>
+          <li>To customise this page: edit app/views/front/index.dryml</li>
+        </ul>
+      </section>
+    </header>
+
+    <section class="content-body">
+      <p>  Bella Ric  Prova a far vedere gli ultimi utenti...</p>
+      <b>Last users:</b> <%= User.find(:all, :limit => 3 ).map{|x| x.name}.join(', ') %>
+      <h2>Statistiche max 3 per ogni modello</h2>
+      <%=
+        #[Administrator,City, Event, Goliard, LegacyLogin, Link, Message, Song , User, XxxMetum  ]
+        ApplicationHelper::ORGIE_MODELS.map{ |model|
+          last_three= model.find(:all, :limit => 3 ).map{|x| link_to("#{x.name} (#{x.class}.#{x.id})") if x }.join(', ')
+          "<b>Last #{model}s</b>: #{last_three}"
+        }.join('<br/>')
+
+      %>
+      <h2>Other amenities</h2>
+        <%= u=User.find(:first); link_to u.photo,u %>
+    </section>
+    
+  </content:>
+</page>

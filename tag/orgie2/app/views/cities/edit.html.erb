@@ -1,0 +1,28 @@
+<h1>Editing city</h1>
+
+<% form_for(@city) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :nomecitta %><br />
+    <%= f.text_field :nomecitta %>
+  </p>
+  <p>
+    <%= f.label :sigla %><br />
+    <%= f.text_field :sigla %>
+  </p>
+  <p>
+    <%= f.label :regione %><br />
+    <%= f.text_field :regione %>
+  </p>
+  <p>
+    <%= f.label :id_pseudoid %><br />
+    <%= f.text_field :id_pseudoid %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @city %> |
+<%= link_to 'Back', cities_path %>

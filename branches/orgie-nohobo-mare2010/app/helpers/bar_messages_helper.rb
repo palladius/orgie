@@ -1,0 +1,2 @@
+module BarMessagesHelper
+end

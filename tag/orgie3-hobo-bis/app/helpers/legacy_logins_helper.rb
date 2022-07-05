@@ -1,0 +1,2 @@
+module LegacyLoginsHelper
+end

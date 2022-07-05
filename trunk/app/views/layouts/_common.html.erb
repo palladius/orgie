@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>Orgie3hobo: <%= controller.class.to_s %>::<%= controller.action_name %></title>
+  <%#= stylesheet_link_tag 'scaffold' %>
+    <%= stylesheet_link_tag 'goliardia_it' %>
+	<%= javascript_include_tag :defaults %>
+	<%= active_scaffold_includes %>
+</head>
+<body>
+	<%= link_to( image_tag("logos/logo-goliardia-#{RAILS_ENV}.png", :align => 'right' , :height => '50', :alt => "Orgie #{RAILS_ENV}", :border => 0 ), '/' ) %>
+	<div align="center">
+                [
+  <% # uso model names...
+  separator = ' :: '
+    major_models = (ApplicationHelper::ORGIE_MODELS).map{|x| x.to_s.pluralize.downcase }.sort
+    for modl in  major_models -%>
+    <span class="<%= modl.singularize.gsub('_','-') %>-title">
+      <%= link_to (image_tag 'icons/models/'+modl.singularize+'.png', :width => 15, :border => 0),
+        :controller => modl,
+        :action => :index %>
+      <a href='/<%=modl%>/'><%= modl.capitalize.gsub("_"," ") %></a>
+      <%= separator unless  modl == major_models.last %>
+    </span>
+  <% end %>
+                ]
+</div>
+<p style="color: green"><%= flash[:notice] %></p>
+
+<%= yield %>
+</body>
+	<div align="center">
+		<hr width="80%"/>
+		<small>
+		<b>Orgie3</b> Mockup app on <tt><%=Socket.gethostname %></tt>
+		</small>
+	</div>
+</html>

@@ -1,0 +1,2 @@
+module GoliardManagersHelper
+end

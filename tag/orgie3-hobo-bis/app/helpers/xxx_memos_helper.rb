@@ -1,0 +1,2 @@
+module XxxMemosHelper
+end

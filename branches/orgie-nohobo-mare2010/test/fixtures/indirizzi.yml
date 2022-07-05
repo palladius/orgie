@@ -1,0 +1,55 @@
+--- 
+indirizzi_001: 
+  ID_Utente: "3"
+  nomeHost: 80.116.79.42
+  ipHost: 80.116.79.42
+  ID_address: "1036299449"
+  m_bAttivo: "1"
+  m_tDescrizione: di palladius
+  m_nContaAccessi: "6"
+  nomeUser: "-"
+indirizzi_002: 
+  ID_Utente: "3"
+  nomeHost: 80.116.79.107
+  ipHost: 80.116.79.107
+  ID_address: "1464501170"
+  m_bAttivo: "1"
+  m_tDescrizione: di palladius
+  m_nContaAccessi: "6"
+  nomeUser: "-"
+indirizzi_003: 
+  ID_Utente: "3"
+  nomeHost: 137.204.61.249
+  ipHost: 137.204.61.249
+  ID_address: "1487338763"
+  m_bAttivo: "1"
+  m_tDescrizione: di palladius
+  m_nContaAccessi: "3"
+  nomeUser: "-"
+indirizzi_004: 
+  ID_Utente: "3"
+  nomeHost: 80.116.79.42
+  ipHost: 80.116.79.42
+  ID_address: "1036299449"
+  m_bAttivo: "1"
+  m_tDescrizione: di palladius
+  m_nContaAccessi: "6"
+  nomeUser: "-"
+indirizzi_005: 
+  ID_Utente: "3"
+  nomeHost: 80.116.79.107
+  ipHost: 80.116.79.107
+  ID_address: "1464501170"
+  m_bAttivo: "1"
+  m_tDescrizione: di palladius
+  m_nContaAccessi: "6"
+  nomeUser: "-"
+indirizzi_006: 
+  ID_Utente: "3"
+  nomeHost: 137.204.61.249
+  ipHost: 137.204.61.249
+  ID_address: "1487338763"
+  m_bAttivo: "1"
+  m_tDescrizione: di palladius
+  m_nContaAccessi: "3"
+  nomeUser: "-"

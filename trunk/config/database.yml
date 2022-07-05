@@ -1,0 +1,48 @@
+# MySQL.  Versions 4.1 and 5.0 are recommended.
+#
+#
+# Be sure to use new-style password hashing:
+#   http://dev.mysql.com/doc/refman/5.0/en/old-client.html
+development_sqlite3:
+  adapter: sqlite3
+  database: db/development.sqlite3
+  pool: 5
+  timeout: 5000
+
+# Warning: The database defined as "test" will be erased and
+# re-generated from your development database when you run "rake".
+# Do not set this db to the same as development or production.
+test:
+  adapter: sqlite3
+  database: db/test.sqlite3
+  pool: 5
+  timeout: 5000
+
+#production_sqlite_inutile:
+#  adapter: sqlite3
+#  database: db/production.sqlite3
+#  pool: 5
+#  timeout: 5000
+
+#development_goliardia:  # mysql
+development:  # mysql
+  adapter: mysql
+  database: goliardia_devel
+  host: dev.goliardia.it
+  username: goldone
+  password: R2ibfA
+  pool: 5
+  timeout: 5000
+  encoding: utf8
+  table_name_prefix: orgie2devel_
+
+production:
+  adapter: mysql
+  database: goliardia_prod
+  host:     dev.goliardia.it
+  username: goldone
+  password: R2ibfA
+  pool: 5
+  timeout: 5000
+  encoding: utf8
+  table_name_prefix: orgie3_

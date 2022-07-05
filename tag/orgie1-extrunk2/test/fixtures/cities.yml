@@ -1,0 +1,19 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nomecitta: MyString
+  sigla: MyString
+  regione: MyString
+  id_pseudoid: 2
+
+two:
+  nomecitta: MyString
+  sigla: MyString
+  regione: MyString
+  id_pseudoid: 3
+
+bulaggna:
+  nomecitta: Bologna
+  sigla: BO
+  regione: Emilia
+  id_pseudoid: 1

@@ -1,0 +1,9 @@
+= TODO =
+
+Cose da fare
+
+- A posto test.
+- Check stabilità della tabella dei MSG (attualmente ad ogni migrazione mi mette id_msg come campo per i cazzi suoi,
+    e toglie da foreignkey)
+- MAIL DIMENTICATA non la manda da localhost, verificare su altro sito..
+-  implemented_double_key_constraint = false (vincolo doppia chiave su GiocoDelleCoppie vedi modello couple.rb)

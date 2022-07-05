@@ -1,0 +1,45 @@
+one:
+  name: MyString
+  surname: MyString
+  process_date: 2010-11-24 18:42:43
+  address: MyString
+  mobile: MyString
+  goliardic_name: MyString
+  noble_name: MyString
+  order_id: 1
+  user_id: 1
+  subscription: 2010-11-24 18:42:43
+  subscription_stamps: 1
+  email: MyString
+  scazzi_count: 1
+  privacy_mail: false
+  privacy_cell: false
+  privacy_address: false
+  photo: MyString
+  faculty_id: 1
+  points: 1
+  male: false
+  title: MyString
+
+two:
+  name: MyString
+  surname: MyString
+  process_date: 2010-11-24 18:42:43
+  address: MyString
+  mobile: MyString
+  goliardic_name: MyString
+  noble_name: MyString
+  order_id: 1
+  user_id: 1
+  subscription: 2010-11-24 18:42:43
+  subscription_stamps: 1
+  email: MyString
+  scazzi_count: 1
+  privacy_mail: false
+  privacy_cell: false
+  privacy_address: false
+  photo: MyString
+  faculty_id: 1
+  points: 1
+  male: false
+  title: MyString

@@ -1,0 +1,88 @@
+<%= form_for @goliards do |f| %>
+  <%= f.error_messages %>
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :surname %><br />
+    <%= f.text_field :surname %>
+  </p>
+  <p>
+    <%= f.label :process_date %><br />
+    <%= f.datetime_select :process_date %>
+  </p>
+  <p>
+    <%= f.label :address %><br />
+    <%= f.text_field :address %>
+  </p>
+  <p>
+    <%= f.label :mobile %><br />
+    <%= f.text_field :mobile %>
+  </p>
+  <p>
+    <%= f.label :goliardic_name %><br />
+    <%= f.text_field :goliardic_name %>
+  </p>
+  <p>
+    <%= f.label :noble_name %><br />
+    <%= f.text_field :noble_name %>
+  </p>
+  <p>
+    <%= f.label :order_id %><br />
+    <%= f.text_field :order_id %>
+  </p>
+  <p>
+    <%= f.label :user_id %><br />
+    <%= f.text_field :user_id %>
+  </p>
+  <p>
+    <%= f.label :subscription %><br />
+    <%= f.datetime_select :subscription %>
+  </p>
+  <p>
+    <%= f.label :subscription_stamps %><br />
+    <%= f.text_field :subscription_stamps %>
+  </p>
+  <p>
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </p>
+  <p>
+    <%= f.label :scazzi_count %><br />
+    <%= f.text_field :scazzi_count %>
+  </p>
+  <p>
+    <%= f.label :privacy_mail %><br />
+    <%= f.check_box :privacy_mail %>
+  </p>
+  <p>
+    <%= f.label :privacy_cell %><br />
+    <%= f.check_box :privacy_cell %>
+  </p>
+  <p>
+    <%= f.label :privacy_address %><br />
+    <%= f.check_box :privacy_address %>
+  </p>
+  <p>
+    <%= f.label :photo %><br />
+    <%= f.text_field :photo %>
+  </p>
+  <p>
+    <%= f.label :faculty_id %><br />
+    <%= f.text_field :faculty_id %>
+  </p>
+  <p>
+    <%= f.label :points %><br />
+    <%= f.text_field :points %>
+  </p>
+  <p>
+    <%= f.label :male %><br />
+    <%= f.check_box :male %>
+  </p>
+  <p>
+    <%= f.label :title %><br />
+    <%= f.text_field :title %>
+  </p>
+  <p><%= f.submit %></p>
+<% end %>

@@ -1,0 +1,317 @@
+--- 
+gestione_citta_001: 
+  ID_GEST_CITTA: "5"
+  "citt\xC3\xA0": Torino
+  id_login: "6"
+gestione_citta_022: 
+  ID_GEST_CITTA: "54"
+  "citt\xC3\xA0": Torino
+  id_login: "220"
+gestione_citta_043: 
+  ID_GEST_CITTA: "75"
+  "citt\xC3\xA0": Parma
+  id_login: "4"
+gestione_citta_064: 
+  ID_GEST_CITTA: "96"
+  "citt\xC3\xA0": Padova
+  id_login: "341"
+gestione_citta_002: 
+  ID_GEST_CITTA: "6"
+  "citt\xC3\xA0": Pavia
+  id_login: "6"
+gestione_citta_023: 
+  ID_GEST_CITTA: "55"
+  "citt\xC3\xA0": Bologna
+  id_login: "163"
+gestione_citta_044: 
+  ID_GEST_CITTA: "76"
+  "citt\xC3\xA0": Torino
+  id_login: "56"
+gestione_citta_065: 
+  ID_GEST_CITTA: "97"
+  "citt\xC3\xA0": Catania
+  id_login: "457"
+gestione_citta_003: 
+  ID_GEST_CITTA: "7"
+  "citt\xC3\xA0": Torino
+  id_login: "17"
+gestione_citta_024: 
+  ID_GEST_CITTA: "56"
+  "citt\xC3\xA0": Trieste
+  id_login: "174"
+gestione_citta_045: 
+  ID_GEST_CITTA: "77"
+  "citt\xC3\xA0": Urbino
+  id_login: "744"
+gestione_citta_066: 
+  ID_GEST_CITTA: "98"
+  "citt\xC3\xA0": Catania
+  id_login: "457"
+gestione_citta_067: 
+  ID_GEST_CITTA: "99"
+  "citt\xC3\xA0": Genova
+  id_login: "724"
+gestione_citta_004: 
+  ID_GEST_CITTA: "8"
+  "citt\xC3\xA0": Bologna
+  id_login: "6"
+gestione_citta_025: 
+  ID_GEST_CITTA: "57"
+  "citt\xC3\xA0": Parma
+  id_login: "73"
+gestione_citta_046: 
+  ID_GEST_CITTA: "78"
+  "citt\xC3\xA0": Bologna
+  id_login: "827"
+gestione_citta_068: 
+  ID_GEST_CITTA: "100"
+  "citt\xC3\xA0": Torino
+  id_login: "978"
+gestione_citta_005: 
+  ID_GEST_CITTA: "28"
+  "citt\xC3\xA0": Padova
+  id_login: "7"
+gestione_citta_026: 
+  ID_GEST_CITTA: "58"
+  "citt\xC3\xA0": Torino
+  id_login: "44"
+gestione_citta_047: 
+  ID_GEST_CITTA: "79"
+  "citt\xC3\xA0": Perugia
+  id_login: "194"
+gestione_citta_070: 
+  ID_GEST_CITTA: "102"
+  "citt\xC3\xA0": Milano
+  id_login: "1798"
+gestione_citta_069: 
+  ID_GEST_CITTA: "101"
+  "citt\xC3\xA0": Italia
+  id_login: "324"
+gestione_citta_006: 
+  ID_GEST_CITTA: "30"
+  "citt\xC3\xA0": Bologna
+  id_login: "22"
+gestione_citta_027: 
+  ID_GEST_CITTA: "59"
+  "citt\xC3\xA0": Torino
+  id_login: "73"
+gestione_citta_048: 
+  ID_GEST_CITTA: "80"
+  "citt\xC3\xA0": Parma
+  id_login: "988"
+gestione_citta_071: 
+  ID_GEST_CITTA: "103"
+  "citt\xC3\xA0": Milano
+  id_login: "1798"
+gestione_citta_007: 
+  ID_GEST_CITTA: "31"
+  "citt\xC3\xA0": Pavia
+  id_login: "22"
+gestione_citta_028: 
+  ID_GEST_CITTA: "60"
+  "citt\xC3\xA0": Bologna
+  id_login: "248"
+gestione_citta_050: 
+  ID_GEST_CITTA: "82"
+  "citt\xC3\xA0": Perugia
+  id_login: "326"
+gestione_citta_049: 
+  ID_GEST_CITTA: "81"
+  "citt\xC3\xA0": Milano
+  id_login: "395"
+gestione_citta_072: 
+  ID_GEST_CITTA: "104"
+  "citt\xC3\xA0": Sassari
+  id_login: "1062"
+gestione_citta_008: 
+  ID_GEST_CITTA: "33"
+  "citt\xC3\xA0": Pavia
+  id_login: "52"
+gestione_citta_030: 
+  ID_GEST_CITTA: "62"
+  "citt\xC3\xA0": Udine
+  id_login: "174"
+gestione_citta_029: 
+  ID_GEST_CITTA: "61"
+  "citt\xC3\xA0": Trieste
+  id_login: "174"
+gestione_citta_051: 
+  ID_GEST_CITTA: "83"
+  "citt\xC3\xA0": Milano
+  id_login: "395"
+gestione_citta_073: 
+  ID_GEST_CITTA: "105"
+  "citt\xC3\xA0": Alghero (SS)
+  id_login: "1062"
+gestione_citta_052: 
+  ID_GEST_CITTA: "84"
+  "citt\xC3\xA0": Padova
+  id_login: "133"
+gestione_citta_010: 
+  ID_GEST_CITTA: "35"
+  "citt\xC3\xA0": Pisa
+  id_login: "47"
+gestione_citta_009: 
+  ID_GEST_CITTA: "34"
+  "citt\xC3\xA0": Trieste
+  id_login: "65"
+gestione_citta_031: 
+  ID_GEST_CITTA: "63"
+  "citt\xC3\xA0": Bologna
+  id_login: "324"
+gestione_citta_074: 
+  ID_GEST_CITTA: "106"
+  "citt\xC3\xA0": Pavia
+  id_login: "82"
+gestione_citta_011: 
+  ID_GEST_CITTA: "36"
+  "citt\xC3\xA0": Pisa
+  id_login: "45"
+gestione_citta_032: 
+  ID_GEST_CITTA: "64"
+  "citt\xC3\xA0": Ferrara
+  id_login: "294"
+gestione_citta_053: 
+  ID_GEST_CITTA: "85"
+  "citt\xC3\xA0": Modena
+  id_login: "331"
+gestione_citta_075: 
+  ID_GEST_CITTA: "107"
+  "citt\xC3\xA0": Perugia
+  id_login: "179"
+gestione_citta_012: 
+  ID_GEST_CITTA: "37"
+  "citt\xC3\xA0": Pavia
+  id_login: "72"
+gestione_citta_033: 
+  ID_GEST_CITTA: "65"
+  "citt\xC3\xA0": Ferrara
+  id_login: "294"
+gestione_citta_054: 
+  ID_GEST_CITTA: "86"
+  "citt\xC3\xA0": Padova
+  id_login: "534"
+gestione_citta_076: 
+  ID_GEST_CITTA: "108"
+  "citt\xC3\xA0": Perugia
+  id_login: "1061"
+gestione_citta_013: 
+  ID_GEST_CITTA: "38"
+  "citt\xC3\xA0": Pavia
+  id_login: "82"
+gestione_citta_034: 
+  ID_GEST_CITTA: "66"
+  "citt\xC3\xA0": Bologna
+  id_login: "4"
+gestione_citta_055: 
+  ID_GEST_CITTA: "87"
+  "citt\xC3\xA0": Torino
+  id_login: "917"
+gestione_citta_077: 
+  ID_GEST_CITTA: "109"
+  "citt\xC3\xA0": Sassari
+  id_login: "599"
+gestione_citta_014: 
+  ID_GEST_CITTA: "39"
+  "citt\xC3\xA0": Ferrara
+  id_login: "41"
+gestione_citta_035: 
+  ID_GEST_CITTA: "67"
+  "citt\xC3\xA0": Genova
+  id_login: "277"
+gestione_citta_056: 
+  ID_GEST_CITTA: "88"
+  "citt\xC3\xA0": Macerata
+  id_login: "278"
+gestione_citta_078: 
+  ID_GEST_CITTA: "110"
+  "citt\xC3\xA0": Ferrara
+  id_login: "2116"
+gestione_citta_015: 
+  ID_GEST_CITTA: "41"
+  "citt\xC3\xA0": Bologna
+  id_login: "23"
+gestione_citta_036: 
+  ID_GEST_CITTA: "68"
+  "citt\xC3\xA0": Genova
+  id_login: "277"
+gestione_citta_057: 
+  ID_GEST_CITTA: "89"
+  "citt\xC3\xA0": Alghero (SS)
+  id_login: "599"
+gestione_citta_079: 
+  ID_GEST_CITTA: "111"
+  "citt\xC3\xA0": Ferrara
+  id_login: "2116"
+gestione_citta_016: 
+  ID_GEST_CITTA: "47"
+  "citt\xC3\xA0": Milano
+  id_login: "150"
+gestione_citta_037: 
+  ID_GEST_CITTA: "69"
+  "citt\xC3\xA0": Perugia
+  id_login: "266"
+gestione_citta_058: 
+  ID_GEST_CITTA: "90"
+  "citt\xC3\xA0": Camerino (MC)
+  id_login: "1049"
+gestione_citta_017: 
+  ID_GEST_CITTA: "48"
+  "citt\xC3\xA0": Bologna
+  id_login: "163"
+gestione_citta_038: 
+  ID_GEST_CITTA: "70"
+  "citt\xC3\xA0": Pisa
+  id_login: "193"
+gestione_citta_060: 
+  ID_GEST_CITTA: "92"
+  "citt\xC3\xA0": Diano Marina (IM)
+  id_login: "724"
+gestione_citta_059: 
+  ID_GEST_CITTA: "91"
+  "citt\xC3\xA0": Camerino (MC)
+  id_login: "278"
+gestione_citta_018: 
+  ID_GEST_CITTA: "50"
+  "citt\xC3\xA0": Ivrea (TO)
+  id_login: "85"
+gestione_citta_040: 
+  ID_GEST_CITTA: "72"
+  "citt\xC3\xA0": Torino
+  id_login: "379"
+gestione_citta_039: 
+  ID_GEST_CITTA: "71"
+  "citt\xC3\xA0": Torino
+  id_login: "124"
+gestione_citta_061: 
+  ID_GEST_CITTA: "93"
+  "citt\xC3\xA0": Catania
+  id_login: "1345"
+gestione_citta_019: 
+  ID_GEST_CITTA: "51"
+  "citt\xC3\xA0": Perugia
+  id_login: "194"
+gestione_citta_041: 
+  ID_GEST_CITTA: "73"
+  "citt\xC3\xA0": Torino
+  id_login: "379"
+gestione_citta_062: 
+  ID_GEST_CITTA: "94"
+  "citt\xC3\xA0": Catania
+  id_login: "917"
+gestione_citta_020: 
+  ID_GEST_CITTA: "52"
+  "citt\xC3\xA0": Perugia
+  id_login: "187"
+gestione_citta_063: 
+  ID_GEST_CITTA: "95"
+  "citt\xC3\xA0": Pisa
+  id_login: "542"
+gestione_citta_021: 
+  ID_GEST_CITTA: "53"
+  "citt\xC3\xA0": Perugia
+  id_login: "194"
+gestione_citta_042: 
+  ID_GEST_CITTA: "74"
+  "citt\xC3\xA0": Genova
+  id_login: "4"

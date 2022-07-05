@@ -1,0 +1,13 @@
+<h1>Rifacciamo Orgie daccapo</h1>
+
+<% Message.all.each {|msg|  %>
+<p>	
+	<span class='message' ><%= link_to( msg,msg ) rescue "MsgErr: #{$!}" %></span>
+<% } %>
+
+TBD last users,,,
+
+<% User.all.each {|user|  %>
+<p>	
+	<tt class='user'><%= user.to_s %></tt>
+<% } %>

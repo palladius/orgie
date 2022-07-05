@@ -1,0 +1,23 @@
+<p>
+  <b>Nomecitta:</b>
+  <%=h @city.nomecitta %>
+</p>
+
+<p>
+  <b>Sigla:</b>
+  <%=h @city.sigla %>
+</p>
+
+<p>
+  <b>Regione:</b>
+  <%=h @city.regione %>
+</p>
+
+<p>
+  <b>Id pseudoid:</b>
+  <%=h @city.id_pseudoid %>
+</p>
+
+
+<%= link_to 'Edit', edit_city_path(@city) %> |
+<%= link_to 'Back', cities_path %>

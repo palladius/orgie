@@ -1,0 +1,146 @@
+--- 
+xxx_meta_022: 
+  nome_tabella: messaggi
+  nome_campo: id_login
+  tipo_campo: numero
+  ID: "22"
+xxx_meta_011: 
+  nome_tabella: goliardi
+  nome_campo: data di iscrizione
+  tipo_campo: data
+  ID: "11"
+xxx_meta_023: 
+  nome_tabella: messaggi
+  nome_campo: messaggio
+  tipo_campo: memo
+  ID: "23"
+xxx_meta_012: 
+  nome_tabella: goliardi
+  nome_campo: bollialliscrizione
+  tipo_campo: numero
+  ID: "12"
+xxx_meta_001: 
+  nome_tabella: goliardi
+  nome_campo: id_gol
+  tipo_campo: numero
+  ID: "1"
+xxx_meta_024: 
+  nome_tabella: messaggi
+  nome_campo: data_creazione
+  tipo_campo: data
+  ID: "24"
+xxx_meta_013: 
+  nome_tabella: goliardi
+  nome_campo: email
+  tipo_campo: email
+  ID: "13"
+xxx_meta_002: 
+  nome_tabella: goliardi
+  nome_campo: nome
+  tipo_campo: testo
+  ID: "2"
+xxx_meta_025: 
+  nome_tabella: messaggi
+  nome_campo: pubblico
+  tipo_campo: bool
+  ID: "25"
+xxx_meta_014: 
+  nome_tabella: goliardi
+  nome_campo: contascazzi
+  tipo_campo: numero
+  ID: "14"
+xxx_meta_003: 
+  nome_tabella: goliardi
+  nome_campo: cognome
+  tipo_campo: testo
+  ID: "3"
+xxx_meta_026: 
+  nome_tabella: xxx_meta
+  nome_campo: id
+  tipo_campo: numero
+  ID: "26"
+xxx_meta_015: 
+  nome_tabella: goliardi
+  nome_campo: privacy_mail
+  tipo_campo: bool
+  ID: "15"
+xxx_meta_004: 
+  nome_tabella: goliardi
+  nome_campo: data processo
+  tipo_campo: data
+  ID: "4"
+xxx_meta_027: 
+  nome_tabella: xxx_meta
+  nome_campo: nome_tabella
+  tipo_campo: testo
+  ID: "27"
+xxx_meta_016: 
+  nome_tabella: goliardi
+  nome_campo: privacy_cell
+  tipo_campo: bool
+  ID: "16"
+xxx_meta_005: 
+  nome_tabella: goliardi
+  nome_campo: indirizzo
+  tipo_campo: testo
+  ID: "5"
+xxx_meta_028: 
+  nome_tabella: xxx_meta
+  nome_campo: nome_campo
+  tipo_campo: testo
+  ID: "28"
+xxx_meta_017: 
+  nome_tabella: goliardi
+  nome_campo: privacy_address
+  tipo_campo: bool
+  ID: "17"
+xxx_meta_006: 
+  nome_tabella: goliardi
+  nome_campo: num cellulare
+  tipo_campo: testo
+  ID: "6"
+xxx_meta_029: 
+  nome_tabella: xxx_meta
+  nome_campo: tipo_campo
+  tipo_campo: testo
+  ID: "29"
+xxx_meta_018: 
+  nome_tabella: goliardi
+  nome_campo: foto
+  tipo_campo: file
+  ID: "18"
+xxx_meta_007: 
+  nome_tabella: goliardi
+  nome_campo: nome goliardico
+  tipo_campo: testo
+  ID: "7"
+xxx_meta_020: 
+  nome_tabella: messaggi
+  nome_campo: id_msg
+  tipo_campo: numero
+  ID: "20"
+xxx_meta_019: 
+  nome_tabella: goliardi
+  nome_campo: id_facolta
+  tipo_campo: numero
+  ID: "19"
+xxx_meta_008: 
+  nome_tabella: goliardi
+  nome_campo: nome nobiliare
+  tipo_campo: testo
+  ID: "8"
+xxx_meta_021: 
+  nome_tabella: messaggi
+  nome_campo: titolo
+  tipo_campo: testo
+  ID: "21"
+xxx_meta_010: 
+  nome_tabella: goliardi
+  nome_campo: id_login
+  tipo_campo: numero
+  ID: "10"
+xxx_meta_009: 
+  nome_tabella: goliardi
+  nome_campo: id_ordine
+  tipo_campo: numero
+  ID: "9"

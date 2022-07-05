@@ -1,0 +1,43 @@
+--- 
+xxx_memoz_008: 
+  chiave: db_ver
+  valore: "8.1"
+xxx_memoz_001: 
+  chiave: benvenuto
+  valore: "Bela regaz! Sto ammodernando il sito (causa ferie sine viaggio); se qualcuno ha segnalazioni, consigli, cose da togliere o cose da aggiungere essi sono apprezzati. SOLO VIA MAIL PERO' (n&eacute; al Contavalli, a meno che non siate gnocche, n\xC3\xA8 via MSN), all'indirizzo: <a href='mailto:palladius@goliardia.org'>palladius@goliardia.org</a><br/> \r\n\
+    <br/>\r\n\
+    Grazie, \r\n\
+    PAL\r\n"
+xxx_memoz_002: 
+  chiave: didascaliahome
+  valore: Pal a temple bar con un famoso calciatore spagnolo... penso del Real ma non chiedetemi che sono ignorante..
+xxx_memoz_003: 
+  chiave: header
+  valore: "Benvenuti nel sito <a href=\"http://www.goliardia.it\">www.goliardia.it</a>!<br/>\r\n\
+    \r\n\
+    1) Questo sito e' aperto a tutti ma SOLO sotto iscrizione, questo per poter moderare meno il forum e per mantenere un po' sotto controllo le informazioni. Se vi iscrivete, NON riceverete spam ne merdate varie poiche' io stesso le odio, e odio infliggere cio' che odio ricevere.<br>\r\n\
+    \r\n\
+    2) Il sito e' diventato <i><a href='http://www.fsf.org/'>open source</a></i> (ovvero libero). Nella <a href=\"http://sourceforge.net/projects/opengoliardia/\">mia pagina su <b>Sourceforge</b></a> Da l\xC3\xA0, potete scaricare liberamente il codice, sotto licenza <a href='http://www.gnu.org/licenses/'>GNU GPL</a>. Potete <i>altres\xC3\xAC</i> (ieri sera mi son letto l'intera A dello Zingarelli) scaricare la skin del sito, modificarla e spedirmela; se mi date una mano anche solo con i CSS il sito potrebbe3 essere pi\xC3\xB9 accattivante<br>\r\n\
+    <b>PS</b> Un grazie a Buddha, Npp e Kash per hosting e ciappini vari; un grazie inoltre ai miei aiutanti (Quine, Vipera, Cavedano, Gimmygod, ...) che mi aiutano a tenere tutto un po' pulito e in ordine....<br>\r\n\
+    <b>PPS</b> Come avrete notato, il sito sta invecchiando... negli ultimi tempi \xC3\xA8 notevolmente ingiallito. Se qualcuno vuol dare una mano di bianco... ;)<br>\r\n\
+    <div align=right><i>(22 gen 07, il webmaster <a href=\"http://www.palladius.it/\">Palladius</a>)</i></div>"
+xxx_memoz_004: 
+  chiave: fotoprimapagina
+  valore: P1010975 Io e un famoso calciatore.JPG
+xxx_memoz_005: 
+  chiave: qgfdp
+  valore: "el Palladius Maric\xC3\xB2n"
+xxx_memoz_006: 
+  chiave: ceingLog
+  valore: "              STORIA DEL DIBBI'!!!\r\n\
+    \r\n\
+    2007gen21: aggiunto un campo nei memoz come didascalia: didascalia_home.\r\n\
+    \r\n \r\n\
+    2007gen06: messa una cosa sulle nomine (m_bAttiva ) da mettere in futuro. e messa nelel CARICHE m_nImportanza per l'importanza della carica rispetto alle altre nell'ordine...\r\n\
+    \r\n\
+    2007gen06: aggiunto negli ordini il campo 'm_nPrecedenzaCittadina ' x ottemperare alla richiesta di moscatelli di rodinare gli ordini all'interno di una citt\xC3\xA0.\r\n\
+    \r\n\
+    2006dic08: messo tutto su CVS. Giorno campale!!!\r\n"
+xxx_memoz_007: 
+  chiave: db_type
+  valore: production

@@ -1,0 +1,51 @@
+<div id='nav-links'>
+  <% separator = '|'
+  #minor models are listed in the drop-down select box
+  #major models are listed in text across the top of the screen
+  minor_models = ["billing_types","client_roles", "client_positions", "provider_roles", "provider_positions", "salutations", "keyvalues", "categories", "major_groups"]
+  #major_models = user_session.viewable_links(user_session.category.name) - minor_models - ["client_notes"] 
+  major_models = %w[ users goliards cities orders  ]
+%> 
+  <%= link_to( image_tag('icons/home.png', :width => 15, :border => 0, :controller => :site, :action => :index) )%>
+  <a href='/site'>Home</a> <%= separator %>
+  
+  <% for modl in major_models.sort!  -%>
+    <span class="<%= modl.singularize.gsub('_','-') %>-title">
+      <%= link_to (image_tag 'icons/models/'+modl.singularize+'.png', :width => 15, :border => 0),
+        :controller => modl,
+        :action => :index %>
+      <a href='/<%=modl%>/'><%= modl.capitalize.gsub("_"," ") %></a>
+      <%= separator unless  modl == major_models.last %>
+    </span>
+  <% end %>
+
+  <script language="javascript" type="text/javascript">
+    <!--
+    //for redirecting the user's page to a selected model
+    function menu_goto()
+    {
+
+      var baseurl = "<%=
+        case Socket.gethostname.downcase
+          when "nemesis"          then "http://localhost:3000"
+          when 'slartibartfast'   then "http://localhost:3000"
+          when 'devalera'  then "https://devalera.heanet.ie"
+        end %>" ;
+      box = document.getElementById('newurl')
+      selecteditem = box.selectedIndex ;
+      newurl = box.options[ selecteditem ].value ;
+      if (newurl.length != 0) { location.href = baseurl + newurl ; }
+    }
+    //-->
+  </script>
+  
+  <% if minor_models.size > 0 then %>
+    &nbsp;
+    <select id="newurl" name="newurl" onchange="menu_goto(this.form)" style="font-size:85%">
+      <option value="" selected="selected">Other</option>
+      <% for modl in %w[ site user ]  # (user_session.viewable_links(user_session.category.name)-major_models).sort! %>
+        <option value="/<%= modl -%>"><%= modl.capitalize.gsub("_"," ") -%></option>
+      <% end %>
+    </select>
+  <% end %>
+</div>

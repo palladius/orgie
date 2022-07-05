@@ -1,0 +1,2 @@
+class FooMessageController < ApplicationController
+end

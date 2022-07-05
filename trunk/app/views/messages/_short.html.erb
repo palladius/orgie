@@ -1,0 +1,20 @@
+<% 
+	tr_class= "tabhome#{1 + ix % 2}" rescue "Err: tabhome0 #{$!}" 
+%>
+<table width='100%'> 
+  <tr class="<%= tr_class %>" width="500">
+	<td>
+		<a href="/messages/<%= message.id %>">
+			<div align='Left'><%= message.title %></div>
+ 		</a>
+		<%=  tr_class if tr_class =~ /^Err/ %>
+		<small>
+			<div align="Right">(<i class='utente'><%= message.user %></i>, <%= time_ago_in_words message.data_creazione %> ago)</div>
+		</small>
+			<div class='reportmsg_body'>
+				<%= excerpt(message.messaggio, '', 50 ) %>
+				<i>(<a href='pag_messaggi.php?ID_MSG=58508'>read more</a>)</i>
+			</div>
+	</td>
+  </tr>
+</table>

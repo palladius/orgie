@@ -1,0 +1,126 @@
+--- 
+colorefeluca_018: 
+  colore_default: rosso
+  "Facolt\xC3\xA0": Medicina
+  ID_COLOREFELUCA: "18"
+  "citt\xC3\xA0": Bologna
+colorefeluca_007: 
+  colore_default: rosso
+  "Facolt\xC3\xA0": Farmacia
+  ID_COLOREFELUCA: "7"
+  "citt\xC3\xA0": Bologna
+colorefeluca_020: 
+  colore_default: bluone
+  "Facolt\xC3\xA0": Scemenze politiche
+  ID_COLOREFELUCA: "20"
+  "citt\xC3\xA0": Bologna
+colorefeluca_019: 
+  colore_default: bianco
+  "Facolt\xC3\xA0": Pedagogia
+  ID_COLOREFELUCA: "19"
+  "citt\xC3\xA0": Bologna
+colorefeluca_008: 
+  colore_default: bianco
+  "Facolt\xC3\xA0": Filosofia
+  ID_COLOREFELUCA: "8"
+  "citt\xC3\xA0": Bologna
+colorefeluca_021: 
+  colore_default: bianco
+  "Facolt\xC3\xA0": Scienze della Comunicazione
+  ID_COLOREFELUCA: "21"
+  "citt\xC3\xA0": Bologna
+colorefeluca_010: 
+  colore_default: blu
+  "Facolt\xC3\xA0": Giurisprudenza
+  ID_COLOREFELUCA: "10"
+  "citt\xC3\xA0": Bologna
+colorefeluca_009: 
+  colore_default: verde
+  "Facolt\xC3\xA0": Fisica
+  ID_COLOREFELUCA: "9"
+  "citt\xC3\xA0": Bologna
+colorefeluca_022: 
+  colore_default: bianco
+  "Facolt\xC3\xA0": Storia
+  ID_COLOREFELUCA: "22"
+  "citt\xC3\xA0": Bologna
+colorefeluca_011: 
+  colore_default: verde
+  "Facolt\xC3\xA0": Informatica
+  ID_COLOREFELUCA: "11"
+  "citt\xC3\xA0": Bologna
+colorefeluca_023: 
+  colore_default: marrone
+  "Facolt\xC3\xA0": "altro\xE2\x80\xA6"
+  ID_COLOREFELUCA: "23"
+  "citt\xC3\xA0": Bologna
+colorefeluca_012: 
+  colore_default: nero
+  "Facolt\xC3\xA0": Ingegneria
+  ID_COLOREFELUCA: "12"
+  "citt\xC3\xA0": Bologna
+colorefeluca_001: 
+  colore_default: nero
+  "Facolt\xC3\xA0": Architettura
+  ID_COLOREFELUCA: "1"
+  "citt\xC3\xA0": Bologna
+colorefeluca_024: 
+  colore_default: rosso
+  "Facolt\xC3\xA0": Veterinaria
+  ID_COLOREFELUCA: "24"
+  "citt\xC3\xA0": Bologna
+colorefeluca_013: 
+  colore_default: amaranto
+  "Facolt\xC3\xA0": Interprete e Traduttore
+  ID_COLOREFELUCA: "13"
+  "citt\xC3\xA0": Bologna
+colorefeluca_002: 
+  colore_default: zucchero
+  "Facolt\xC3\xA0": Belle arti
+  ID_COLOREFELUCA: "2"
+  "citt\xC3\xA0": Bologna
+colorefeluca_025: 
+  colore_default: grigio
+  "Facolt\xC3\xA0": Economia
+  ID_COLOREFELUCA: "25"
+  "citt\xC3\xA0": Torino
+colorefeluca_014: 
+  colore_default: bianco
+  "Facolt\xC3\xA0": Lettere
+  ID_COLOREFELUCA: "14"
+  "citt\xC3\xA0": Bologna
+colorefeluca_003: 
+  colore_default: giallo
+  "Facolt\xC3\xA0": Biologia
+  ID_COLOREFELUCA: "3"
+  "citt\xC3\xA0": Bologna
+colorefeluca_015: 
+  colore_default: bianco
+  "Facolt\xC3\xA0": Lingue
+  ID_COLOREFELUCA: "15"
+  "citt\xC3\xA0": Bologna
+colorefeluca_004: 
+  colore_default: verde
+  "Facolt\xC3\xA0": Biotecnologia
+  ID_COLOREFELUCA: "4"
+  "citt\xC3\xA0": Bologna
+colorefeluca_016: 
+  colore_default: bianco
+  "Facolt\xC3\xA0": Magistero
+  ID_COLOREFELUCA: "16"
+  "citt\xC3\xA0": Bologna
+colorefeluca_005: 
+  colore_default: verde
+  "Facolt\xC3\xA0": CTF
+  ID_COLOREFELUCA: "5"
+  "citt\xC3\xA0": Bologna
+colorefeluca_017: 
+  colore_default: verde
+  "Facolt\xC3\xA0": Matematica
+  ID_COLOREFELUCA: "17"
+  "citt\xC3\xA0": Bologna
+colorefeluca_006: 
+  colore_default: giallo
+  "Facolt\xC3\xA0": Economia
+  ID_COLOREFELUCA: "6"
+  "citt\xC3\xA0": Bologna

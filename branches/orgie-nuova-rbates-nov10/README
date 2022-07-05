@@ -1,0 +1,12 @@
+= About =
+
+This is Orgie
+
+= INSTALL =
+
+rails new orgie-ng
+cd orgie-ng
+echo 'gem "nifty-generators"' >> Gemfile
+rails g --force nifty:layout
+rails g --force nifty:authentication
+rails g nifty:scaffold goliard name:string surname:string process_date:datetime address:string mobile:string goliardic_name:string noble_name:string order_id:integer user_id:integer subscription:datetime subscription_stamps:integer email:string scazzi_count:integer privacy_mail:boolean privacy_cell:boolean privacy_address:boolean photo:string faculty_id:integer points:integer male:boolean title:string

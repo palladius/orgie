@@ -1,0 +1,4167 @@
+--- 
+ordini_145: 
+  ID_ORD: "158"
+  m_fileImmagine: sgc.jpg
+  Nome_completo: Sacra Goliae Conphraternita
+  m_bSerio: "1"
+  datadinascita: 2009-09-05 20:38:32
+  emailordine: ---
+  data_creazione: 2009-09-05 20:38:32
+  id_utente_creatore: "542"
+  storia: "Nata nel 1969. Ordine Sovrano in Milano e, anni fa, con ordini facenti parte anche in altre citt\xC3\xA0."
+  Motto: ---
+  Sigla: S.G.C.
+  indirizzo: Guido Sessa - Via Papa Gregorio XIV, 16 - 20100 Milano
+  note: ---
+  m_fileImmagineTn: sgc_420.gif
+  "Citt\xC3\xA0": Milano
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Golia
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_117: 
+  ID_ORD: "129"
+  m_fileImmagine: ca_mert.gif
+  Nome_completo: GranDucato di Camerino
+  m_bSerio: "1"
+  datadinascita: 2009-04-21 20:42:46
+  emailordine: granducatocamerino@yahoo.it
+  data_creazione: 2009-04-21 20:42:46
+  id_utente_creatore: "3403"
+  storia: Paga da bere se vuoi sapere
+  Motto: --
+  Sigla: G.D.C.
+  indirizzo: |-
+    C/o Valentina Kropp Via Le Mosse n.64
+    Camerino (MC) 62032
+  note: Pay for say (quanto siamo poliglotti)
+  m_fileImmagineTn: ca-mert.gif
+  "Citt\xC3\xA0": Camerino (MC)
+  m_nPrecedenzaCittadina: "-1"
+  m_bInSonno: "0"
+  Nome_veloce: GranDucato di Camerino
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_031: 
+  ID_ORD: "31"
+  m_fileImmagine: pg-calif1.gif
+  Nome_completo: Califfato Calabriae Sauditae
+  m_bSerio: "1"
+  datadinascita: 2009-03-08 21:02:41
+  emailordine: ignota
+  data_creazione: 2009-03-08 21:02:41
+  id_utente_creatore: "4144"
+  storia: "null"
+  Motto: "null"
+  Sigla: C.C.S.
+  indirizzo: "Sirchia Califfo: Antonello Cairone via G. Verga 71, 06125 perugia (PG) c/o Ricci Stefano"
+  note: "null"
+  m_fileImmagineTn: pg-calif1.gif
+  "Citt\xC3\xA0": Perugia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Califfato
+  ID_ORD_Vassallo_di: "10"
+  Sovrano: "0"
+ordini_003: 
+  ID_ORD: "3"
+  m_fileImmagine: pg-scorp.gif
+  Nome_completo: Venerabilis Ordo Scorpionis
+  m_bSerio: "1"
+  datadinascita: 2008-10-15 14:59:31
+  emailordine: ignota
+  data_creazione: 2008-10-15 14:59:31
+  id_utente_creatore: "542"
+  storia: "null"
+  Motto: E' bello doppo il morire vivere anchora!
+  Sigla: V.O.S.
+  indirizzo: Ercole Cardinali Via Serchio 19 - Ponte Valleceppi 06100 Perugia
+  note: "null"
+  m_fileImmagineTn: pg-scorp.gif
+  "Citt\xC3\xA0": Perugia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Scorpionato
+  ID_ORD_Vassallo_di: "10"
+  Sovrano: "0"
+ordini_146: 
+  ID_ORD: "159"
+  m_fileImmagine: pra.jpg
+  Nome_completo: +Pontificatus Romani Archigymnasii
+  m_bSerio: "1"
+  datadinascita: 2008-12-10 19:44:35
+  emailordine: omardami@libero.it
+  data_creazione: 2008-12-10 19:44:35
+  id_utente_creatore: "3312"
+  storia: Al bar100gr...
+  Motto: "null"
+  Sigla: +PRA
+  indirizzo: Ade - Omar D'Amico, via Ivrea num.26, 00183,Roma
+  note: "C'ho gi\xC3\xA0 sete..."
+  m_fileImmagineTn: pra.jpg
+  "Citt\xC3\xA0": Roma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Pontificatus
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_118: 
+  ID_ORD: "130"
+  m_fileImmagine: tavolata.gif
+  Nome_completo: Nobile Ordine Tavolata di Lorenzo il Magnifico
+  m_bSerio: "1"
+  datadinascita: 2008-06-04 13:24:36
+  emailordine: tavolata@gmail.com
+  data_creazione: 2008-06-04 13:24:36
+  id_utente_creatore: "1067"
+  storia: "Ordine elitario e trasversale \r\n\
+    attivo fondato da S.E. Napoleone I Clericus e dal Sen. Jesus il 16 Aprile del 1972. \r\n\
+    Il CapoOrdine, \r\n\
+    Il Magnifico Principe, pur riconoscendo \r\n\
+    l'autorit\xC3\xA0 del Pontefice non diventa Vescovo in quanto\r\n\
+    da Statuto si tratta appunto di un Ordine e non di una Vola del Corno. \r\n\
+    Caratteristica peculiare ed unica: gli insigniti prendono il nome\r\n\
+    di un personaggio storicamente contemporaneo al Magnifico, scelto da loro stessi."
+  Motto: "null"
+  Sigla: N.O.T.L.M.
+  indirizzo: "c/o Podest\xC3\xA0 C.so Re Umberto 132 Torino"
+  note: E' ufficialmente iniziata la new age!
+  m_fileImmagineTn: tavolata.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Tavolata
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_032: 
+  ID_ORD: "32"
+  m_fileImmagine: pg-logg.gif
+  Nome_completo: Loggia de le Vergini
+  m_bSerio: "1"
+  datadinascita: 2007-11-20 11:41:35
+  emailordine: g_ra@hotmail.it
+  data_creazione: 2007-11-20 11:41:35
+  id_utente_creatore: "542"
+  storia: Dopo un lunghissimo ciclo mestruale di quasi 6 anni finalmente nel Novembre del 2006 i nostri ovociti (la Reggente fa medicina mica zizzichiapetalunume!) hanno ripreso a viaggiare per le nostre arrapatissime tube!!!
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: Graziana Martino, Via Piero della Francesca 33, 06125 Perugia (PG)
+  note: "null"
+  m_fileImmagineTn: pg-logg.gif
+  "Citt\xC3\xA0": Perugia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Loggia
+  ID_ORD_Vassallo_di: "10"
+  Sovrano: "0"
+ordini_004: 
+  ID_ORD: "4"
+  m_fileImmagine: bo-melan.gif
+  Nome_completo: Venerabile Ordine della Melangola Abruzzese
+  m_bSerio: "1"
+  datadinascita: 2008-03-12 16:49:27
+  emailordine: ignota
+  data_creazione: 2008-03-12 16:49:27
+  id_utente_creatore: "169"
+  storia: "null"
+  Motto: Forti e Gentili
+  Sigla: VOM
+  indirizzo: |-
+    Via Isonzo 9,  40033 Casalecchio di Reno (Bo) 
+    c/o Ariemme
+  note: Cazzo quanto cantano!!P.S. Attenti alle metafore del Capoccia.......
+  m_fileImmagineTn: bo-melan.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1994"
+  m_bInSonno: "0"
+  Nome_veloce: Melangola
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_060: 
+  ID_ORD: "61"
+  m_fileImmagine: "null"
+  Nome_completo: Ven. Ordine di Nostra Santa Madre Maria di Leuca
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: |
+    Ordine scoperto da Aladano e di cui sono stati poi successivamente insigniti Truciolo, Quasimodo e ignari pisani, genovesi, tergestini...
+
+  Motto: facciamo uno scambio di insegne?
+  Sigla: VOSML
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: "null"
+  "Citt\xC3\xA0": Lecce
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: S. Maria di Leuca
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "1"
+ordini_147: 
+  ID_ORD: "161"
+  m_fileImmagine: monatti.jpg
+  Nome_completo: Ordo Monattorum
+  m_bSerio: "1"
+  datadinascita: 2009-05-05 15:53:29
+  emailordine: ordo.monattorum@gmail.com
+  data_creazione: 2009-05-05 15:53:29
+  id_utente_creatore: "1112"
+  storia: "Ordine della Universit\xC3\xA0 Cattolica del Sacro Cuore di Milano. Fa parte della Sacra Goliae Conphraternita."
+  Motto: Peste vi colga!!
+  Sigla: O.M.
+  indirizzo: ---
+  note: Viva la Golia, muoia la marmaglia!
+  m_fileImmagineTn: monatti_rid.jpg
+  "Citt\xC3\xA0": Milano
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Monatti
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_119: 
+  ID_ORD: "131"
+  m_fileImmagine: sciure.gif
+  Nome_completo: Le Sciure
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: |
+    
+
+  Motto: odiiiiiiiiiiiiiiiiiiii
+  Sigla: Sciure
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: sciure.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Sciure
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_033: 
+  ID_ORD: "33"
+  m_fileImmagine: soas.gif
+  Nome_completo: SUPREMUS ORDO AUREI SCORPIONIS
+  m_bSerio: "1"
+  datadinascita: 2008-02-16 14:33:08
+  emailordine: soas@virgilio.it
+  data_creazione: 2008-02-16 14:33:08
+  id_utente_creatore: "4342"
+  storia: "Il S.O.A.S. di Ivrea\r\n\
+    \r\n\
+    Il S.O.A.S. \xC3\xA8 l\xE2\x80\x99Ordine Goliardico Sovrano in Ivrea (Eporedia) e Canavese, territorio situato all\xE2\x80\x99estremo nord occidentale del Piemonte, ai confini con la Valle d\xE2\x80\x99Aosta, zona di transito commerciale fin dai tempi dell\xE2\x80\x99 antico Impero romano.\r\n\
+    \r\n\
+    Le origini del famoso e tanto amato Carnevale d\xE2\x80\x99Ivrea risalgono ai primi anni del 1800 e questa tradizionale e originalissima festa ha permesso che anche ad Ivrea trovasse spazio e si consolidasse Nostra Santa Madre Goliardia.\r\n\
+    \r\n\
+    In una citt\xC3\xA0 che non \xC3\xA8 sede universitaria la Goliardia si \xC3\xA8 singolarmente inserita in un contesto fortemente e giustamente legato al Carnevale, costruendo una tradizione affermata e riconosciuta ancora oggi.\r\n\
+    \r\n\
+    Origine e Fondazione\r\n\
+    \r\n\
+    I Goliardi ad Ivrea sono sempre esistiti\xE2\x80\xA6 ma \xC3\xA8 a partire dai primi anni del Novecento che gli studenti eporediesi iniziano a distinguersi e a lottare per ottenere una propria autonomia rispetto a Torino.\r\n\
+    \r\n\
+    Ma il felice e mitico fervore degli anni della Belle Epoqu\xC3\xA8 viene presto interrotto dalla parentesi del Ventennio; con esso anche la Goliardia scompare, un po\xE2\x80\x99 come nel resto d\xE2\x80\x99Italia.\r\n\
+    \r\n\
+    Soltanto a partire dal secondo dopoguerra si pu\xC3\xB2 parlare di nascita della Goliardia moderna ad Ivrea; in un primo tempo viene ricostituita la cos\xC3\xAC detta Associazione Universitaria Canavesana, gruppo votato alle attivit\xC3\xA0 ricreative e politico-culturali ma solo di facciata soprannominatasi \"goliardica\".\r\n\
+    \r\n\
+    In questo contesto un gruppo di studenti vicini ai costumi e alle leggi di N.S.M.G. inizia a costruire le fondamenta di quell\xE2\x80\x99Ordine goliardico che sar\xC3\xA0 a partire dagli anni cinquanta il Supremus Ordo Aurei Scorpionis.\r\n\
+    \r\n\
+    Ufficialmente il S.O.A.S. verr\xC3\xA0 riconosciuto per acclamazione Ordine Sovrano in Ivrea e Canavese, in qualit\xC3\xA0 di Ordine Goliardico Minore Italiano, nel corso del I Congresso Nazionale degli Ordini Sovrani e del III Convegno dei Principi della Goliardia Italiana, tenutosi il 29 e 30 aprile del 1961 presso la citt\xC3\xA0 di Genova.\r\n\
+    \r\n\
+    Il Fondatore\r\n\
+    \r\n\
+    Fondatore, Artefice, Motore e Anima carismatica e leggendaria del S.O.A.S. fu il valoroso Goliarda Pier Sandro Allera, Johannes IV Eporediensis, il gran-de \"Peru\". Principe del S.O.A.S. dal 1961 al 1965 Pier Sandro ha ricoperto la carica di Pontifex Maximus di Torino e per il successivo decennio come tenutario dell\xE2\x80\x99Ordine ha ricoperto la carica di Conservatore del S.O.A.S.\r\n\
+    \r\n\
+    Conosciuto e stimato dai vecchi goliardi di tutta Italia, Pier Sandro ha per molti anni recitato un ruolo di primo piano all\xE2\x80\x99interno dell\xE2\x80\x99Ordine e nel corso delle Feriae Matricularum e dei Convegni Goliardici di molte Piazze italiane.\r\n\
+    \r\n\
+    Territorio\r\n\
+    \r\n\
+    Al S.O.A.S. appartengono in signoria la citt\xC3\xA0 di Ivrea, Sua Sede tradizionale, e le terre del Canavese, citt\xC3\xA0, borghi e castelli, laghi e fiumi, confinando tali territori:\r\n\
+    \r\n        - ad oriente, con quelli posti sotto la giurisdizione degli Ordini Goliardici di Vercelli e Biella;\r\n\
+    \r\n        - a meridione, con I Domini Pontifici, amministrati direttamente dal S.O.T.C.a.P. e con le terre degli Ordini Goliardici di Chivasso e Settimo;\r\n\
+    \r\n        - ad occidente, ancora con I Domini Pontifici del S.O.T.C.a.P. e con I territori della Gallia transalpina posti sotto la giurisdizione della Universit\xC3\xA0 di Gr\xC3\xA8noble;\r\n\
+    \r\n        - a settentrione, con le terre sotto la giurisdizione della Goliardia della Valle d\xE2\x80\x99Aosta.\r\n\
+    \r\n\
+    Il Carnevale\r\n\
+    \r\n\
+    Lo Storico Carnevale d\xE2\x80\x99Ivrea richiama ogni anno migliaia di turisti provenienti da tutto il mondo.\r\n\
+    \r\n\
+    Nell\xE2\x80\x99 arco di una settimana ad Ivrea tutta la citt\xC3\xA0 dimentica gli impegni politici ed economici per concentrarsi nella manifestazione che consegna nelle mani dei personaggi storici le chiavi delle porte della citt\xC3\xA0: il Generale e la Mugnaia, lo Stato Maggiore, il Podest\xC3\xA0, il Sostituto Gran Cancelliere, gli Abb\xC3\xA0, gli Aranceri, I Goliardi ecc\xE2\x80\xA6\r\n\
+    \r\n\
+    Il S.O.A.S. inizia I festeggiamenti carnescialeschi con l\xE2\x80\x99Elezione del Praefectus per proseguire la settimana Santa con la Liberatio, la Fiaccolata Goliardica del sabato sera, la Cena Matricularum, l\xE2\x80\x99Abbruciamento degli Scarli\xE2\x80\xA6\r\n\
+    \r\n\
+    Attivit\xC3\xA0 dell\xE2\x80\x99 anno\r\n\
+    \r\n\
+    Ad Ivrea si \xC3\xA8 abituati a considerare la Goliardia come una parte del nostro Storico Carnevale, ma l\xE2\x80\x99attivit\xC3\xA0 del gruppo va ben oltre: nel corso dell\xE2\x80\x99intero anno accademico si succedono numerosi appuntamenti conviviali, feste e ricorrenze dove I Goliardi soassini possono esprimere il loro amore verso Bacco Tabacco e Venere.\r\n\
+    \r\n\
+    All\xE2\x80\x99inizio dell\xE2\x80\x99anno accademico (ottobre-novembre) avviene l\xE2\x80\x99Elezione del Principe, il Capo Ordine, che guider\xC3\xA0 il S.O.A.S. per tutto l\xE2\x80\x99anno."
+  Motto: "null"
+  Sigla: Real SOAS
+  indirizzo: "null"
+  note: www.netsurf.it/soas
+  m_fileImmagineTn: iv-soas.gif
+  "Citt\xC3\xA0": Ivrea (TO)
+  m_nPrecedenzaCittadina: "2"
+  m_bInSonno: "0"
+  Nome_veloce: SOAS
+  ID_ORD_Vassallo_di: "10"
+  Sovrano: "0"
+ordini_005: 
+  ID_ORD: "5"
+  m_fileImmagine: to-temp.gif
+  Nome_completo: Venerabilis Ordo Templarum Equitum
+  m_bSerio: "1"
+  datadinascita: 2008-05-29 19:55:40
+  emailordine: manolus@tin.it
+  data_creazione: 2008-05-29 19:55:40
+  id_utente_creatore: "17"
+  storia: I Templari erano famosi per due cose...
+  Motto: Deus Vult! Dio lo vuole....
+  Sigla: VOTE
+  indirizzo: |-
+    Templum Domini - 
+    Spianata del Tempio di Salomone, 1
+     - Gerusalemme
+  note: "Il Venerabilis Ordo Templarum Equitum \xC3\xA8 in sonno. I RosaCroce ne custodiscono i crismi, le regalia e la successione apostolica, in attesa del Risveglio, che consentiranno a Loro insindacabile giudizio.\r\n\
+    Essi inoltre perpetuano le relazioni di fraternit\xC3\xA0 studentesca e di mutuo appoggio con i tre Ordini ufficialmente gemellati con il Tempio: l'Arcana Vola Sacerdoti Druidi, il Venerabilis Ordo Scorpionis, e L'Academicus Neo-Louvaniensis Ordo."
+  m_fileImmagineTn: to-temp.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Templari
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_061: 
+  ID_ORD: "62"
+  m_fileImmagine: pd_calz.gif
+  Nome_completo: Accademia della Calza
+  m_bSerio: "1"
+  datadinascita: 2008-02-07 11:38:34
+  emailordine: lesa_elisa@hotmail.it
+  data_creazione: 2008-02-07 11:38:34
+  id_utente_creatore: "2607"
+  storia: "Fondata in Padova  rimasta sempre aperta e attiva, \xC3\xA8 la piu antica accademia patavina in attivit\xC3\xA0."
+  Motto: "Ors\xC3\xB9 la gonna alza!"
+  Sigla: C.A.
+  indirizzo: Elisa Rizzo, via Rovigo 19, padova
+  note: Accademia patavina sovrana in Belluno e sulle terre montane venete.
+  m_fileImmagineTn: pd_calz.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "-1"
+  m_bInSonno: "0"
+  Nome_veloce: Calza
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_148: 
+  ID_ORD: "160"
+  m_fileImmagine: soasm.gif
+  Nome_completo: Sacer Ordo Abatiae Sancti Marci
+  m_bSerio: "1"
+  datadinascita: 2007-01-30 20:21:56
+  emailordine: goliardia.soasm@gmail.com
+  data_creazione: 2007-01-30 20:21:56
+  id_utente_creatore: "3606"
+  storia: "null"
+  Motto: "Lido del Sole \xC3\xA8 come Rimini, Torre Mileto \xC3\xA8 come R"
+  Sigla: S.O.A.S.M.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: soasm.gif
+  "Citt\xC3\xA0": Foggia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: San Marco in Lamis
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_034: 
+  ID_ORD: "34"
+  m_fileImmagine: pr-lunig.gif
+  Nome_completo: Ducatus Lunigianae et Versiliae
+  m_bSerio: "1"
+  datadinascita: 2008-05-15 18:20:59
+  emailordine: gpellegrini@gmail.com
+  data_creazione: 2008-05-15 18:20:59
+  id_utente_creatore: "1664"
+  storia: storia
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: Giorgio Pellegrini Piazzale Buonarroti 1 43100 Parma
+  note: note
+  m_fileImmagineTn: pr-lunig.gif
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Lunigiana
+  ID_ORD_Vassallo_di: "26"
+  Sovrano: "0"
+ordini_006: 
+  ID_ORD: "6"
+  m_fileImmagine: bo-vasc.gif
+  Nome_completo: Il Vascello
+  m_bSerio: "1"
+  datadinascita: 2008-05-19 10:47:48
+  emailordine: ilvascello@email.it
+  data_creazione: 2008-05-19 10:47:48
+  id_utente_creatore: "63"
+  storia: "null"
+  Motto: Virtus non timet quod facit
+  Sigla: "-"
+  indirizzo: |-
+    Marco Bertoncelli
+    via Mondolfo, 9
+    40139 Bologna
+    (Ammiraglio)
+  note: "null"
+  m_fileImmagineTn: bo-vasc.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "5000"
+  m_bInSonno: "0"
+  Nome_veloce: Vascello
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_090: 
+  ID_ORD: "101"
+  m_fileImmagine: cornetto.gif
+  Nome_completo: sovrano ordo del cornetto
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: |
+    nato per ingrassare ulteriormente Gino....
+
+  Motto: du gust iz megl che uan!
+  Sigla: SOC
+  indirizzo: ""
+  note: |
+    nato in seguito agli schiamazzanti moti to****** 
+    
+
+  m_fileImmagineTn: cornetto_mini.jpg
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: cornetto
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_062: 
+  ID_ORD: "63"
+  m_fileImmagine: pi-fenice.gif
+  Nome_completo: Repubblica della Fenice d'Etruria
+  m_bSerio: "1"
+  datadinascita: 2007-11-12 15:38:36
+  emailordine: ignota
+  data_creazione: 2007-11-12 15:38:36
+  id_utente_creatore: "1818"
+  storia: Al Bar te la racconto e se mi va...
+  Motto: Semper Crescit Numquam Decrescit
+  Sigla: P.E.R.
+  indirizzo: Francesca Monoscalco, Largo Esperanto 1, 56124 Pisa
+  note: "-"
+  m_fileImmagineTn: pi-fenice_rid.gif
+  "Citt\xC3\xA0": Pisa
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Fenice d'Etruria
+  ID_ORD_Vassallo_di: "65"
+  Sovrano: "0"
+ordini_149: 
+  ID_ORD: "162"
+  m_fileImmagine: huelva_pequeno.jpg
+  Nome_completo: Tuna de Empresariales de Huelva
+  m_bSerio: "1"
+  datadinascita: 
+  emailordine: "-"
+  data_creazione: 2007-02-03 20:40:03
+  id_utente_creatore: "17"
+  storia: "null"
+  Motto: vinum laetificat cor hominis
+  Sigla: TdedH
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: huelva_pequeno.jpg
+  "Citt\xC3\xA0": Spagna
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Huelva
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_035: 
+  ID_ORD: "35"
+  m_fileImmagine: pr-rane.gif
+  Nome_completo: Ranae Tari
+  m_bSerio: "1"
+  datadinascita: 2007-01-08 09:44:40
+  emailordine: ignota
+  data_creazione: 2007-01-08 09:44:40
+  id_utente_creatore: "36"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "Magna Linguae me la farei proprio. Firmato: Palladius che tutto (almeno informaticamente) pu\xC3\xB2. :-)\r\n\
+    \r\n"
+  m_fileImmagineTn: pr-rane.gif
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Rane
+  ID_ORD_Vassallo_di: "26"
+  Sovrano: "0"
+ordini_007: 
+  ID_ORD: "7"
+  m_fileImmagine: pv-ludi.gif
+  Nome_completo: Supremus Ordo Disordinis Ticinensis
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "44"
+  storia: |
+    null
+    
+
+  Motto: In taberna quando sumus non curamus quid sid humus
+  Sigla: SODT
+  indirizzo: ""
+  note: |
+    null
+    
+
+  m_fileImmagineTn: pv-ludi.gif
+  "Citt\xC3\xA0": Pavia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Ludica
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_091: 
+  ID_ORD: "102"
+  m_fileImmagine: pr_camp.gif
+  Nome_completo: Contea del Campus
+  m_bSerio: "1"
+  datadinascita: 2005-04-12 00:55:36
+  emailordine: ignota
+  data_creazione: 2005-04-12 00:55:36
+  id_utente_creatore: "209"
+  storia: |
+    Siamo SBORONI!
+    viaggiamo solo con AmericanExpress!
+    e AMIAMO IL BUON VINO!
+     
+    
+              U!
+    
+    
+
+  Motto: "null"
+  Sigla: CDC
+  indirizzo: "null"
+  note: |
+    null
+    
+    
+
+  m_fileImmagineTn: pr_camp.gif
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Contea del Campus
+  ID_ORD_Vassallo_di: "26"
+  Sovrano: "0"
+ordini_063: 
+  ID_ORD: "64"
+  m_fileImmagine: pi_cea.gif
+  Nome_completo: Granducato della CEA
+  m_bSerio: "1"
+  datadinascita: 2005-03-17 18:04:10
+  emailordine: ignota
+  data_creazione: 2005-03-17 18:04:10
+  id_utente_creatore: "1633"
+  storia: "null"
+  Motto: Misurae Minimae, sed Virtutis Maximae
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: pi_cea.gif
+  "Citt\xC3\xA0": Pisa
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Cea
+  ID_ORD_Vassallo_di: "65"
+  Sovrano: "0"
+ordini_036: 
+  ID_ORD: "36"
+  m_fileImmagine: pr-salam.gif
+  Nome_completo: "\xC3\x86ternum Ordo Salamandre Terre Salsesi"
+  m_bSerio: "1"
+  datadinascita: 2006-10-20 12:46:45
+  emailordine: boccadirosa84@hotmail.it
+  data_creazione: 2006-10-20 12:46:45
+  id_utente_creatore: "1453"
+  storia: "29 aprile di un anno immemorabile: attorno ai colli di Salsomaggiore, al calar del sole, si aggirava intrepido un Goliardo ignaro che da quel momento sarebbe entrato a far parte della Leggenda. Egli errava con un sigaro in bocca, un fiasco di vino di ottima qualit\xC3\xA0 e, sulla pelle, il sapore della donna appena consumata. Ad un tratto, come ad un novello Mos\xC3\xA8, gli appar\xC3\xAC, davanti ai suoi occhi stupefatti, una luce abbagliante che lo attir\xC3\xB2 a s\xC3\xA8 come sotto l'effetto di un incantesimo. Il Goliardo, abituatosi lentamente al forte bagliore, riusc\xC3\xAC ad intravedere all'interno dell' aura infuocata il contorno del Sacro Animale, simbolo del Fuoco e del quale aveva sempre sentito parlare in tutte le contrade dei colli salsesi. Tale Animale, infatti, \xC3\xA8 da sempre l'effige e simbolo di Salso Maggiore e da allora anche dell'Ordine Nobile pi\xC3\xB9 attivo del Ducato di Parma. Da quel giorno, il goliardo che porta dentro al suo cuore la Sacra fiamma \xC3\xA8 per tradizione il condottiero dell'ordine stesso e vive assieme alla sua nobile corte nell'oramai mitico Castello di Vigoleno, da sempre sede indiscussa delle Salamandre.\r\n\
+    Da qui lo Gran Maestro, grazie all'intelligenza e al senso del gioco che lo ha sempre contraddistinto, muove i suoi nobili e meno nobili contro le misere schiere degli ordini avversari di Rane, Lunigiane e Terronia Tellus, uscendone sempre indenne (non c' era bisogno di dirlo) e a testa alta. A voi che siete dentro le nostre terre ordino di difenderle con ARGUZIA e SAPIENZA, a voi che ne state fuori sar\xC3\xA0 concesso di entrare solo rispettando le nostre giuste leggi e voi Duca, Capi Ordini e nostri fratelli tutti sarete sempre ben accetti nelli nostri baccanali per gioire e godere de li frutti che le nostre ricche terre Ci e Vi offriranno. \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  Motto: Che non abbia mai fine!
+  Sigla: "\xC3\x86.O.S.TT.SS."
+  indirizzo: |
+    Salamandre - Via Bixio 30 - 43100 Parma
+    
+    
+    Strada Cava in Vigatto 69
+    43010 Corcagnano -pr-
+
+  note: "null"
+  m_fileImmagineTn: pr-salam.gif
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Salamandre
+  ID_ORD_Vassallo_di: "26"
+  Sovrano: "0"
+ordini_008: 
+  ID_ORD: "8"
+  m_fileImmagine: bo_oca.gif
+  Nome_completo: Sacrae Ocae Congregatio Magnifica et Lustrissima
+  m_bSerio: "1"
+  datadinascita: 2009-06-28 23:52:58
+  emailordine: full_yoyo@alice.it - mcaste07@yahoo.it
+  data_creazione: 2009-06-28 23:52:58
+  id_utente_creatore: "3660"
+  storia: Chi vuole info paghi da bere! Accettiamo VISA, MASTERCARD, AMERICAN EXPRESS e le principali carte di credito.
+  Motto: Chi l'ha dura la vince
+  Sigla: S.O.C.M.E.L.
+  indirizzo: Fulvio Franchi  Via Matteotti 3 40129 Bologna
+  note: "null"
+  m_fileImmagineTn: bo_oca.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1982"
+  m_bInSonno: "0"
+  Nome_veloce: Oca
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_092: 
+  ID_ORD: "103"
+  m_fileImmagine: jap-giappone.jpg
+  Nome_completo: Sacer Nipponicus Ordo Macchinae Photographicae
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: "nel 1958 Tsung kiao invent\xC3\xB2 il Luminoso Flash. Anni e anni dopo il primo prototipo di macchina digitale fu importato in italia. \r\n\
+    \r\n\
+    Il resto \xC3\xA8 storia...\r\n"
+  Motto: "ohitan\xC3\xA0, ohitan\xC3\xA0!"
+  Sigla: SNOMP
+  indirizzo: ""
+  note: "Pu\xC3\xB2 farne parte solo chi scatta MOLTE fotografie agli eventi goliardici in modo da immortalare metri di lingua, tracce di vomito e cose simili."
+  m_fileImmagineTn: JapanFlag.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Giappone
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_064: 
+  ID_ORD: "65"
+  m_fileImmagine: pi-savot.gif
+  Nome_completo: Sovranus ac Venerabilis Ordo Torrionis
+  m_bSerio: "1"
+  datadinascita: 2009-07-18 14:26:28
+  emailordine: ---
+  data_creazione: 2009-07-18 14:26:28
+  id_utente_creatore: "542"
+  storia: ---
+  Motto: Gubernans in dextra ac sinistra ripa fluminis Arni
+  Sigla: S.a.V.O.T.
+  indirizzo: Telefonare allo...
+  note: ---
+  m_fileImmagineTn: pi-savot_rid.gif
+  "Citt\xC3\xA0": Pisa
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: SAVOT
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_120: 
+  ID_ORD: "132"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Floridus Universalis Roridus Beonis Ordo
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: "l'ordine \xC3\xA8 nato l'anno scorso a Grottammare con lo zoccolo duro di Manolus, Tappo II, Gattapone, Palladius, Defensor, Gargagnan e tanti altri...\r\n"
+  Motto: stasera si va in Agriturismo
+  Sigla: F.U.R.B.O.
+  indirizzo: ""
+  note: |
+    note
+
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Grottammare
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: F.U.R.B.O.
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_037: 
+  ID_ORD: "37"
+  m_fileImmagine: mi-merc.gif
+  Nome_completo: Sacer Ordo Mercurii
+  m_bSerio: "1"
+  datadinascita: 2009-04-01 22:09:30
+  emailordine: giorgioxx87@tin.it
+  data_creazione: 2009-04-01 22:09:30
+  id_utente_creatore: "542"
+  storia: ---
+  Motto: Vox Principis, Vox Veritatis
+  Sigla: S.O.M.
+  indirizzo: Giorgio Antongiovanni Via Arcivescovo Romilli 10 - 20139 Milano
+  note: ---
+  m_fileImmagineTn: mi-merc.gif
+  "Citt\xC3\xA0": Milano
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Mercurio
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_009: 
+  ID_ORD: "9"
+  m_fileImmagine: to_corno.gif
+  Nome_completo: Supremus Ordo Taurini Cornus atque Pedemontanus
+  m_bSerio: "1"
+  datadinascita: 2009-05-10 20:50:32
+  emailordine: akima_him@yahoo.it
+  data_creazione: 2009-05-10 20:50:32
+  id_utente_creatore: "498"
+  storia: "null"
+  Motto: Vitium Impotens Virtus Vocatur
+  Sigla: S.O.T.C.a.P.
+  indirizzo: |-
+    S.E. Wendy c/o Elena Bosca
+    Piazza Statuto, 14
+    10022 - Torino (TO)
+  note: "null"
+  m_fileImmagineTn: to_corno.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Corno
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_093: 
+  ID_ORD: "104"
+  m_fileImmagine: TS_Primula_web.gif
+  Nome_completo: Goliardica Confraternita della Primula Rossa
+  m_bSerio: "1"
+  datadinascita: 2005-05-02 22:36:34
+  emailordine: ignota
+  data_creazione: 2005-05-02 22:36:34
+  id_utente_creatore: "542"
+  storia: "null"
+  Motto: "null"
+  Sigla: G.C.P.R.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: TS_Primula_web.gif
+  "Citt\xC3\xA0": Trieste
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Primula Rossa
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_065: 
+  ID_ORD: "66"
+  m_fileImmagine: pv_regn.jpg
+  Nome_completo: Sacrum Regnum Longobardorum
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "82"
+  storia: "null"
+  Motto: "null"
+  Sigla: S.R.L.
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: pv_regn.jpg
+  "Citt\xC3\xA0": Pavia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Regno Longobardo
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_121: 
+  ID_ORD: "133"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Sacro Ordine Virtuali dei Goliardi Sine Domo
+  m_bSerio: "1"
+  datadinascita: 2009-06-19 19:21:45
+  emailordine: Non esiste nessun tipo di recapito.
+  data_creazione: 2009-06-19 19:21:45
+  id_utente_creatore: "542"
+  storia: "Da che mondo \xC3\xA8 mondo qualcuno non ama la gerarchia o si rompe del suo capo. \r\n\
+    Allora ci sono due strade: se hai almeno due mesi di goliardia, apri un ordine, se non ce li hai, sei giovane, e diventi libero goliarda in attesa di compiere il secondo mese.\r\n\
+    \r\n\
+    :-)\r\n\
+    \r\n\
+    Questa definizione \xC3\xA8 per tutti quelli che non hanno capito che Goliardia \xC3\xA8 Cultura, Intelligenza, Tradizione ma soprattutto che GOLIARDIA NON E' DEMOCRAZIA."
+  Motto: Il Capoordine mi rompeva i coglioni!
+  Sigla: L.G.
+  indirizzo: Non esiste nessun tipo di recapito.
+  note: "Questo ordine \xC3\xA8 un accettore per  tutti i liberi goliardi che razzolano su questo sito. Pensate per il significato come a un \"NESSUN ORDINE IN PARTICOLARE\". In realt\xC3\xA0 ci vorrebbe un ordine per ogni citt\xC3\xA0, ma chi se ne frega!, \xC3\xA8 un errore di modello che non prevedeva i L.G.\r\n\
+    Tanto i L.G. NON SONO PREVISTI E/O ACCETTATI praticamente da nessuno!"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Libero Goliarda
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_094: 
+  ID_ORD: "105"
+  m_fileImmagine: UD_Primula_web.gif
+  Nome_completo: Goliardica Confraternita della Primula Rubiconda
+  m_bSerio: "1"
+  datadinascita: 2006-07-19 23:29:41
+  emailordine: ignota
+  data_creazione: 2006-07-19 23:29:41
+  id_utente_creatore: "542"
+  storia: "null"
+  Motto: "null"
+  Sigla: G.C.P.R.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: TS_Primula_web.gif
+  "Citt\xC3\xA0": Udine
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Primula Rubiconda
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_066: 
+  ID_ORD: "67"
+  m_fileImmagine: TS_GOSO_web.gif
+  Nome_completo: Goliardicus Ordo Solis Orientis
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "174"
+  storia: "null"
+  Motto: "null"
+  Sigla: GOSO
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: TS_GOSO_web.gif
+  "Citt\xC3\xA0": Trieste
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: GOSO
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_038: 
+  ID_ORD: "38"
+  m_fileImmagine: fe-baronia06.gif
+  Nome_completo: Baronia di Pomposa
+  m_bSerio: "1"
+  datadinascita: 2009-06-19 19:25:26
+  emailordine: ---
+  data_creazione: 2009-06-19 19:25:26
+  id_utente_creatore: "542"
+  storia: ---
+  Motto: ---
+  Sigla: B.O.P
+  indirizzo: |-
+    Trainspotting: Caterina Naldi 
+    Via S. Stefano, 31 - 44100 Ferrara
+  note: ---
+  m_fileImmagineTn: fe-baronia06.gif
+  "Citt\xC3\xA0": Ferrara
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Baronia di Pomposa
+  ID_ORD_Vassallo_di: "41"
+  Sovrano: "0"
+ordini_150: 
+  ID_ORD: "166"
+  m_fileImmagine: ghibellini.gif
+  Nome_completo: AL BAR
+  m_bSerio: "1"
+  datadinascita: 2008-10-13 10:47:28
+  emailordine: lucilloATgmailDOTcom
+  data_creazione: 2008-10-13 10:47:28
+  id_utente_creatore: "1355"
+  storia: Al bar
+  Motto: Al bar
+  Sigla: S.O.G.C.G.
+  indirizzo: |-
+    Sacer Ordo Goliardicus de li Cavalieri Ghibellini C/o
+    Osteria Alla Busa
+    Piazza Pozza
+    37100 Verona
+  note: al bar
+  m_fileImmagineTn: ghibellini.gif
+  "Citt\xC3\xA0": Verona
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Ghibellini
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_122: 
+  ID_ORD: "134"
+  m_fileImmagine: mi-sos.gif
+  Nome_completo: Supremus Ordo Spadonis
+  m_bSerio: "1"
+  datadinascita: 2009-04-01 22:04:57
+  emailordine: spadonesupremo@libero.it
+  data_creazione: 2009-04-01 22:04:57
+  id_utente_creatore: "542"
+  storia: ---
+  Motto: ---
+  Sigla: S.O.S.
+  indirizzo: Simone Brizzi, Via Nino Bixio 50, 20017 Rho (MI)
+  note: Ordine del Politecnico di Milano. Facente parte della Sacra Goliae Conphraternita.
+  m_fileImmagineTn: mi-sos.gif
+  "Citt\xC3\xA0": Milano
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Spadone
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_095: 
+  ID_ORD: "106"
+  m_fileImmagine: UD_Angelo_web.gif
+  Nome_completo: Angeli Goliardicus Ordo
+  m_bSerio: "1"
+  datadinascita: 2006-10-24 02:09:37
+  emailordine: ignota
+  data_creazione: 2006-10-24 02:09:37
+  id_utente_creatore: "343"
+  storia: "L'ordine nasce nel marzo del 1954 grazie a studenti friulani che studiavano ovviamente fuori sede (vedi pd e ts), infatti la nascita dell'ateneo udinese \xC3\xA8 datata 1978. Nella citt\xC3\xA0 di pd l'ordine diede anche CapiCitt\xC3\xA0 ricoprendo cariche importanti all'interno del Tribunato. Lo stesso avvenne anche a Trieste. Nel 1978 riunite le insegne sotto la citt\xC3\xA0 di Udine si svilupp\xC3\xB2 un'intensa attivit\xC3\xA0 goliardica che sfoci\xC3\xB2 nel 1990 con l'uscita da parte dell'Angelo dal GOSO, ordine sovrano in Trieste. Per quanto riguarda il DUCATO DEL FRIULI la storia \xC3\xA8 ben piu' complessa e antica.\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  Motto: A ore di bevi.
+  Sigla: AGO
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: UD_Angelo_web.gif
+  "Citt\xC3\xA0": Udine
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Angelo
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_067: 
+  ID_ORD: "68"
+  m_fileImmagine: pd_sete.gif
+  Nome_completo: "Societ\xC3\xA0 Enologica di Trincatori Emeriti"
+  m_bSerio: "1"
+  datadinascita: 2006-04-04 18:04:58
+  emailordine: ignota
+  data_creazione: 2006-04-04 18:04:58
+  id_utente_creatore: "341"
+  storia: "null"
+  Motto: VERI VINI VECI
+  Sigla: S.E.T.E. s.v.
+  indirizzo: |
+    S.E.T.E. C/O BAR DEL BO C/O PALAZZO DEL BO VIA VIII FEBBRAIO 35100 PADOVA
+
+  note: |
+    sovrana a Verona
+    
+    
+    
+    
+    
+    
+
+  m_fileImmagineTn: pd_sete.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Sete
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_039: 
+  ID_ORD: "39"
+  m_fileImmagine: fe-ocs.gif
+  Nome_completo: Ordine de li Cavalieri de li Scacchi
+  m_bSerio: "1"
+  datadinascita: 2008-02-11 12:31:41
+  emailordine: ignota
+  data_creazione: 2008-02-11 12:31:41
+  id_utente_creatore: "2698"
+  storia: C'era una volta, tanto tempo fa... un goliarda che per sapere la storia degli Scacchi si portava al bar gli Scacchi e pagava le informazioni a suon di Bacco, Tabacco, Venere... e si ubriacarono felici e contenti parlando di Goliardia e cantando...
+  Motto: paga da bere
+  Sigla: O.C.S.
+  indirizzo: c/o il Connestabile
+  note: "null"
+  m_fileImmagineTn: fe_ocs.gif
+  "Citt\xC3\xA0": Ferrara
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Scacchi
+  ID_ORD_Vassallo_di: "41"
+  Sovrano: "0"
+ordini_151: 
+  ID_ORD: "163"
+  m_fileImmagine: s.o.t.fg.gif
+  Nome_completo: Sacer Ordo Taccariellum
+  m_bSerio: "1"
+  datadinascita: 2009-01-22 17:28:48
+  emailordine: francesco.canonico@infinito.it
+  data_creazione: 2009-01-22 17:28:48
+  id_utente_creatore: "3743"
+  storia: La Consorteria Goliardica Ausculana nasce nel 1948
+  Motto: Orestus!
+  Sigla: S.O.T.
+  indirizzo: c/o Francesco Canonico - Corso Belvedere 69 - 71022 Ascoli Satriano (Fg)
+  note: Ordine Minore sovrano su Ascoli Satriano (Fg)
+  m_fileImmagineTn: s.o.t.fg.gif
+  "Citt\xC3\xA0": Foggia
+  m_nPrecedenzaCittadina: "4"
+  m_bInSonno: "0"
+  Nome_veloce: Taccariello
+  ID_ORD_Vassallo_di: "160"
+  Sovrano: "0"
+ordini_123: 
+  ID_ORD: "135"
+  m_fileImmagine: mi-dsgm.gif
+  Nome_completo: "  Ducatus Summus Gentium Mediolanensium"
+  m_bSerio: "1"
+  datadinascita: 2008-10-29 12:45:37
+  emailordine: stefano.salvetti@gmail.com
+  data_creazione: 2008-10-29 12:45:37
+  id_utente_creatore: "1520"
+  storia: /
+  Motto: eh sapessi..
+  Sigla: D.S.G.M.
+  indirizzo: Stefano Salvetti, c.so di P.ta Vittoria 47, 20122 Milano
+  note: Ordine facente parte della Sacra Goliae Conphraternita
+  m_fileImmagineTn: mi-dsgm.gif
+  "Citt\xC3\xA0": Milano
+  m_nPrecedenzaCittadina: "1"
+  m_bInSonno: "0"
+  Nome_veloce: Ducato
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_096: 
+  ID_ORD: "107"
+  m_fileImmagine: govsbnb.gif
+  Nome_completo: Goduriosus Ordo Vagorum Sine Bolli
+  m_bSerio: "1"
+  datadinascita: 2007-01-19 17:40:27
+  emailordine: ignota
+  data_creazione: 2007-01-19 17:40:27
+  id_utente_creatore: "17"
+  storia: "Fu in una fumosa taverna di Barcellona che il Pontifauss Conditor, ispirato da litri di sangria e spalleggiato da due Scardinati e un Carretiere, balz\xC3\xB2 sul tavolo e inton\xC3\xB2 il Gaudeamus fondando l'Ordine fra gli inneggiamenti di una cinquantina di liceali festanti. Da allora l'Ordine gir\xC3\xB2 per tre estati di fila le piazze di Francia e Spagna (e S.F. Plinganius gioc\xC3\xB2 uno scherzetto ai Goliardi di Salamanca) scrivendo pagine indelebili di casino sfrenato e cameratismo, coinvolgendo anche i filistei liceali in cori goliardici a settanta voci per le vie di varie citt\xC3\xA0... Da segnalare poi, durante l'anno scolastico, le Sacre Consuetudini del campionato uccellatorio di Cancellini, la proclamazione del Weiser Maximus, la Prostratio Priminorum e l'esazione delle decime da parte dei Dignitari dell'Ordine, l'apertura ufficiale della Caccia al Primino, e molte altre iniziative...\r\n\
+    Ordine interamente fondato e composto da Feti e bustine Liceali di un famoso liceo torinese che gi\xC3\xA0 diede i natali goliardici e scolastici a personaggi di spicco come Crapulus, Ballustrus e S.S. Ottone Nicholaus II... per citarne solo tre... :)\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  Motto: semper vincit sine bolli
+  Sigla: G.O.V.(T.)S.B.N.B.
+  indirizzo: "null"
+  note: "Le donne, i liceal, l'amor, gli ardori / Le porcherie, l'audaci imprese io canto / Che furo al tempo pria della matura / quando ancora non solean studiar s\xC3\xAC tanto / Ma seguian l'orme e i giovenil furori / Di Golia padre, sempre loro accanto / E notte e d\xC3\xAC se la godeano un sacco.\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  m_fileImmagineTn: govsbnb.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Senza Bolli
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_068: 
+  ID_ORD: "69"
+  m_fileImmagine: ""
+  Nome_completo: ""
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "0"
+  storia: ""
+  Motto: ""
+  Sigla: ""
+  indirizzo: ""
+  note: ""
+  m_fileImmagineTn: pd_sber.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Santa Bernarda
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_152: 
+  ID_ORD: "164"
+  m_fileImmagine: s.d.i.f.fg.gif
+  Nome_completo: Sacro Dauno Impero Fovea
+  m_bSerio: "1"
+  datadinascita: 2008-02-28 18:48:44
+  emailordine: vittoria.salice@gmail.com
+  data_creazione: 2008-02-28 18:48:44
+  id_utente_creatore: "1770"
+  storia: "L'Ordine S.D.I.F. Sacro Dauno Impero Fovea, o Impero di Foggia, nasce nella citt\xC3\xA0 di Foggia nel 2005, con l'avvento della nuova Universit\xC3\xA0 di Foggia, sostituendo il vecchio Ordine Sovrano del S.O.P.O. Papera D'Oro di San Severo  ( provincia di Foggia), e         l' Ordine Goliardico di Foggia chiamato \xE2\x80\x9CIl Coito\" Centronis Ordo Invictus Tetragonus Omnibus\xE2\x80\x9D in verit\xC3\xA0 di Cerignola (anch'essa provincia di Foggia). Il nuovo Ordine S.D.I.F. nasce come Ordine Sovrano su Foggia e relativa Provincia, la I imperatrice \xC3\xA8 kinta al sec. Vittoria Salice vecchia goliarda dei Frati Gaudenti di Bologna. Gli Ordini Vassalli Minori sono: 1. Ascoli Satriano (S.O.T.Sacer Ordo Taccariellum), 2. Lesina (S.O.S.Sacer Ordo Scorpionis), 3. Sannicandro Garganico (O.V.A. Ordo Volantis Avis) , 4. San Paolo Civitate (S.I.S. Sacro Impero Sanpaolese), 5.San Severo (S.O.P.O. Papera D'Oro), 6.San Marco in Lamis (S.O.A.S.M.Sacer Ordo Abatiae Sancti Marci) , 7.Torremaggiore, (S.O.P. Ordo Primi Solis)  8. Poggio Imperiale (S.T.A.F. Sacro Ordo Taurus Fortis);  Non tutti hanno accettato ancora il vassallaggio e alcuni di loro sono in sonno."
+  Motto: Gaudere sempre ledere mai
+  Sigla: S.D.I.F.
+  indirizzo: |-
+    Kinta: Salice Vittoria 
+    Via De Miro D'Ajeta 7 - 71100 Foggia
+    Tel: 335-1735478
+    blog:http://goliardiafg.blogspot.com
+    vittoria.salice@gmail.com
+  note: Ordine serio e attivo porta i colori rosso e blue di Foggia e lo stemma di Federico II a Foggia e sulla feluca l'imperatore/trice porta la piuma blue.
+  m_fileImmagineTn: s.d.i.f.fg.gif
+  "Citt\xC3\xA0": Foggia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Impero di Foggia
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_124: 
+  ID_ORD: "136"
+  m_fileImmagine: ge-diano.gif
+  Nome_completo: Sequella de Li Goliardi Dianesi
+  m_bSerio: "1"
+  datadinascita: 2008-10-01 22:35:38
+  emailordine: mattia1603@libero.it
+  data_creazione: 2008-10-01 22:35:38
+  id_utente_creatore: "1470"
+  storia: storia
+  Motto: "null"
+  Sigla: GO.DI.
+  indirizzo: Fabio Bonello c/o Albergo La Margherita Via S. Giacomo 3 - 18013 fraz. Calderina Diano Marina (IM)
+  note: |-
+    Tutti gli anni, verso fine di luglio, organizzano la 69'Imperiapolis, ovvero una gara di carrette ad Imperia.
+    
+    http://www.goliardidianesi.it/sequella.html
+  m_fileImmagineTn: ge-diano.gif
+  "Citt\xC3\xA0": Diano Marina (IM)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Sequella de Li Goliardi Dianesi
+  ID_ORD_Vassallo_di: "47"
+  Sovrano: "0"
+ordini_097: 
+  ID_ORD: "108"
+  m_fileImmagine: Ordo Farae.gif
+  Nome_completo: Ordo Farae
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "294"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: Ordo Farae_small.gif
+  "Citt\xC3\xA0": Ferrara
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Fara
+  ID_ORD_Vassallo_di: "41"
+  Sovrano: "0"
+ordini_010: 
+  ID_ORD: "10"
+  m_fileImmagine: pg-grif.gif
+  Nome_completo: Griphonatus Goliardiae Perusinae
+  m_bSerio: "1"
+  datadinascita: 2009-02-01 17:33:39
+  emailordine: ignota
+  data_creazione: 2009-02-01 17:33:39
+  id_utente_creatore: "1133"
+  storia: "null"
+  Motto: "null"
+  Sigla: G.G.P.
+  indirizzo: "Cancelli Daniele Via Lorenzini n\xC2\xB027 06123 Perugia"
+  note: "null"
+  m_fileImmagineTn: pg_grif1.gif
+  "Citt\xC3\xA0": Perugia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Grifonato
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_069: 
+  ID_ORD: "70"
+  m_fileImmagine: fi_zapp.gif
+  Nome_completo: Laborioso e Agreste Ordine della Zappa
+  m_bSerio: "1"
+  datadinascita: 2007-03-29 15:27:46
+  emailordine: ignota
+  data_creazione: 2007-03-29 15:27:46
+  id_utente_creatore: "2187"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: fi_zapp.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Zappa
+  ID_ORD_Vassallo_di: "77"
+  Sovrano: "0"
+ordini_153: 
+  ID_ORD: "165"
+  m_fileImmagine: s.i.s.fg.gif
+  Nome_completo: CATAPANATO
+  m_bSerio: "1"
+  datadinascita: 2009-02-11 11:38:24
+  emailordine: arkkit2@hotmail.it
+  data_creazione: 2009-02-11 11:38:24
+  id_utente_creatore: "3475"
+  storia: "Il primo movimento Goliardico Sanpaolense si ha nel 1966 con il sultano\r\n\
+    Al\xC3\xAC Fonzinillus Curtissimus Et Malicavatus dopo nel 1967 poich\xC3\xA8 molti paesi limitrofi avevano come capo citt\xC3\xA0 il sultano si decise di cambiare e si ha l'avvento del Catapanato....\r\n\
+    Il primo anno nel 1967 si ha il primo Catapano Lellus de la Giannubiliana Gens Vulgo nomato \"Long Lenz\" al quale si succedettero XLI catapani...\r\n\
+    Il primo anno ci fu uno stupore generale nel paesino poich\xC3\xA8 nn si capiva il significato della goliardia e i cittadini trovati di fronte ad un'atto goliardico forte nn riuscivano a capacitarsi come, un gruppo di universitari,riuscivano a sbeffegiare tutti...\r\n\
+    Proprio il 1\xC2\xB0 atto goliardico, il quale restera nella storia...\r\n\
+    I goliardi sanpaolesi dopo aver \"rattato\" un aereoplano di legno, nel feudo di san severo, lo portarono nel cuore della notte nella piccola cittadina; l'indomani mattina tutti i cittadini videro con stupore l'aereo e, impauriti pensarono che fossero tornati i tedeschi.... fu un mattinata strana.... gente che correva in piazza, tutti si chiedevano ma nn riuscivano a darsi risposte.... \r\n\
+    E da quell'anno per XLI anni la tradizione nn si \xC3\xA8 mai fermata... \r\n\
+    Il fiore all'occhiello della nostra festa \xC3\xA8 il Recital Goliardico dove i goliardi, appunto,  con il loro spirito dello sberleffo, dicono tutto di tutti senza avere peli sulla lingua... Il recital molto seguito ed applaudito da tutti i cittadini \xC3\xA8 l'orgoglio di tutti noi... \r\n\
+    Per\xC3\xB2 va detto anche che per impegni universitari la goliardia sanpaolese si concentra solo nel periodo di dicembre infatti in quello stesso periodo avvengono fatti insoliti nel nostro paese il quale,incuriosito segue le nostre vicende...\r\n\
+    I nostri impegni goliardici iniziano cn la \"questua\"per il paese...;\r\n\
+    il 22 dicembre giorno prima giorno dopo di solito c'\xC3\xA8 il \"passaggio\" dal vecchio Catapano che passa il CHIAVE ET REMO al nuovo Catapano il quale, proclamer\xC3\xA0 la sua corte...;\r\n\
+    il 23 l'elezione della matricola ufficiale con il concorso scritto ed orale...;\r\n\
+    il 26, di solito, si sfila in paese con carri allegorici...\r\n\
+    poi la recita ed il veglione nel quale vengono accolte le delegazioni estere....nello stesso si balla e vengono elette miss veglione miss eleganza e miss goliardia\r\n\
+    Nei primi giorni di gennaio con il \"pranzo ufficiale\" si chiudono li festeggiamenti de le \"Feriae Matriocularum\"...\r\n\
+    Quest' anno ci accingiamo a festeggiare il XLII anno di festa.... nella speranza che la tradizione non muoia mai....\r\n\
+    A SANCTA MATER....\r\n\
+    NUNC ET SEMPER\r\n \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    Scritto sotto il magno consiglio del\r\n\
+    CATAPANO I\xC2\xB0 Lellus de la Giannubiliana Gens  Vulgo nomato \"Long Lenz\""
+  Motto: "null"
+  Sigla: S.I.S.
+  indirizzo: c/o Ludwing Pub di Antonella delle Vergini - Via XX Settembre - 71010 San Paolo di Civitate (Fg)
+  note: Ordine sovrano sul feudo di  San Paolo di Civitate (FG).
+  m_fileImmagineTn: s.i.s.fg.gif
+  "Citt\xC3\xA0": Foggia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: " S.I.S."
+  ID_ORD_Vassallo_di: "164"
+  Sovrano: "0"
+ordini_125: 
+  ID_ORD: "138"
+  m_fileImmagine: lecce-placidus.gif
+  Nome_completo: Venerabile Confraternita della Costa
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "170"
+  storia: |
+    bo'!
+    
+    
+    
+
+  Motto: Bibite, fratres, bibite, ne diabolus vos otiosos i
+  Sigla: VCC
+  indirizzo: ""
+  note: |
+    chiedere a Placidus
+    
+    
+    
+
+  m_fileImmagineTn: lecce-placidus.gif
+  "Citt\xC3\xA0": Lecce
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Confraternita della Costa
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_098: 
+  ID_ORD: "109"
+  m_fileImmagine: Ordine de li Cavalieri Erranti.GIF
+  Nome_completo: Ordine de li Cavalieri Erranti
+  m_bSerio: "1"
+  datadinascita: 2005-05-02 17:13:49
+  emailordine: ignota
+  data_creazione: 2005-05-02 17:13:49
+  id_utente_creatore: "542"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: |
+    null
+    
+
+  m_fileImmagineTn: Ordine de li Cavalieri Erranti.GIF
+  "Citt\xC3\xA0": Ferrara
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Cavalieri Erranti
+  ID_ORD_Vassallo_di: "41"
+  Sovrano: "0"
+ordini_011: 
+  ID_ORD: "11"
+  m_fileImmagine: bo-paroc.gif
+  Nome_completo: Antichissima et Nobilissima Parochia de li Student
+  m_bSerio: "1"
+  datadinascita: 2009-03-11 01:27:40
+  emailordine: ignota
+  data_creazione: 2009-03-11 01:27:40
+  id_utente_creatore: "542"
+  storia: SIAMO I MIGLIORI E LO SIAMO SEMPRE STATI
+  Motto: ---
+  Sigla: A.e.N.P.d.l.S.V.i.B.
+  indirizzo: Federica Cella via del Borgo di San Pietro 99 - 40126 Bologna
+  note: |-
+    PAROCHIA VENETA
+    SELEZIONE NATURALE
+  m_fileImmagineTn: bo-paroc.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1993"
+  m_bInSonno: "0"
+  Nome_veloce: Parochia
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_154: 
+  ID_ORD: "167"
+  m_fileImmagine: spoleto.gif
+  Nome_completo: DUCATUS GOLIARDICUS LONGOBARDORUM SPOLETI
+  m_bSerio: "1"
+  datadinascita: 2007-12-10 14:27:25
+  emailordine: isapg@hotmail.it
+  data_creazione: 2007-12-10 14:27:25
+  id_utente_creatore: "1818"
+  storia: ---
+  Motto: W la pecchia!
+  Sigla: D.G.L.S.
+  indirizzo: Beatrics - Isabella Virili Via Luigi Galvani 12 - 06049 Spoleto (PG)
+  note: ---
+  m_fileImmagineTn: ducato spoleto.gif
+  "Citt\xC3\xA0": Spoleto (PG)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Ducato Spoleto
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_126: 
+  ID_ORD: "139"
+  m_fileImmagine: logorroica.gif
+  Nome_completo: Logorroica ed Egocentrica Compagnia de li Cavalier
+  m_bSerio: "1"
+  datadinascita: 2008-02-11 17:32:18
+  emailordine: ignota
+  data_creazione: 2008-02-11 17:32:18
+  id_utente_creatore: "27"
+  storia: UN ORDINE NON ORDINE, NATO DA UN GRUPPO DI AMICI, CON IL FINE DI NON PERDERSI E DI AGGIUNGERE ALTRI AMICI
+  Motto: ERRARE HUMANUM EST
+  Sigla: LCCE
+  indirizzo: "null"
+  note: ACCOZZAGLIA DI PRIMEDONNE, GOLIARDI OLD STYLE, ANARCHICI, MALATI DI MENTE, TOPI NANI E BALLERINE
+  m_fileImmagineTn: logorroica.gif
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Cavalieri Erranti
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_099: 
+  ID_ORD: "110"
+  m_fileImmagine: TS_TEC_web.gif
+  Nome_completo: Tempestatis Equitum Confraternitas
+  m_bSerio: "1"
+  datadinascita: 2005-05-02 22:38:31
+  emailordine: ignota
+  data_creazione: 2005-05-02 22:38:31
+  id_utente_creatore: "542"
+  storia: "null"
+  Motto: "B\xC3\xB9 Mal\xC3\xA8"
+  Sigla: T.E.C.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: TS_TEC_web.gif
+  "Citt\xC3\xA0": Trieste
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: TEC
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_012: 
+  ID_ORD: "12"
+  m_fileImmagine: bo-nett.gif
+  Nome_completo: Excelsa Neptuni Balla
+  m_bSerio: "1"
+  datadinascita: 2007-03-06 17:43:23
+  emailordine: ignota
+  data_creazione: 2007-03-06 17:43:23
+  id_utente_creatore: "184"
+  storia: "null"
+  Motto: Goliardus Goliardorum Quisque
+  Sigla: E.N.B.
+  indirizzo: |
+    www.balladelnettuno.blogspot.com
+
+  note: "null"
+  m_fileImmagineTn: bo-nett.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1980"
+  m_bInSonno: "0"
+  Nome_veloce: Nettuno
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_040: 
+  ID_ORD: "40"
+  m_fileImmagine: fe_matil.gif
+  Nome_completo: Marchesato de la Torre Matildea
+  m_bSerio: "1"
+  datadinascita: 2009-06-24 09:37:54
+  emailordine: pacman@sysadmin.it
+  data_creazione: 2009-06-24 09:37:54
+  id_utente_creatore: "2223"
+  storia: ---
+  Motto: Sumus Matildei, sectatori Bacci, adoremus Venere e
+  Sigla: MTM
+  indirizzo: |-
+    Giuseppe Strozzi
+    Via Palmirano 10
+    44100 Gaibanella (FE)
+  note: ---
+  m_fileImmagineTn: fe_matil.gif
+  "Citt\xC3\xA0": Ferrara
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Matildea
+  ID_ORD_Vassallo_di: "41"
+  Sovrano: "0"
+ordini_155: 
+  ID_ORD: "168"
+  m_fileImmagine: fe-phiga2.gif
+  Nome_completo: Phoenicis Ignis Goliardica Alchemia
+  m_bSerio: "1"
+  datadinascita: 2009-05-05 16:01:42
+  emailordine: phiga.fe@gmail.com
+  data_creazione: 2009-05-05 16:01:42
+  id_utente_creatore: "3314"
+  storia: ---
+  Motto: Post fata resurgo
+  Sigla: "&#934;.I.G.A."
+  indirizzo: |-
+    Moris Pozzati
+    Via Barlaam, 28 int. 5 - 
+    44100 Ferrara
+  note: ---
+  m_fileImmagineTn: fe-phiga_rid.gif
+  "Citt\xC3\xA0": Ferrara
+  m_nPrecedenzaCittadina: "1"
+  m_bInSonno: "0"
+  Nome_veloce: "&#934;.I.G.A."
+  ID_ORD_Vassallo_di: "41"
+  Sovrano: "0"
+ordini_127: 
+  ID_ORD: "140"
+  m_fileImmagine: pd-giard.gif
+  Nome_completo: Maximus Giardae Ordo Padua
+  m_bSerio: "1"
+  datadinascita: 2006-06-20 17:25:17
+  emailordine: ignota
+  data_creazione: 2006-06-20 17:25:17
+  id_utente_creatore: "1342"
+  storia: |
+    Ordine nato l'8 Febbraio del 744 a B.c. 
+    Data di riapertura 8 Febbraio 772 a B.c.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+  Motto: Si vis vivere disce ludere
+  Sigla: M.G.O.P.
+  indirizzo: |
+    c/o Pessi Edoardo;
+    Riviera Paleocapa 3;
+    35100 PD
+    
+    
+    
+    
+
+  note: "null"
+  m_fileImmagineTn: pd_giard.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Giarda
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_013: 
+  ID_ORD: "13"
+  m_fileImmagine: bo_3pal2.gif
+  Nome_completo: Sovrano Ordine delle Tre Palle Meridionali
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: "null"
+  data_creazione: 2009-07-13 14:03:59
+  id_utente_creatore: "2107"
+  storia: "null"
+  Motto: Melius Abundare Quam Deficere
+  Sigla: SOTPM
+  indirizzo: "-"
+  note: "null"
+  m_fileImmagineTn: bo-3pall.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1995"
+  m_bInSonno: "0"
+  Nome_veloce: Tre Palle
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_041: 
+  ID_ORD: "41"
+  m_fileImmagine: fe-ducatus.gif
+  Nome_completo: Ducatus Estensis A.F.U. de li 4 S
+  m_bSerio: "1"
+  datadinascita: 2009-05-05 14:47:52
+  emailordine: ---
+  data_creazione: 2009-05-05 14:47:52
+  id_utente_creatore: "542"
+  storia: "Nel 12/1945, con Azzo I (Gipo Bonfiglioli) viene istituito il Ducatus Estensis A.F.U. de li 4 S, che comprende gli aspetti goliardici (Ducato) e quelli associazionistici (AFU) della vita universitaria ferrarese.\r\n\
+    Il Duca \xC3\xA8 presidente dell'AFU e viene creato, a seconda dei momenti storici, per acclamazione, per elezione, per investitura.\r\n\
+    Con l'avvento e il riconoscimento degli Ordini Vassalli, il Duca mantiene la sovranit\xC3\xA0 assoluta e l'istituzione dell\xE2\x80\x99Ordine dei Cavalieri de li 4 S assurge a suprema carica onorifica cittadina."
+  Motto: ---
+  Sigla: ---
+  indirizzo: |-
+    Alessandro Lancellotti
+    Via Ariosto 58 - 44100 Ferrara
+  note: "Il Duca imperante pu\xC3\xB2 deliberare convocando a Sua discrezione la Corte Ducale, composta, secondo consuetudine non vincolante, dal Suo Gran Maestro, dal Barone di Pomposa e dal suo Vicario, dal Marchese delle Torre Matildea e dal suo Camerlengo, da Magister Ignis e Magister Equitum, da Gran Cordoni, Collari e Cavalieri de li 4 S da Lui scelti. Quando la Corte \xC3\xA8 riunita in Rettorato, Tradizione vuole che l'invito sia esteso al Magnifico Rettore e al Decano dei bidelli."
+  m_fileImmagineTn: fe-ducatus_rid.gif
+  "Citt\xC3\xA0": Ferrara
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Ducatus Estensis
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "1"
+ordini_156: 
+  ID_ORD: "186"
+  m_fileImmagine: mir.gif
+  Nome_completo: Magnus Imperium Romanus
+  m_bSerio: "1"
+  datadinascita: 2009-03-30 23:12:07
+  emailordine: "-"
+  data_creazione: 2009-03-30 23:12:07
+  id_utente_creatore: "1621"
+  storia: (da completare)
+  Motto: "-"
+  Sigla: M.I.R.
+  indirizzo: "null"
+  note: (da completare)
+  m_fileImmagineTn: mir.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: MIR
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_128: 
+  ID_ORD: "141"
+  m_fileImmagine: pd_puffi.gif
+  Nome_completo: Simpaticissima Academia Pufforum
+  m_bSerio: "1"
+  datadinascita: 2006-04-26 11:39:40
+  emailordine: ignota
+  data_creazione: 2006-04-26 11:39:40
+  id_utente_creatore: "341"
+  storia: |
+    Fondata nel 1992 per opera di alcuni studenti, BASSI di statura ma ALTISSIMI di spirito.
+    
+    
+    
+    
+    
+    
+    
+    
+
+  Motto: Nella botte piccola sta il vino buono.
+  Sigla: S.A.P.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: pd_puffi.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: S.A.P.
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_014: 
+  ID_ORD: "15"
+  m_fileImmagine: bo-feudo.gif
+  Nome_completo: Antiquissimo et Florentissimo Feudo Goliardico
+  m_bSerio: "1"
+  datadinascita: 2008-11-09 16:20:37
+  emailordine: z_arina@hotmail.it
+  data_creazione: 2008-11-09 16:20:37
+  id_utente_creatore: "1897"
+  storia: "null"
+  Motto: Post Coitum Omnia Animalia Tristia Sunt Solus Gall
+  Sigla: ---
+  indirizzo: |-
+    Rina Viscio 
+    Via Mazzini 87/4 - 40136 Bologna
+  note: "null"
+  m_fileImmagineTn: bo-feudo.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1992"
+  m_bInSonno: "0"
+  Nome_veloce: Feudo
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_070: 
+  ID_ORD: "71"
+  m_fileImmagine: fi_cazz.gif
+  Nome_completo: Fecondo e Calcinoso Ordine della Cazzuola
+  m_bSerio: "1"
+  datadinascita: 2007-03-30 04:18:12
+  emailordine: ignota
+  data_creazione: 2007-03-30 04:18:12
+  id_utente_creatore: "926"
+  storia: "null"
+  Motto: "null"
+  Sigla: F.C.O.C.
+  indirizzo: "null"
+  note: "Ordine Sovrano sulla Facolt\xC3\xA0 di Architettura, Ingegneria e sull'Accadamia di Belle Arti"
+  m_fileImmagineTn: fi_cazz.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Cazzuola
+  ID_ORD_Vassallo_di: "77"
+  Sovrano: "0"
+ordini_042: 
+  ID_ORD: "42"
+  m_fileImmagine: fg-ova.gif
+  Nome_completo: ???
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "0"
+  storia: ""
+  Motto: ""
+  Sigla: ""
+  indirizzo: ""
+  note: ""
+  m_fileImmagineTn: fg-ova.gif
+  "Citt\xC3\xA0": Foggia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Ova
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_157: 
+  ID_ORD: "172"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Probo et Honorato Ordine del Micco
+  m_bSerio: "1"
+  datadinascita: 
+  emailordine: "-"
+  data_creazione: 2008-06-28 01:46:26
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Micco
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_129: 
+  ID_ORD: "142"
+  m_fileImmagine: li_4mori.gif
+  Nome_completo: Granducato dei Quattro Mori
+  m_bSerio: "1"
+  datadinascita: 1965-01-01 18:47:03
+  emailordine: ilgranduca@hotmail.com
+  data_creazione: 2008-03-29 18:47:03
+  id_utente_creatore: "1531"
+  storia: "Nato negli anni '60 quando ancora a Pisa regnava il Campano, si conquist\xC3\xB2 la sua autonomia con il riscatto della Gigia che sanc\xC3\xAC la successione del SAVOT sul Campano. Il primo Granduca fu Tintoretto I\xC2\xB0 al quale sono seguiti nei 40 anni di storia solo 4 successori. Sebbene tra stenti e sofferenze l'Ordine non hai mai chiuso i battenti in tutta la sua lunga storia ed oggi pare rivedere l'alba all'orizzonte... Che ore sono? Le 2 di notte... Chi vivr\xC3\xA0 vedr\xC3\xA0... forse..."
+  Motto: Ex Abrupto Culo Rupto
+  Sigla: G.D.Q.M. - S.O.G.L.
+  indirizzo: |-
+    c/o STEFANO LUCIANI
+    via Silvano Pizzi, 12
+    57124 Livorno
+  note: Ordine Minore Sovrano in Livorno e Vassallo del S.A.V.O.T.
+  m_fileImmagineTn: li_4mori.gif
+  "Citt\xC3\xA0": Livorno
+  m_nPrecedenzaCittadina: "1"
+  m_bInSonno: "0"
+  Nome_veloce: 4Mori
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_015: 
+  ID_ORD: "16"
+  m_fileImmagine: bo-cong.gif
+  Nome_completo: Congiura de' Pazzi
+  m_bSerio: "1"
+  datadinascita: 2008-12-15 18:06:19
+  emailordine: ignota
+  data_creazione: 2008-12-15 18:06:19
+  id_utente_creatore: "572"
+  storia: "null"
+  Motto: "null"
+  Sigla: C.d.P.
+  indirizzo: "Luca Cazzar\xC3\xB2 - \r\n\
+    mura Anteo Zamboni, 3 - \r\n\
+    40127 Bologna"
+  note: "null"
+  m_fileImmagineTn: bo-cong.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1989"
+  m_bInSonno: "0"
+  Nome_veloce: Congiura
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_071: 
+  ID_ORD: "72"
+  m_fileImmagine: pd-folpo.gif
+  Nome_completo: Sacra Patavina Acadaemia del F.O.L.P.O.
+  m_bSerio: "1"
+  datadinascita: 2009-01-30 17:19:40
+  emailordine: ignota
+  data_creazione: 2009-01-30 17:19:40
+  id_utente_creatore: "793"
+  storia: "null"
+  Motto: "null"
+  Sigla: S.P.A. del F.O.L.P.O.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: pd-folpo.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: F.O.L.P.O.
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_043: 
+  ID_ORD: "43"
+  m_fileImmagine: fi-chia.gif
+  Nome_completo: ""
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "0"
+  storia: ""
+  Motto: ""
+  Sigla: ""
+  indirizzo: ""
+  note: ""
+  m_fileImmagineTn: fi-chia.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Chiave
+  ID_ORD_Vassallo_di: "77"
+  Sovrano: "0"
+ordini_158: 
+  ID_ORD: "173"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Res Publica Goliardica Florentina
+  m_bSerio: "1"
+  datadinascita: 2008-06-28 01:49:12
+  emailordine: "-"
+  data_creazione: 2008-06-28 01:49:12
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Res Publica
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_016: 
+  ID_ORD: "17"
+  m_fileImmagine: bo-cricca.gif
+  Nome_completo: Cricca Marchigiana
+  m_bSerio: "1"
+  datadinascita: 2007-01-10 11:11:08
+  emailordine: ignota
+  data_creazione: 2007-01-10 11:11:08
+  id_utente_creatore: "2187"
+  storia: "La Cricca Marchigiana \xC3\xA8 una delle pi\xC3\xB9 antiche Balle Goliardiche operanti nell\xE2\x80\x99Ateneo Bolognese.\r\n\
+    Caduta \xE2\x80\x9Cin sonno\xE2\x80\x9D assieme a tutte le altre Balle all\xE2\x80\x99inizio degli anni (19)\xE2\x80\x9970, rinasce, nel 1994 ad opera del goliarda Lucertolus Grigua Marchegianus (a. s. Massimiliano Piccioli, di Fano), nominato Vergaro da Mauro Barbetti, gi\xC3\xA0 Vergaro negli anni 1969/70 e assistito da Joannes Franciscus IV\xC2\xB0 Bononiensis (a. s. Gian Franco Moscatelli, gi\xC3\xA0 Gran Collare h. c. dell\xE2\x80\x99Ordine del Boccale).\r\n\
+    Ora in attesa di riapertura.\r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  Motto: Noli Tangere Criccam
+  Sigla: "null"
+  indirizzo: "null"
+  note: "Archiab\xC3\xB2 Bar\xC3\xAC - Archiab\xC3\xB2 Bar\xC3\xAC - Archiab\xC3\xB2 Bar\xC3\xAC Bar\xC3\xAC Bar\xC3\xAC - Oh Issa!!!\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  m_fileImmagineTn: bo-cricca.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "10001"
+  m_bInSonno: "1"
+  Nome_veloce: Cricca
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_072: 
+  ID_ORD: "73"
+  m_fileImmagine: mot_01.gif
+  Nome_completo: Maximus Ordo Torricinorum
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "744"
+  storia: "Ordine Sovrano nell'Universit\xC3\xA0 di Urbino e sui territori dell'antico Ducato di Urbino dal 1946.\r\n\
+    Il MOT nasce come emanazione prettamente goliardica dell'Associazione Goliardica Urbinate.\r\n\
+    Ha vissuto gloriosamente fino ai primi anni '70. Ha quindi ripreso le sue attivit\xC3\xA0 il 13 marzo 1990.\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  Motto: Ut dabitur occasio
+  Sigla: MOT
+  indirizzo: ""
+  note: "Ricondurre il MOT in un database, per quanto figo come quello di Palladius, \xC3\xA8 impresa impossibile.\r\n\
+    Chi fosse interessato si guardi il sito sul MOT (vedi Linkz), potr\xC3\xA0 cos\xC3\xAC evitare d'incappare nel FALLO d'omonimia od altri ANAloghi.\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  m_fileImmagineTn: mot_01.gif
+  "Citt\xC3\xA0": Urbino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: MOT
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_044: 
+  ID_ORD: "44"
+  m_fileImmagine: fi-lira.gif
+  Nome_completo: "Serenissimo Ordine Goliardico della \xC2\xA3ira"
+  m_bSerio: "1"
+  datadinascita: 2008-12-31 11:26:33
+  emailordine: "null"
+  data_creazione: 2008-12-31 11:26:33
+  id_utente_creatore: "3621"
+  storia: "Ordine fondato il primo gennaio del 1961,e sovrano sulla facolt\xC3\xA0 d'economia di Firenze Autonomo ed Indipendente."
+  Motto: "Perch\xC3\xA8 un \xC2\xA3irino \xC3\xA8 sempre un Gentleman"
+  Sigla: "S.O.G.d.\xC2\xA3."
+  indirizzo: Marco Manetti via Guglielmo Massaia 39/41 50134 Firenze
+  note: "null"
+  m_fileImmagineTn: fi-lira.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "-1"
+  m_bInSonno: "0"
+  Nome_veloce: "\xC2\xA3ira"
+  ID_ORD_Vassallo_di: "77"
+  Sovrano: "0"
+ordini_159: 
+  ID_ORD: "174"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Supremus Kingatus Ordo
+  m_bSerio: "1"
+  datadinascita: 2008-07-07 00:34:51
+  emailordine: "-"
+  data_creazione: 2008-07-07 00:34:51
+  id_utente_creatore: "1818"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Roma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Kingatus
+  ID_ORD_Vassallo_di: "159"
+  Sovrano: "0"
+ordini_073: 
+  ID_ORD: "74"
+  m_fileImmagine: pi_parlas.gif
+  Nome_completo: Gloriosa Balla del Parlascio
+  m_bSerio: "1"
+  datadinascita: 2009-03-16 18:27:38
+  emailordine: ignota
+  data_creazione: 2009-03-16 18:27:38
+  id_utente_creatore: "4578"
+  storia: ---
+  Motto: Pisanae Gentis
+  Sigla: B.d.P
+  indirizzo: Alberto Aloisi - Via F. Crispi, 16 - 56125 PISA
+  note: Balla storica Pisana
+  m_fileImmagineTn: pi_parlas.gif
+  "Citt\xC3\xA0": Pisa
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Parlascio
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_045: 
+  ID_ORD: "46"
+  m_fileImmagine: fi-vacc.gif
+  Nome_completo: Placido Ordine Della Vacca Stupefatta
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: baldimarco@alice.it
+  data_creazione: 2007-11-12 18:46:13
+  id_utente_creatore: "3956"
+  storia: PAGARE!!!
+  Motto: Oibo'
+  Sigla: P.O.D.V.S.
+  indirizzo: Marco Baldi, Via Della Catena 19, 51030 Pistoia
+  note: Ordine Sovrano di Giurisprudenza
+  m_fileImmagineTn: fi-vacc.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: PODVS
+  ID_ORD_Vassallo_di: "77"
+  Sovrano: "0"
+ordini_100: 
+  ID_ORD: "111"
+  m_fileImmagine: sogig.gif
+  Nome_completo: Sacer Ordo Giggionis
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: "null"
+  Motto: CHI DI CULO FERISCE DI CULO PERISCE!!!
+  Sigla: sogig
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: sogig.gif
+  "Citt\xC3\xA0": Teramo
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: S.O.GIG.
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_017: 
+  ID_ORD: "18"
+  m_fileImmagine: bo-frat.gif
+  Nome_completo: Convento de li Frati Gaudenti
+  m_bSerio: "1"
+  datadinascita: 2007-01-10 11:06:42
+  emailordine: ignota
+  data_creazione: 2007-01-10 11:06:42
+  id_utente_creatore: "2187"
+  storia: "null"
+  Motto: Frates Igitur Gaudeamus Alacriter!
+  Sigla: CFG
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: bo-frat.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1999"
+  m_bInSonno: "0"
+  Nome_veloce: Frati
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_074: 
+  ID_ORD: "75"
+  m_fileImmagine: pi_piomb.gif
+  Nome_completo: Principatus Plumbinii
+  m_bSerio: "1"
+  datadinascita: 2009-05-21 12:21:14
+  emailordine: voltax21@yahoo.it
+  data_creazione: 2009-05-21 12:21:14
+  id_utente_creatore: "2160"
+  storia: |-
+    Ordine Sovrano in Valdicornia:
+    San Vincenzo, Piombino, Venturina, Suvereto, Riotorto, Follonica, Massa Marittima, Campiglia Marittima.
+  Motto: Semper Resurgat Goliardia
+  Sigla: ---
+  indirizzo: Gianpaolo Pecchia, Via Foscolo 41 - 56010 Ghezzano (PI)
+  note: "I goliardi stanno in piazza, alle osterie, ai casini (ora li chiamano night) e stranamente anche all'universit\xC3\xA0. Per cui, sapete dove trovarci.\r\n\
+    Ah, se leggi qua sai gi\xC3\xA0 che paghi bere, razza di Goliarducolo da forum!"
+  m_fileImmagineTn: pi_piomb.gif
+  "Citt\xC3\xA0": Piombino (PI)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Piombino
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_046: 
+  ID_ORD: "47"
+  m_fileImmagine: ge-dogat.gif
+  Nome_completo: Dogatum Genuense
+  m_bSerio: "1"
+  datadinascita: 2008-04-26 13:23:23
+  emailordine: ignota
+  data_creazione: 2008-04-26 13:23:23
+  id_utente_creatore: "2189"
+  storia: "null"
+  Motto: "null"
+  Sigla: S.O.G.L.
+  indirizzo: |-
+    Andrea Dellacasa
+    Via Marchini 3/15
+    16143 Genova
+  note: "null"
+  m_fileImmagineTn: ge-dogat.gif
+  "Citt\xC3\xA0": Genova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Dogatum
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "1"
+ordini_101: 
+  ID_ORD: "112"
+  m_fileImmagine: to-iovsj.gif
+  Nome_completo: Internationalis Ordo Villae Sancti Josephi
+  m_bSerio: "1"
+  datadinascita: 2004-03-12 11:57:21
+  emailordine: ignota
+  data_creazione: 2004-03-12 11:57:21
+  id_utente_creatore: "408"
+  storia: "null"
+  Motto: "null"
+  Sigla: IOVSJ
+  indirizzo: ""
+  note: |
+    
+
+  m_fileImmagineTn: to-iovsj.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: IOVSJ
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_018: 
+  ID_ORD: "19"
+  m_fileImmagine: bo-bolog.gif
+  Nome_completo: Balla de li Goliardi Bolognesi (bevete di meno!)
+  m_bSerio: "1"
+  datadinascita: 2009-06-19 19:23:30
+  emailordine: " ballabolognese@yahoo.it "
+  data_creazione: 2009-06-19 19:23:30
+  id_utente_creatore: "542"
+  storia: |-
+    ALBISTI_ALBISTI_ALBISTI_
+    ALBISTI_ALBISTI_ALBISTI_
+    ALBISTI_ALBISTI_ALBISTI_
+  Motto: Nulla procella puote obfuscare lo animo nostro.
+  Sigla: Bevete di meno!!!
+  indirizzo: |-
+    Garisenda.
+    ALBISTI_ALBISTI_ALBISTI_
+    ALBISTI_ALBISTI_ALBISTI_
+    ALBISTI_ALBISTI_ALBISTI_
+  note: "Se t\xC3\xA8 bisoggn e at b\xC3\xB9 pagh\xC3\xA8r par l'eternit\xC3\xA0 vien pur qua."
+  m_fileImmagineTn: bo-bolog.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1"
+  m_bInSonno: "0"
+  Nome_veloce: Bolognese
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_130: 
+  ID_ORD: "143"
+  m_fileImmagine: ct-socl.gif
+  Nome_completo: SOVRANO ORDINE CATANESE DEL LIOTRO
+  m_bSerio: "1"
+  datadinascita: 2004-10-29 14:37:22
+  emailordine: ignota
+  data_creazione: 2004-10-29 14:37:22
+  id_utente_creatore: "1312"
+  storia: |
+    
+    
+
+  Motto: "null"
+  Sigla: SOCL
+  indirizzo: |
+    socl@libero.it 
+    
+    
+    
+    
+    
+    
+
+  note: |
+    
+    
+
+  m_fileImmagineTn: ct-socl.gif
+  "Citt\xC3\xA0": Catania
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Liotro
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_075: 
+  ID_ORD: "77"
+  m_fileImmagine: fi-ssalv.gif
+  Nome_completo: SovranoCommendevolissimoOrdineGoliardicodiS.Salvi
+  m_bSerio: "1"
+  datadinascita: 2009-03-15 23:14:22
+  emailordine: sansalvi@hotmail.com
+  data_creazione: 2009-03-15 23:14:22
+  id_utente_creatore: "2983"
+  storia: "null"
+  Motto: "null"
+  Sigla: S.C.O.G.S.S.
+  indirizzo: |-
+    Stefano Colzi (Ciccetto)
+    c/o CSC Automazioni
+    Via Maiano 273 50010 
+    Capalle - Firenze
+  note: "null"
+  m_fileImmagineTn: fi-ssalv.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: San Salvi
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_047: 
+  ID_ORD: "48"
+  m_fileImmagine: ge_calif.gif
+  Nome_completo: Kaliffato d'Al Baroh
+  m_bSerio: "1"
+  datadinascita: 2009-07-15 01:09:50
+  emailordine: kaliffato@hotmail.it
+  data_creazione: 2009-07-15 01:09:50
+  id_utente_creatore: "2359"
+  storia: Paga da bere.
+  Motto: Ut scorpio deserti.
+  Sigla: S.O.G.I.
+  indirizzo: "null"
+  note: Paga da bere.
+  m_fileImmagineTn: ge_calif.gif
+  "Citt\xC3\xA0": Genova
+  m_nPrecedenzaCittadina: "1"
+  m_bInSonno: "0"
+  Nome_veloce: Kaliffato
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_102: 
+  ID_ORD: "113"
+  m_fileImmagine: tosj.gif
+  Nome_completo: Temibilis Ordo Sfigati et Jettatori
+  m_bSerio: "0"
+  datadinascita: 2004-04-19 20:20:04
+  emailordine: ignota
+  data_creazione: 2004-04-19 20:20:04
+  id_utente_creatore: "542"
+  storia: "null"
+  Motto: Verba Volam, Sfiga Manem
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: tosj.gif
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: T.O.S.J.
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_019: 
+  ID_ORD: "20"
+  m_fileImmagine: pd_scia.gif
+  Nome_completo: Serenissimus Sciaquonis Goliardicus Ordo
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "7"
+  storia: |
+    C'era una volta..... ABI 12333 CAB 132475
+    
+    
+    
+    
+    
+
+  Motto: "fatte i cassi tui, tz\xC3\xB2!"
+  Sigla: S.S.G.O.
+  indirizzo: ""
+  note: |
+    Noi odiamo tutti!
+    
+
+  m_fileImmagineTn: pd_scia.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Serenissimus Sciaquonis Goliardicus Ordo
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_131: 
+  ID_ORD: "144"
+  m_fileImmagine: pd_sop.gif
+  Nome_completo: Sanctissimus Ordo Patavinus
+  m_bSerio: "1"
+  datadinascita: 2005-12-11 17:59:14
+  emailordine: ignota
+  data_creazione: 2005-12-11 17:59:14
+  id_utente_creatore: "1035"
+  storia: "null"
+  Motto: "null"
+  Sigla: S.O.P.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: pd_sop.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: SOP
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_076: 
+  ID_ORD: "78"
+  m_fileImmagine: fi_cilin.gif
+  Nome_completo: Sacro e Privato Ordine del Cilindro
+  m_bSerio: "1"
+  datadinascita: 2007-03-29 15:29:16
+  emailordine: ignota
+  data_creazione: 2007-03-29 15:29:16
+  id_utente_creatore: "2187"
+  storia: "null"
+  Motto: "null"
+  Sigla: S.P.O.C.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: fi_cilin.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Cilindro
+  ID_ORD_Vassallo_di: "77"
+  Sovrano: "0"
+ordini_048: 
+  ID_ORD: "49"
+  m_fileImmagine: mc-papa.gif
+  Nome_completo: Maximus Pontificatus Maceratensis
+  m_bSerio: "1"
+  datadinascita: 2006-12-04 12:23:46
+  emailordine: ignota
+  data_creazione: 2006-12-04 12:23:46
+  id_utente_creatore: "278"
+  storia: "null"
+  Motto: "null"
+  Sigla: M.P.M.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: mc-papa.gif
+  "Citt\xC3\xA0": Macerata
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Pontificato
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "1"
+ordini_103: 
+  ID_ORD: "115"
+  m_fileImmagine: anlo.jpg
+  Nome_completo: Academicus Neo Louvaniensis Ordo
+  m_bSerio: "1"
+  datadinascita: 2007-01-19 17:33:32
+  emailordine: ignota
+  data_creazione: 2007-01-19 17:33:32
+  id_utente_creatore: "17"
+  storia: |
+    
+    
+
+  Motto: SVCFANLO!
+  Sigla: ANLO
+  indirizzo: "null"
+  note: "Ordine sovrano a Louvain-la-Neuve e sull'Universit\xC3\xA9 Catolique de Louvain. Gemellato con il Venerabilis Ordo Templarum Equitum di Torino.\r\n\
+    \r\n"
+  m_fileImmagineTn: anlo.jpg
+  "Citt\xC3\xA0": Belgio
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: ANLO
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_160: 
+  ID_ORD: "175"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Mistico Ordine Goliardico della Chimera Briaca
+  m_bSerio: "1"
+  datadinascita: 
+  emailordine: "-"
+  data_creazione: 2008-06-28 01:52:50
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Chimera Briaca
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_132: 
+  ID_ORD: "145"
+  m_fileImmagine: stemmavoghera.gif
+  Nome_completo: Supremus Ordo Goliardicus Iriensis, POntificatus O
+  m_bSerio: "1"
+  datadinascita: 2005-11-09 07:44:44
+  emailordine: ignota
+  data_creazione: 2005-11-09 07:44:44
+  id_utente_creatore: "615"
+  storia: |
+    storia
+    
+
+  Motto: "null"
+  Sigla: U
+  indirizzo: "null"
+  note: |
+    note
+    
+
+  m_fileImmagineTn: stemmavoghera.gif
+  "Citt\xC3\xA0": Voghera (PV)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Uccellacci
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_077: 
+  ID_ORD: "79"
+  m_fileImmagine: fi-chia.gif
+  Nome_completo: Eroticus et Cenciosus Goliardicus Chiavacci Ordo
+  m_bSerio: "1"
+  datadinascita: 2005-07-21 13:00:45
+  emailordine: ignota
+  data_creazione: 2005-07-21 13:00:45
+  id_utente_creatore: "542"
+  storia: "null"
+  Motto: Vita est locta quis in ano quisque in pocta
+  Sigla: E.C.G.C.O.
+  indirizzo: "null"
+  note: Sovrano in Prato, Mandamento e Provincia.
+  m_fileImmagineTn: fi-chia.gif
+  "Citt\xC3\xA0": Prato
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Chiavaccio
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_049: 
+  ID_ORD: "150"
+  m_fileImmagine: romania.gif
+  Nome_completo: Vojvodatu din Valacchia
+  m_bSerio: "0"
+  datadinascita: 2006-04-17 11:39:04
+  emailordine: ignota
+  data_creazione: 2006-04-17 11:39:04
+  id_utente_creatore: "3"
+  storia: Non credo sia serio. Se mi sbaglio9, contattatemi (Palladius)
+  Motto: "null"
+  Sigla: VV
+  indirizzo: "null"
+  note: |
+    Ordine Sovrano di Bucharest con Supremazia su Valacchia, Transilvania, Moldavia, Itania, Munotenia e Galazia.
+
+  m_fileImmagineTn: romania.gif
+  "Citt\xC3\xA0": Altro (estero)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Vojvodato di Valacchia
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_104: 
+  ID_ORD: "117"
+  m_fileImmagine: ss_algh.gif
+  Nome_completo: "Supremus Ordo de lo Esper\xC3\xB2 Royal"
+  m_bSerio: "1"
+  datadinascita: 2006-04-18 19:12:16
+  emailordine: oderesteri@libero.it
+  data_creazione: 2006-04-18 19:12:16
+  id_utente_creatore: "1062"
+  storia: "...minchia che storia!...\xC3\xA8 davvero bellisima!!..\r\n\
+    \r\n"
+  Motto: bonita y bien asentada
+  Sigla: ODER
+  indirizzo: |
+    Saiu Bastianino Via Foradada 38, 07041 Alghero(SS)
+    
+
+  note: |
+    
+
+  m_fileImmagineTn: ss-algh.gif
+  "Citt\xC3\xA0": Alghero (SS)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: "Esper\xC3\xB2 Royal"
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_161: 
+  ID_ORD: "176"
+  m_fileImmagine: notfound.gif
+  Nome_completo: del Maximus Ordo Tettonicus
+  m_bSerio: "1"
+  datadinascita: 
+  emailordine: "-"
+  data_creazione: 2008-06-28 01:54:10
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Ordo Tettonicus
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_133: 
+  ID_ORD: "146"
+  m_fileImmagine: si-balia.gif
+  Nome_completo: Princeps Baliaque Senensium
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: fedelialsollevante@scuoleabollore.it
+  data_creazione: 2008-06-20 13:11:34
+  id_utente_creatore: "1427"
+  storia: "Dal '45 ogni anno facciamo tre serate di operetta, scritta e recitata solo dagli studenti, nel teatro pi\xC3\xB9 importante di Siena.\r\n\
+    Per quattro giorni si \"va alle scuole\" ovvero facciamo la Liberatio Scholarum!\r\n\
+    La mattina entriamo dentro tutte le scuole, liberiamo gli studenti e riempiamo le macchine di fichette!\r\n\
+    Tutti gli anni facciamo una decina di macchine: prendiamo una macchina, ne smontiamo gli interni e seghiamo il tetto, con dei tubi da muratori facciamo un impalcatura e le  dipingiamo a seconda del titolo che gli vogliamo dare [titoli celebri: Il Castello de'Troiai, La Fotteria, Brodeo cavalca questo cazzo, Black Vagin etc.] \r\n\
+    Durante l'anno facciamo una decina di feste offerte dal Principe e dalla Balia.\r\n\
+    Andiamo a Venezia due giorni per il carnevale!\r\n\
+    In montagna a sciare! Facciamo il giro di Montalcino e del Chianti! \r\n\
+    Al Mare!\r\n\
+    Stampiamo un numero unico in 6000 copie che vendiamo in tutta Siena e provincia!\r\n\
+    www.goliardisenesi.com"
+  Motto: EXORIARE ALIQUIS NOSTRIS EX OSSIBUS ULTOR
+  Sigla: P.B.Q.S.
+  indirizzo: |-
+    Angolo dell'UNTO
+    [leggi Via Banchi di Sopra 
+    Bar Nannini Conca d'Oro]
+    www.goliardisenesi.com
+  note: "Ogni anno il senato composto dagli studenti antiani elegge un Principe che propone i suoi balioti che per meriti e/o beri e cene pagati ai suddetti antiani vengono eletti Balioti.\r\n\
+    La carica \xC3\xA8 annuale e non si pu\xC3\xB2 essere 2 volte n\xC3\xA8 Principe n\xC3\xA8 Baliota.\r\n\
+    SIAMO SOLO UOMINI, LA FICA NON PUO' METTERSI IL GOLIARDO NE' FAR PARTE DELLE FERIAE MATRICULARUM, PUO' ALTRESI' VENIRE ALLE NOSTRE NUMEROSE FESTE E SOLLAZZARCI PIACEVOLMENTE (COME FA)!\r\n\
+    www.goliardisenesi.com"
+  m_fileImmagineTn: si_balia.gif
+  "Citt\xC3\xA0": Siena
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: P.B.Q.S.
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_078: 
+  ID_ORD: "80"
+  m_fileImmagine: bruma.jpg
+  Nome_completo: Supremus Ordo Ticinensis Brumae
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "4"
+  storia: |
+    null
+
+  Motto: "null"
+  Sigla: SOTB
+  indirizzo: ""
+  note: |
+    null
+
+  m_fileImmagineTn: bruma.jpg
+  "Citt\xC3\xA0": Pavia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Bruma
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_105: 
+  ID_ORD: "118"
+  m_fileImmagine: sos.GIF
+  Nome_completo: Sacer Ordo Scorpionis
+  m_bSerio: "1"
+  datadinascita: 2008-11-22 15:41:30
+  emailordine: fiorellos_i@yahoo.it
+  data_creazione: 2008-11-22 15:41:30
+  id_utente_creatore: "669"
+  storia: "Ordine fondato da tre amici che erano tutti del segno dello Scorpione, da qui il nome. Si rivolsero al Sultano della Papera D'Oro di San Severo (Ordine allora Sovrano sul territorio di tutta Foggia) e riscattarono il territorio di Lesina.\r\n\
+    Il S.O.S. \xC3\xA8 ordine sovrano sul territorio di Lesina, Lesina Marina, Poggio Imperiale, Apricena, Ripalta e parte di Torremileto."
+  Motto: Ubi major minor cessat
+  Sigla: S.O.S.
+  indirizzo: http://www.sos.ilbello.com
+  note: |-
+    NON SIAMO VASSALLI DI NESSUNO !!!
+    Fino al 2008 si sono succeduti 39 Principi con rispettiva Corte e immatricolazioni delle matrincule...i nostri Ludi iniziano il 26/12 con il corteo in citta' e relativa questua, continuano con i processi alle matrincule la sera del 27/12, il Gran Gala' Goliardico del 29/12 e si concludono con la cena goliardica del 03/01.
+    
+    Il Principe reggente e' l'unico a scegliere il suo successore se ritiene che ce ne sia uno capace tra i suoi sudditi (in generale il designato e' il GranDuca). La nomina avviene il Sabato Santo. Il Principe convoca la riunione dell'intero Ordine in cui nominera' il suo successore oppure si terra' le chiavi della Citta' ancora per un altro anno.
+  m_fileImmagineTn: sos.GIF
+  "Citt\xC3\xA0": Foggia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: S.O.S.
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_162: 
+  ID_ORD: "177"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Serenissimo Goliardico Ordine della Fenice
+  m_bSerio: "1"
+  datadinascita: 
+  emailordine: "-"
+  data_creazione: 2008-06-28 01:55:01
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Fenice
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_134: 
+  ID_ORD: "147"
+  m_fileImmagine: pd_eposst.gif
+  Nome_completo: Excelsus Patavinus Ordo Spicae SovranusTarvisianum
+  m_bSerio: "1"
+  datadinascita: 0000-05-14 19:53:08
+  emailordine: ignota
+  data_creazione: 2006-05-14 19:53:08
+  id_utente_creatore: "1035"
+  storia: "null"
+  Motto: "null"
+  Sigla: EPOSST
+  indirizzo: "null"
+  note: |
+    
+    
+
+  m_fileImmagineTn: pd_eposst.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Spiga
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_079: 
+  ID_ORD: "82"
+  m_fileImmagine: to_abba.gif
+  Nome_completo: Abbazia de li Frati Gaudenti
+  m_bSerio: "1"
+  datadinascita: 2008-04-15 17:56:51
+  emailordine: mastro_pippetto@virgilio.it
+  data_creazione: 2008-04-15 17:56:51
+  id_utente_creatore: "498"
+  storia: "L\xE2\x80\x99Abbazia de li Frati Gaudenti \xC3\xA8 una Sacra Vola del Supremus Ordo Taurini Cornus (a.P.).\r\n\
+    Fu fondata da Eddy Gagna, Cardinale del Cornus, nel giorno di Bacco, Tabacco e Venere I Ottobre 1958+3.\r\n\
+    Essa nasce dalla Vola della Fa.Me. ereditando le tradizioni goliardiche di questa Vola e dell\xE2\x80\x99anteguerrano Ordine Goliardico della Arcicongregazione delli Padri Gaudenti."
+  Motto: Noi siamo Frati e ne siamo..... Fieriiiiiiiiiii!!
+  Sigla: A.F.G.
+  indirizzo: |-
+    Reverendissimo Abate<br>Mastro Pippetto Abas<br>
+    c/o Ballerini, corso Traiano, 57<br>10135 - Torino
+  note: "null"
+  m_fileImmagineTn: to_abba.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Frati Gaudenti
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_106: 
+  ID_ORD: "119"
+  m_fileImmagine: papera oro.fg.jpg
+  Nome_completo: Papera d'Oro di San Severo
+  m_bSerio: "1"
+  datadinascita: 2008-02-02 13:50:08
+  emailordine: ---
+  data_creazione: 2008-02-02 13:50:08
+  id_utente_creatore: "1770"
+  storia: ---
+  Motto: Ubi Major Minor Cessat
+  Sigla: S.O.P.O.
+  indirizzo: ---
+  note: ---
+  m_fileImmagineTn: papera oro.fg.jpg
+  "Citt\xC3\xA0": Foggia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: papera D'Oro San Severo
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_020: 
+  ID_ORD: "21"
+  m_fileImmagine: tribunato.gif
+  Nome_completo: Tribunato degli Studenti di Padova
+  m_bSerio: "1"
+  datadinascita: 2008-03-20 13:55:20
+  emailordine: Inviti elettronici? Un po' di forma per cortesia
+  data_creazione: 2008-03-20 13:55:20
+  id_utente_creatore: "2130"
+  storia: -- andare al Bo e offrire da bere ad Antonio Lo Savio --
+  Motto: Universa Universis Patavina Libertas
+  Sigla: "null"
+  indirizzo: |-
+    Tribunato degli Studenti Palazzo del Bo Via 8 Febbraio 2
+    35100 Padova
+  note: "null"
+  m_fileImmagineTn: tribunato.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Tribunato degli Studenti di Padova
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_163: 
+  ID_ORD: "178"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Confraternita del Divino Gallo Nero
+  m_bSerio: "1"
+  datadinascita: 2008-06-28 01:57:01
+  emailordine: "-"
+  data_creazione: 2008-06-28 01:57:01
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Siena
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Gallo Nero
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_135: 
+  ID_ORD: "148"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Sindacato dei Goliardi Uniti
+  m_bSerio: "0"
+  datadinascita: 2005-01-26 01:47:12
+  emailordine: ignota
+  data_creazione: 2005-01-26 01:47:12
+  id_utente_creatore: "134"
+  storia: |-
+    Il Sindacato nasce dalla lungimiranza del suo Mega Presidente Fondatore... il resto siete voi...
+    Siiiii....Nooooo....
+  Motto: Il sindacato vuole TE!
+  Sigla: Si.G.U.
+  indirizzo: "Il Sindacato \xC3\xA9 sempre vicino a voi...\r\n\
+    Nooooo...."
+  note: |-
+    Goliardi d'Italia unitevi sotto le immaginifiche insegne del "Sindacato"!!!!!!!
+    Nooooo...
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Sindacato
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_107: 
+  ID_ORD: "120"
+  m_fileImmagine: to-tarocchi.gif
+  Nome_completo: Summus Taroccorum Ordo Taurinensis
+  m_bSerio: "1"
+  datadinascita: 2004-10-05 09:31:22
+  emailordine: ignota
+  data_creazione: 2004-10-05 09:31:22
+  id_utente_creatore: "539"
+  storia: "Il Summus Taroccorum Ordo Taurinensis nasce nel 1976 grazie a un compatto gruppo di amici, ex studenti liceali, tra cui Marco Albera (Innominatus I\xC2\xB0, Cardinal Conservatore del Corno), Roberto Vairo (Pingos I\xC2\xB0), Nico Bracco (Domenico \xC3\xA8 sempre Domenico\xE2\x80\xA6. Bracco ovvero\xE2\x80\xA6 Cicciolinus). Si uniscono., poi, a loro Gabriele Danesin (Ballustrus Kappelmeister, \xE2\x80\x9Cla biro profumata\xE2\x80\x9D) e Paolo Benevelli (Crapulus). Si segnala, in quegli anni, il gemellaggio tra i Tarocchi e lo IOVSJ.\r\n\
+    \r\n\
+    L'attivit\xC3\xA0 Goliardica dei Tarocchi procede ininterrotta fino al 1980, anno dopo il quale solo Benevelli, a capo del Principato, continua ad essere presente sulle Piazze.\r\n\
+    Alcuni anni dopo, nel 1986, i Tarocchi si ritrovano per celebrare il decennale della fondazione, e sulla spinta dell'entusiasmo per questo evento tornano a riunirsi.\r\n\
+    Nel 1989, su invito di Manlio Collino Zeus, prendono parte alla Cena Merlin, e inizia una tradizione di Cabaret Goliardico e di grande disponibilit\xC3\xA0, che pone i Tarocchi al servizio del Corno in infinite occasioni.\r\n\
+    In seguito a questi avvenimenti ai Tarocchi torna la voglia di trovarsi e di stare insieme, e vengono ripresi il filone Musicale , che ha i suoi protagonisti in Danesin, Benevelli, Bracco, Vairo, Ferdinando Rosso (Pantagruelicus), Manino Podest\xC3\xA0 (Passepartout); il filone di ricerca storica, che fa capo ad Albera ed al suo Centro di Documentazione Goliardico \xE2\x80\x9CUniversitas Scholarum\xE2\x80\x9D, e che ha portato alla realizzazione di varie mostre in Italia; il filone letterario, che ha in Vairo e nei suoi libelli, e naturalmente nei numeri di \"Mala Tempora\", la sua massima espressione. Infine, grazie allo stesso Vairo e ad Andrea Vanner (S.S. Sylenus) la produzione di CD, musicassette e filmati dei vari spettacoli realizzati dall'Ordine.\r\n\
+    \r\n\
+    Grandi Tarocchi furono, oltre a quelli gi\xC3\xA0 citati, Franchino Ressa (Archeophilus) e Guido Pazzi (Gaius Micropenicus, Colui che ricevette in dono da mamma due begli occhi) di Asti, insuperato \"Torero\". Oltre a loro, naturalmente Mim\xC3\xAC, e Gim Culo Glabro, e tutti gli altri componenti di PLUBELLES e PLUBONS, che diedero un nuovo impulso agli spettacoli dell'Ordine, avvenuti in occasione delle Feriae Matricularum di Padova, Ferrara e Bologna. Si segnalano anche diversi concerti a Genova, Firenze, Pisa, Milano, Parma e Torino (qui in occasione del Cinquantenario del S.O.T.C.a.P.)\r\n\
+    \r\n\
+    Nonostane i membri fondatori, tranne qualche eccezione, non facciano pi\xC3\xB9 vita universitaria attiva, l'Ordine si segnala per una straordinaria apertura ai giovani, importantissimi, tra cui citiamo S.E. Evaristo, S. E. Manolus, S.Ecc. Lapalisse, Virus, S.Ecc. Vitellicus e S.Ecc. Mauritianus e Mons. Masturbanipal.\r\n\
+    \r\n\
+    Sintetizzando, i Tarocchi si distinguono da ogni altro Ordine Italiano in virt\xC3\xB9 dei loro rapporti interpersonali basati sull'amicizia, delle loro inclinazioni artistiche, del loro poco formalismo nella visione goliardica, e della generosa disponibilit\xC3\xA0 che li ha messi in tutte le occasioni al servizio della Goliardia Piemontese.\r\n\
+    \r\n\
+    Proprio l\xE2\x80\x99unione di questo incredibile gruppo ha spinto alcuni dei suoi componenti a trovarsi per suonare insieme e a fondare un gruppo di musica piemontese \xE2\x80\x93 \xE2\x80\x9CIj Tar\xC3\xB2ch\xE2\x80\x9D \xE2\x80\x93 inizialmente formato da Ballustrus e da Pantagruelicus, a cui si sono aggiunti, con il tempo, S. E. Omega, Mons. Mala Abitatione \xE2\x80\x9CMalmaison\xE2\x80\x9D,  Mons. Masturbanipal ed il Cavaliere Eliano Bonafini \xE2\x80\x9CVirus\xE2\x80\x9D. A parte l\xE2\x80\x99interesse per la musica cantata in dialetto, si \xC3\xA8 trovata una scusa per riprendere a suonare insieme in Goliardia. Non si pu\xC3\xB2 dimenticare il trionfale successo alle Matricolari di Bologna del 2003, dove, per richiesta del Magistrato del Fittone, ci si \xC3\xA8 recati a suonare in un magnifico carro fornito dai Bolognesi. Ci si \xC3\xA8 anche trovati, sempre nel 2003, al Circolo degli Artisti!\r\n\
+    \r\n\
+    Attualmente la vena artistico musicale  \xE2\x80\x9Ccontinua\xE2\x80\x9D, portata sulle piazze di tutta Italia dai Tarocchi, e, con la supervisione di Innominatus, proseguono le ricerche storiche sulla Goliardia, seguite, in particolar modo da S.E. Manolus e Mons. Innominatus II.\r\n\
+    \r\n\
+    \r\n"
+  Motto: non al pero, non al melo, ma al fico e alla sua Si
+  Sigla: S.T.O.T.
+  indirizzo: |
+    indirizzo di Ballustrus?!?
+    Lele DANESIN
+    Via Pedrotti 23
+    10152 torino to
+    kappelmeister@libero.it
+
+  note: "Inno del Summus Taroccorum  Ordo Taurinensis\r\n\
+    \r\n\
+    (Musica L.Van Beethoven \xE2\x80\x93 Testo A.M. Pingos I\xC2\xB0, Sull\xE2\x80\x99aria dell\xE2\x80\x99Inno alla Gioia)\r\n\
+    \r\n\
+    \r\n\
+    Viva sempre viva il Summus Taroccorum Ordo,\r\n\
+    \r\n\
+    anche dopo morti rester\xC3\xA0 il nostro ricordo\r\n\
+    \r\n\
+    vento e sole, nei nostri cuori,\r\n\
+    questa \xC3\xA8 l\xE2\x80\x99eterna Giovent\xC3\xB9\r\n\
+    \r\n\
+    Liberi siam noi del Summus Taroccorum Ordo!!!\r\n\
+    \r\n"
+  m_fileImmagineTn: to-stot.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Tarocchi
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_021: 
+  ID_ORD: "22"
+  m_fileImmagine: pd-vesp.gif
+  Nome_completo: Sacer Ordo Vespertilionis Gens Patavina
+  m_bSerio: "1"
+  datadinascita: 2009-03-25 17:39:04
+  emailordine: faust.braun@gmail.com
+  data_creazione: 2009-03-25 17:39:04
+  id_utente_creatore: "542"
+  storia: ---
+  Motto: ---
+  Sigla: S.O.V.G.P.
+  indirizzo: "Nicol\xC3\xB2 Cavestro\r\n\
+    Via Bovolare 4/A - 35042 Este (PD)"
+  note: ---
+  m_fileImmagineTn: pd-vesp.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Vespertilio
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_164: 
+  ID_ORD: "179"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Florentiae Caerusicorum Goliardica Academia
+  m_bSerio: "1"
+  datadinascita: 2008-06-28 13:40:19
+  emailordine: "-"
+  data_creazione: 2008-06-28 13:40:19
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Firenze
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Cerusici
+  ID_ORD_Vassallo_di: "77"
+  Sovrano: "0"
+ordini_136: 
+  ID_ORD: "149"
+  m_fileImmagine: grandarmee.gif
+  Nome_completo: "Grand Arm\xC3\xA9e"
+  m_bSerio: "1"
+  datadinascita: 2007-11-26 12:56:21
+  emailordine: mala_abitatione@hotmail.com
+  data_creazione: 2007-11-26 12:56:21
+  id_utente_creatore: "539"
+  storia: "Fu fondata nel 1969 da Napoleone I.\r\n\
+    \r\n\
+    Irripetibile la presentazione all'allora Pontefice Zeus con 16 goliardi trovati in 24 ore. Alla cena di apertura l'allora Conte Nero Pappo sfid\xC3\xB2 Napoleone a mingere scrivendo qualcosa. In risposta al notevole \"Pappus Niger Conteanus\" dell'avversario, l'Imperatore rispose con un irripetibile \"Napoleon Primus Imperator Grande Arm\xC3\xA8e\" tra gli applausi della folla convenuta! Per il conclave dell'anno successivo, Napoleone si present\xC3\xB2 insieme alla sua vola, con accanto il mitico Cambronne (poi S.S. Jesus) e 3 Fiat 500 affiancate (blu, bianca e rossa) con i megafoni che diffondevano l'inno francese, davanti a Palazzo Nuovo, sede universitaria torinese."
+  Motto: Vive l'empereur!
+  Sigla: GANTT
+  indirizzo: MARCO CASAZZA, via Madama Cristina 114, 10126, Torino
+  note: "Gloriosa vola che ha tenuto\r\n\
+    a battesimo molti goliardi illustri. \r\n\
+    Ora \xC3\xA8 in sonno... o, meglio, in dormiveglia..."
+  m_fileImmagineTn: grandarmee_1.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: "Arm\xC3\xA9e"
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_108: 
+  ID_ORD: "121"
+  m_fileImmagine: filistei.gif
+  Nome_completo: Ignobile NonGoliardico Girone dei Filistei
+  m_bSerio: "0"
+  datadinascita: 2005-09-23 19:55:38
+  emailordine: ignota
+  data_creazione: 2005-09-23 19:55:38
+  id_utente_creatore: "3"
+  storia: |
+    nessuna
+
+  Motto: Fatti processare balengo!
+  Sigla: INOGGIF
+  indirizzo: "null"
+  note: |
+    null
+    
+    
+
+  m_fileImmagineTn: filistei.gif
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Filistei
+  ID_ORD_Vassallo_di: "101"
+  Sovrano: "0"
+ordini_050: 
+  ID_ORD: "50"
+  m_fileImmagine: mo-duca.gif
+  Nome_completo: Ducatus Mutinensis Ordo Sovranus
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "331"
+  storia: "null"
+  Motto: "null"
+  Sigla: D.M.O.S.
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: mo-duca.gif
+  "Citt\xC3\xA0": Modena
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Ducatus Mutinensis
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "1"
+ordini_022: 
+  ID_ORD: "23"
+  m_fileImmagine: to-druid.gif
+  Nome_completo: Arcana Vola Sacerdotum Druidarum
+  m_bSerio: "1"
+  datadinascita: 2008-07-11 15:55:00
+  emailordine: mishra85@hotmail.com
+  data_creazione: 2008-07-11 15:55:00
+  id_utente_creatore: "542"
+  storia: Storia dei Druidi sul nostro fighissimo sito! www.avsd.altervista.org
+  Motto: ---
+  Sigla: AVSD
+  indirizzo: "Rosa Liperoti - Loc. Tedeschi, 131 - 10040 Lein\xC3\xAC (TO)"
+  note: |-
+    Dal nulla, una strada si inerpica verso l'infinito...
+    www.avsd.altervista.org
+  m_fileImmagineTn: to-druid.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Druidi
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_165: 
+  ID_ORD: "180"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Sacer Ordo Arrapaho
+  m_bSerio: "1"
+  datadinascita: 
+  emailordine: "-"
+  data_creazione: 2008-06-28 01:59:04
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Arrapaho
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_137: 
+  ID_ORD: "151"
+  m_fileImmagine: topa.jpg
+  Nome_completo: Sacer Ordo Topae
+  m_bSerio: "1"
+  datadinascita: 2009-04-10 13:24:15
+  emailordine: virgoledda@libero.it
+  data_creazione: 2009-04-10 13:24:15
+  id_utente_creatore: "2569"
+  storia: "Nasce nel 69+31.\r\n\
+    L'ordine \xC3\xA8 un'associazione apolitica e apartitica senza scopo di lucro che ha come scopo quello di tramandare il gioco goliardico con la sua spensieratezza.\r\n\
+    Sicuri che anche la vita sia un bel gioco con le sue regole sempre discutibili, magari davanti ad un buon bicchiere di vino, sopra o sotto o sottosopra una, due e anche tre belle pulzelle (e se non sono belle, belle o brutte ce le chiaviamo tutte) o fumando un buon sigaro.\r\n\
+    i colri sociali sono il giallo e il bl\xC3\xB9"
+  Motto: Coito Ergo Sum
+  Sigla: S.O.T.
+  indirizzo: valentina ledda via napoli 40 07100 sassari
+  note: "Ordine della citt\xC3\xA0 di Ozieri vassallo del Sovranus Ordo Gaudentis Favae (Sassari)"
+  m_fileImmagineTn: topa.jpg
+  "Citt\xC3\xA0": Ozieri (SS)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: TOPA
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_109: 
+  ID_ORD: "122"
+  m_fileImmagine: OCU.GIF
+  Nome_completo: Ordo Clavis Universalis
+  m_bSerio: "1"
+  datadinascita: 2007-01-29 09:44:21
+  emailordine: ignota
+  data_creazione: 2007-01-29 09:44:21
+  id_utente_creatore: "3"
+  storia: "null"
+  Motto: "null"
+  Sigla: OCU
+  indirizzo: |
+    
+    
+
+  note: "null"
+  m_fileImmagineTn: OCU.GIF
+  "Citt\xC3\xA0": Pavia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Chiave (OCU)
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_051: 
+  ID_ORD: "51"
+  m_fileImmagine: sogsdf.gif
+  Nome_completo: Speron di Ferro
+  m_bSerio: "1"
+  datadinascita: 2008-01-28 01:43:02
+  emailordine: info@sperondiferro.it
+  data_creazione: 2008-01-28 01:43:02
+  id_utente_creatore: "3485"
+  storia: L'Ordine viene fondato nel 1960, da Peppe Romeo e Lillo Rocca, sulle ceneri dell'estinta Sacra Conphraternita Trimurtis. E' sovrano su Palermo, Trapani e Agrigento.
+  Motto: Noli scassare puntam Speronem
+  Sigla: SOGSdF
+  indirizzo: Vedi sezione CONTATTI all'URL http://www.sperondiferro.it
+  note: "Francesco XXII il Restauratore?\r\n\
+    E chi azzo \xC3\xA8?"
+  m_fileImmagineTn: sogsdf.gif
+  "Citt\xC3\xA0": Palermo
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Speron di Ferro
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_023: 
+  ID_ORD: "24"
+  m_fileImmagine: pv-chiav.gif
+  Nome_completo: Supremus Ordo Ticinensis Clavis
+  m_bSerio: "1"
+  datadinascita: 2007-01-29 09:43:59
+  emailordine: ignota
+  data_creazione: 2007-01-29 09:43:59
+  id_utente_creatore: "3"
+  storia: "null"
+  Motto: Minervino culo rotto
+  Sigla: S.O.T.C.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: pv-chiav.gif
+  "Citt\xC3\xA0": Pavia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Chiave (SOTC)
+  ID_ORD_Vassallo_di: "66"
+  Sovrano: "0"
+ordini_166: 
+  ID_ORD: "181"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Sacra Confraternita Ottomana dei Levantini d'Occid
+  m_bSerio: "1"
+  datadinascita: 2008-06-28 10:25:14
+  emailordine: "-"
+  data_creazione: 2008-06-28 10:25:14
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Levantini
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_138: 
+  ID_ORD: "156"
+  m_fileImmagine: zaglia_stem_gr.jpg
+  Nome_completo: Signoria della Zaglia
+  m_bSerio: "1"
+  datadinascita: 2008-07-22 10:33:27
+  emailordine: stradora201@tiscali.it
+  data_creazione: 2008-07-22 10:33:27
+  id_utente_creatore: "927"
+  storia: "La Signoria della Zaglia\xE2\x84\xA2 nasce il Venerd\xC3\xAC 17 Dicembre del 1993, per mano Nostra e di un manipolo di baldi giovani. Codesto ordine fu inventato per \"Sputtanare\" una certa Lara Zaglia che, ancora vergine, nell'agosto 1993, lasci\xC3\xB2, dopo una storia di ben due anni, Matteo Guerra di Ferrara, andando a scopare con uno dei suoi migliori amici tale Baldassarre."
+  Motto: Zaglia Zaglia roia x3 roia x 2
+  Sigla: SOZ
+  indirizzo: "null"
+  note: |-
+    Care Goliarde controllate 
+    se avete avuto 'rapporti' con qualcuno degli iscritti e inviatemi la liberatoria.
+  m_fileImmagineTn: zaglia.jpg
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Zaglia
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_080: 
+  ID_ORD: "83"
+  m_fileImmagine: telematicus.jpg
+  Nome_completo: Supremus Ordo Telematici Communications atque Phax
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: "null"
+  Motto: nel dubbio riavvia
+  Sigla: SOTCaP
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: telematicus.jpg
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Telematicus
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_052: 
+  ID_ORD: "52"
+  m_fileImmagine: pd-gog.gif
+  Nome_completo: Goliardico Ordine del Gattamelata
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "7"
+  storia: |
+    Fondato il 17 ottobre 1980 (758 a B.c.) da Marco Colletta Pellecorta, dei Cavalieri Senza Terra di Verona, e da Massimo Paky Paccagnella, Principe del S.O.P., viene riconosciuto l'anno seguente dal Tribuno Tiziano Biasioli. Tribuno che viene scelto tra le 7 persone che facevano goliardia in quell'anno...le altre sei erano malate l'8 febbraio. Quando si dice la sfiga.
+    
+    
+
+  Motto: "null"
+  Sigla: GOG
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: pd-gog.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Gattamelata
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_024: 
+  ID_ORD: "25"
+  m_fileImmagine: pr_sign.gif
+  Nome_completo: Signori del Castello
+  m_bSerio: "1"
+  datadinascita: 2008-08-30 22:25:30
+  emailordine: "null"
+  data_creazione: 2008-08-30 22:25:30
+  id_utente_creatore: "75"
+  storia: "Bella e colorita.... Ma per saperla \xC3\xA8 meglio parlarne al bar......"
+  Motto: NEMO SUPER NOS, SUB NOS OMNES
+  Sigla: S.d.C.
+  indirizzo: |-
+    c/o Lord Infreddolitus Vinegar;
+     Aimi Fabio, via Riomaggiore 2, 43100 Parma
+  note: "null"
+  m_fileImmagineTn: pr_sign.gif
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Signori del Castello
+  ID_ORD_Vassallo_di: "26"
+  Sovrano: "0"
+ordini_167: 
+  ID_ORD: "182"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Sultanatus Terroniae Tellus
+  m_bSerio: "1"
+  datadinascita: 
+  emailordine: "-"
+  data_creazione: 2008-06-28 02:02:27
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Terroniae Tellus
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_139: 
+  ID_ORD: "183"
+  m_fileImmagine: cardapo.gif
+  Nome_completo: Goliardica Masnada de li Cardinali dell'Apocalisse
+  m_bSerio: "1"
+  datadinascita: 2009-05-05 18:10:50
+  emailordine: manolus@tin.it
+  data_creazione: 2009-05-05 18:10:50
+  id_utente_creatore: "17"
+  storia: ---
+  Motto: Ut Caveant
+  Sigla: CdA
+  indirizzo: ---
+  note: ---
+  m_fileImmagineTn: cardapo.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Cardinali dell'Apocalisse
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_053: 
+  ID_ORD: "53"
+  m_fileImmagine: pd-lupa.gif
+  Nome_completo: ""
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "0"
+  storia: ""
+  Motto: ""
+  Sigla: ""
+  indirizzo: ""
+  note: ""
+  m_fileImmagineTn: pd-lupa.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Lupara
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_025: 
+  ID_ORD: "26"
+  m_fileImmagine: pr-ducat.gif
+  Nome_completo: Ducatus Parmae Placentiae Guastallae Lunigianae TL
+  m_bSerio: "1"
+  datadinascita: 2008-06-05 09:51:08
+  emailordine: mikmiktnt@yahoo.it
+  data_creazione: 2008-06-05 09:51:08
+  id_utente_creatore: "3821"
+  storia: Al bar... ho sete
+  Motto: "null"
+  Sigla: DPPGLTTLL
+  indirizzo: |-
+    Michele Carboni, via Enza 23
+    43100 Parma
+  note: "null"
+  m_fileImmagineTn: pr-ducat.gif
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Ducato di Parma
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_081: 
+  ID_ORD: "84"
+  m_fileImmagine: pi-tigr-x.gif
+  Nome_completo: Libera Compagnia di Ventura   Il Tigrato
+  m_bSerio: "1"
+  datadinascita: 2006-11-20 15:03:38
+  emailordine: ignota
+  data_creazione: 2006-11-20 15:03:38
+  id_utente_creatore: "2245"
+  storia: |
+    pagare!
+
+  Motto: Se il Tigrato non lo vuoi cazzi tuoi cazzi tuoi
+  Sigla: pagare!
+  indirizzo: |
+    pagare!
+
+  note: |
+    pagare!
+    
+    
+    
+
+  m_fileImmagineTn: pi-tigr-x.gif
+  "Citt\xC3\xA0": Pisa
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Tigrato
+  ID_ORD_Vassallo_di: "65"
+  Sovrano: "0"
+ordini_168: 
+  ID_ORD: "184"
+  m_fileImmagine: sorso.gif
+  Nome_completo: Supremus Ordo Regni Seychellarum Oceanorumque
+  m_bSerio: "1"
+  datadinascita: 2008-11-03 15:02:10
+  emailordine: "-"
+  data_creazione: 2008-11-03 15:02:10
+  id_utente_creatore: "1818"
+  storia: "null"
+  Motto: Finis Coronat Opus
+  Sigla: S.O.R.S.O.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: sorso.gif
+  "Citt\xC3\xA0": Altro (estero)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: S.O.R.S.O.
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_054: 
+  ID_ORD: "54"
+  m_fileImmagine: pi-res.gif
+  Nome_completo: ResPublica Balla Pisana
+  m_bSerio: "1"
+  datadinascita: 2009-09-05 20:39:21
+  emailordine: priore@respublicapisana.org
+  data_creazione: 2009-09-05 20:39:21
+  id_utente_creatore: "542"
+  storia: "3 nomi... una storia: benvenuti nei Nostri primi 45 anni di Goliardia!"
+  Motto: Goliardus Goliardo Sacer
+  Sigla: RP.B.P.
+  indirizzo: |-
+    esteri@respublicapisana.org
+    ----------------------------
+    Via Nicola Pisano 8 - 56126 PISA
+  note: VISITA IL SITO UFFICIALE DELLA RESPUBLICA BALLA PISANA SU WWW.RESPUBLICAPISANA.IT, NELLA SEZIONE "NEWS" CI SONO I RESOCONTI DELLE IMPRESE CON LINK A VIDEO E FOTO!
+  m_fileImmagineTn: pi-res.gif
+  "Citt\xC3\xA0": Pisa
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Res
+  ID_ORD_Vassallo_di: "65"
+  Sovrano: "0"
+ordini_026: 
+  ID_ORD: "27"
+  m_fileImmagine: "null"
+  Nome_completo: ordo follicolari
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "152"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: pr_folli.gif
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Follicolari
+  ID_ORD_Vassallo_di: "26"
+  Sovrano: "0"
+ordini_082: 
+  ID_ORD: "87"
+  m_fileImmagine: chiaveretetn.jpg
+  Nome_completo: Trista Compagnia dei Cavalieri del Chiaverete
+  m_bSerio: "0"
+  datadinascita: 2004-08-10 17:26:32
+  emailordine: ignota
+  data_creazione: 2004-08-10 17:26:32
+  id_utente_creatore: "108"
+  storia: "null"
+  Motto: Chiaverete! Absit iniuria verbo...
+  Sigla: TCCC
+  indirizzo: "null"
+  note: "L'ordine e la sua funzione \xC3\xA8 da sempre avvolto nel pi\xC3\xB9 profondo mistero... e continuer\xC3\xA0 ad esserlo!\r\n\
+    \r\n\
+    \r\n"
+  m_fileImmagineTn: chiaveretetn.jpg
+  "Citt\xC3\xA0": Altro (in Italia)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Chiaverete
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_169: 
+  ID_ORD: "185"
+  m_fileImmagine: erranti_roma.gif
+  Nome_completo: Sacer Ordo de li Chavalieri Erranti
+  m_bSerio: "1"
+  datadinascita: 2009-06-19 19:24:20
+  emailordine: evitatp@libero.it
+  data_creazione: 2009-06-19 19:24:20
+  id_utente_creatore: "542"
+  storia: Pagare!
+  Motto: "Ho gi\xC3\xA0 sete..."
+  Sigla: S.O.C.E.
+  indirizzo: |-
+    Eva D'Amico c/o Martini, Via Marco Decumio 80,
+    00174 Roma
+  note: ---
+  m_fileImmagineTn: erranti_roma.gif
+  "Citt\xC3\xA0": Roma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Chavalieri Erranti
+  ID_ORD_Vassallo_di: "159"
+  Sovrano: "0"
+ordini_055: 
+  ID_ORD: "55"
+  m_fileImmagine: minerva.jpg
+  Nome_completo: Supremus Ordo Papiae Chiavandi
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "72"
+  storia: Clefi chiappone!!!!!!
+  Motto: "null"
+  Sigla: S.O.P.C.
+  indirizzo: ""
+  note: "W le Clefi's angels!! "
+  m_fileImmagineTn: minerva.jpg
+  "Citt\xC3\xA0": Pavia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Minerva
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_110: 
+  ID_ORD: "123"
+  m_fileImmagine: Goliardicus Situs Multimedialis.jpg
+  Nome_completo: Goliardicus Situs Multimedialis
+  m_bSerio: "0"
+  datadinascita: 2007-10-24 20:40:19
+  emailordine: ignota
+  data_creazione: 2007-10-24 20:40:19
+  id_utente_creatore: "1818"
+  storia: "Il DOMINIO Goliardia.it nasce con Npp per dare hosting (spazio) alla goliardia perugina. \r\n\
+    Il sito che vedete ora nasce (il 28-4-02) da un'idea palladiana (che gi\xC3\xA0 l'aveva portata all'esame di DataBase fruttandogli un bel 30L) e viene realizzato poco dopo la laurea al posto di un viaggio ad Amsterdam (poich\xC3\xA8 l'amico Gigi lo pacc\xC3\xB2). Il sito risiede all'insaputa dei proprietari in una costola di www.eurogolfmeeting.it e viene gentilmente linkato da Npp a www.goliardia.it. Viene poi spostato nel Novembre 2002 nel dominio www.palladius.it, in cui risiede tuttora."
+  Motto: In Bit Veritas
+  Sigla: GSM
+  indirizzo: "null"
+  note: "Questo ordine PACCO vuole dare cariche a goliardi particolarmente meritevoli ai fini del sito stesso... pu\xC3\xB2 essere inteso come un meta-ordine."
+  m_fileImmagineTn: Goliardicus Situs Multimedialis.jpg
+  "Citt\xC3\xA0": Italia
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: goliardia.it
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_027: 
+  ID_ORD: "28"
+  m_fileImmagine: to-vampiri.jpg
+  Nome_completo: Sacra atque Temibilis Vola del Vampiro
+  m_bSerio: "1"
+  datadinascita: 2009-05-06 12:44:44
+  emailordine: ranius_lot@yahoo.it
+  data_creazione: 2009-05-06 12:44:44
+  id_utente_creatore: "373"
+  storia: Riaperta da Baguette il 6.12.1994
+  Motto: Sub sole sileo, In nocte nugo
+  Sigla: SaTVdV
+  indirizzo: "Ulul\xC3\xA0 - Luca Barberis\r\n\
+    C.so Filippo Turati 43bis - \r\n\
+    10128 Torino"
+  note: ---
+  m_fileImmagineTn: to-vamp.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Vampiri
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_083: 
+  ID_ORD: "88"
+  m_fileImmagine: _sla_cn.gif
+  Nome_completo: Goliardico e Nobilissimo Ordine Cavalleresco di Sl
+  m_bSerio: "1"
+  datadinascita: 2008-02-12 11:58:13
+  emailordine: gifram@alice.it
+  data_creazione: 2008-02-12 11:58:13
+  id_utente_creatore: "27"
+  storia: "Ordine Cavalleresco fondato l'8 dicembre 1983 A.D. da: Sua Uccellenza il Langravio Franko I Borhovo, Joannes Franciscus IV\xC2\xB0 Bononiensis nominato \"Margravio di Illiria\" e Johannes Luca Monachus I\xC2\xB0 nominato \"Margravio di Pannonia\".\r\n\
+    L\xE2\x80\x99uscita ufficiale dell\xE2\x80\x99Ordine in mezzo al popolo goliardico avvenne in occasione della Cena della Balla dell\xE2\x80\x99Oca che ebbe luogo in una Taverna in Val di Zena il 4 Maggio 1984, vigilia della Festa delle Matricole di Bologna, e fu sfoggiata in tale occasione dal Langravio, e dai due Margravi."
+  Motto: Nazdrauglie? Piliga!
+  Sigla: GNOCS
+  indirizzo: Franko S.
+  note: "L'ordine indice due manifestazioni ogni anno: la Cena Grande a maggio e  l'Alta Dieta dei Vojvoda a Ottobre-Novembre."
+  m_fileImmagineTn: _sla_cn.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "2000"
+  m_bInSonno: "0"
+  Nome_veloce: Slavonia
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_056: 
+  ID_ORD: "56"
+  m_fileImmagine: ss-fava.gif
+  Nome_completo: No comment
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "0"
+  storia: ""
+  Motto: ""
+  Sigla: ""
+  indirizzo: ""
+  note: ""
+  m_fileImmagineTn: ss-fava.gif
+  "Citt\xC3\xA0": San Severo (FG)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Fava
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_111: 
+  ID_ORD: "124"
+  m_fileImmagine: fattone.gif
+  Nome_completo: Sagra WoitilisQue Factonis Orda
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: "null"
+  Motto: oh, c''hai due spicci?!?
+  Sigla: SWQFO
+  indirizzo: ""
+  note: |
+    null
+    
+
+  m_fileImmagineTn: fattone.jpg
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Fattone
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_028: 
+  ID_ORD: "30"
+  m_fileImmagine: to-toson.gif
+  Nome_completo: Sacra Vola del Toson d'Oro
+  m_bSerio: "1"
+  datadinascita: 2009-03-03 15:36:42
+  emailordine: nirvana_10090@yahoo.com
+  data_creazione: 2009-03-03 15:36:42
+  id_utente_creatore: "542"
+  storia: pagare...
+  Motto: Leccatio Ficarum Semper
+  Sigla: S.V.d.T.d.O.
+  indirizzo: Alessandro Rosa Via Rosta 76 - 10090 Villarbasse (TO)
+  note: ---
+  m_fileImmagineTn: to-toson.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Tosone
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_084: 
+  ID_ORD: "89"
+  m_fileImmagine: asinelli.jpg
+  Nome_completo: Inutile e Immaginario Disordine degli Asinelli
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: "una sera ubriachi alla taverna dello Scorpione, in via Senzanome, Titanicus, Palladius, Hakuna, Mannarus, Bimbogigi e chi cazzo si ricorda, andando avanti a bocce di Vino del Cazzo (ne ho ancora una copia autografata) hanno pensato di fondare le fondamenta dell'ordine. Poi l'ordine. non si sa se ci siano riusciti. Il resto, come si suol dire, \xC3\xA8 storia..."
+  Motto: "Raglia, raglia ragli, di pi\xC3\xB9 di pi\xC3\xB9 di pi\xC3\xB9! I-O, I"
+  Sigla: IO
+  indirizzo: ""
+  note: "attualmente il GranCromosomaY \xC3\xA8 Mannarus..in attesa di un colpo di stato che per riuscire deve fallire...\r\n"
+  m_fileImmagineTn: asinelli.jpg
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Asinelli
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_140: 
+  ID_ORD: "152"
+  m_fileImmagine: nrae.jpg
+  Nome_completo: Nuovo Regno dell'Alto Eridano
+  m_bSerio: "1"
+  datadinascita: 2007-04-07 14:09:35
+  emailordine: maatkara@alice.it
+  data_creazione: 2007-04-07 14:09:35
+  id_utente_creatore: "2673"
+  storia: "Viene partorito dalle contorte menti di Orzou\xC3\xA8i, Wobinda, Fanta e Igor. Tutto ci\xC3\xB2 \xC3\xA8 stato reso possibile grazie al supporto concreto e morale di Sua Santit\xC3\xA0 Renatus VIII-II Anarchicus Culgate Cornelius I, adoratissimo ed amatissimo Pontifex del S.O.T.C. ne lo ano 1969+27\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  Motto: Ankh-Wdja-Seneb!
+  Sigla: N.R.A.E.
+  indirizzo: |
+    
+    
+    
+    via Belfiore,60
+    10126-Torino
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+  note: "Inno del N.R.A.E.\r\n\
+    su:\r\n\
+    \"S\xC3\xAC, vendetta\xE2\x80\x9D,\r\n\
+    Rigoletto \r\n\
+    Atto II\r\n\
+    Scena VIII\r\n\
+    musica di G. Verdi\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  m_fileImmagineTn: nrae.jpg
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: "Erid\xC3\xA0no"
+  ID_ORD_Vassallo_di: "9"
+  Sovrano: "0"
+ordini_057: 
+  ID_ORD: "57"
+  m_fileImmagine: ts-gufo.gif
+  Nome_completo: Goliardicus Universalis Fabulosus Ordo
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: "storia 2\r\n "
+  Motto: motto 2
+  Sigla: GUFO
+  indirizzo: ""
+  note: |
+    note 2
+
+  m_fileImmagineTn: ts-gufo.gif
+  "Citt\xC3\xA0": Trieste
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: GUFO
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_112: 
+  ID_ORD: "125"
+  m_fileImmagine: ss-fava.gif
+  Nome_completo: Sovranus Ordo Gaudentis Favae (A.G.T.)
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: "null"
+  data_creazione: 2008-01-24 13:05:46
+  id_utente_creatore: "2960"
+  storia: "null"
+  Motto: "null"
+  Sigla: S.O.G.F (A.G.T.)
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: ss-fava.gif
+  "Citt\xC3\xA0": Sassari
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Sovranus Ordo Gaudentis Favae (A.G.T.)
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_029: 
+  ID_ORD: "171"
+  m_fileImmagine: chimere.gif
+  Nome_completo: Chimerae Magnificus ac Terribilis Ordo Goliae
+  m_bSerio: "1"
+  datadinascita: 2008-04-29 09:57:35
+  emailordine: bus_cri@libero.it
+  data_creazione: 2008-04-29 09:57:35
+  id_utente_creatore: "2201"
+  storia: Tu pagare, Noi raccontare. Facile, no?
+  Motto: Fortuna eia tenuit menstruo
+  Sigla: C.M.a.T.O.G.
+  indirizzo: Cristina Busin Via Ronchi 34 20134 Milano
+  note: ---
+  m_fileImmagineTn: chimere.gif
+  "Citt\xC3\xA0": Milano
+  m_nPrecedenzaCittadina: "5"
+  m_bInSonno: "0"
+  Nome_veloce: Chimere
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_085: 
+  ID_ORD: "93"
+  m_fileImmagine: to_giar.gif
+  Nome_completo: Sacra Vola della Giarrettiera
+  m_bSerio: "1"
+  datadinascita: 2007-01-19 17:39:51
+  emailordine: ignota
+  data_creazione: 2007-01-19 17:39:51
+  id_utente_creatore: "17"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: to-giar.gif
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Giarrettiera
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_141: 
+  ID_ORD: "153"
+  m_fileImmagine: bo-duc-t.gif
+  Nome_completo: Ducato della Tempesta
+  m_bSerio: "1"
+  datadinascita: 2007-01-10 10:19:21
+  emailordine: "-"
+  data_creazione: 2007-01-10 10:19:21
+  id_utente_creatore: "3"
+  storia: "Nato nel 1991 in occasione della conquista di Molinella, in seguito all'operazione concertata dal Fittone e da Bombolus Sebaceus (gi\xC3\xA0 Barone del SVQFO) denominata \"In down storm\" ovvero \"Tempesta nella bassa\". Tale operazione tese ad imitare la meno conosciuta \"Desert Storm\" della prima guerra del Golfo, con la differenza che una colonna interminabile di mezzi \"militari\" carichi di Goliardi d'ogni Balla part\xC3\xAC da Bologna alla volta di Molinella per prenderne possesso.\r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n\
+    \r\n"
+  Motto: Avanti! Savoia!
+  Sigla: "-"
+  indirizzo: |
+    Giovanni Genova (qualcuno metta l''indirizzo)
+
+  note: "Ordine Equestre Militare riconosciuto dal S.V.Q.F.O.\r\n\
+    Il Duca della Tempesta Bombolus Sebaceus \xC3\xA8 in carica a vita.\r\n"
+  m_fileImmagineTn: bo-duc-t.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "10069"
+  m_bInSonno: "1"
+  Nome_veloce: Ducato della Tempesta
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_058: 
+  ID_ORD: "58"
+  m_fileImmagine: ts-lago.gif
+  Nome_completo: Lunaticus Astralisque Goliardicus Ordo
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 2004-11-08 01:41:52
+  id_utente_creatore: "131"
+  storia: "null"
+  Motto: Memento Goliarda es, et Goliarda semper manebis
+  Sigla: L.A.G.O.
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: ts-lago.gif
+  "Citt\xC3\xA0": Trieste
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: LAGO
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_113: 
+  ID_ORD: "170"
+  m_fileImmagine: notfound.gif
+  Nome_completo: Antiqua Consorteria de li Mastri Oselladori
+  m_bSerio: "1"
+  datadinascita: 2008-03-24 00:23:52
+  emailordine: "-"
+  data_creazione: 2008-03-24 00:23:52
+  id_utente_creatore: "27"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: notfound.gif
+  "Citt\xC3\xA0": Verona
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Mastri Oselladori
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_086: 
+  ID_ORD: "94"
+  m_fileImmagine: contea.jpg
+  Nome_completo: Sacra Vola della Contea
+  m_bSerio: "1"
+  datadinascita: 2008-02-11 09:56:12
+  emailordine: ignota
+  data_creazione: 2008-02-11 09:56:12
+  id_utente_creatore: "287"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: contea.jpg
+  "Citt\xC3\xA0": Torino
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "1"
+  Nome_veloce: Contea
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_170: 
+  ID_ORD: "187"
+  m_fileImmagine: momv.gif
+  Nome_completo: Magnus Ordo de lo Mago Verde
+  m_bSerio: "1"
+  datadinascita: 2009-04-06 22:16:10
+  emailordine: aiolos78@hotmail.com
+  data_creazione: 2009-04-06 22:16:10
+  id_utente_creatore: "3857"
+  storia: Paga da bere.
+  Motto: Paga da bere.
+  Sigla: M.O.M.V.
+  indirizzo: Massimo Orsini - Via Aprilia 21 - 00178 Roma
+  note: ---
+  m_fileImmagineTn: momv_rid.gif
+  "Citt\xC3\xA0": Roma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Mago Verde
+  ID_ORD_Vassallo_di: "159"
+  Sovrano: "0"
+ordini_142: 
+  ID_ORD: "154"
+  m_fileImmagine: ivcuria.gif
+  Nome_completo: CURIA-Curiales Universitatae Rejecti Invicti Aucis
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: danlucca@email.it
+  data_creazione: 2008-01-31 18:22:19
+  id_utente_creatore: "1890"
+  storia: "La C.U.R.I.A. (Curiales Universitatae Rejecti Invicti Aucis - nel seguito CURIA) e\xE2\x80\x99 un\xE2\x80\x99associazione goliardica \"post lauream\", retta dalla volont\xC3\xA0 di mantenere vivo e alto lo spirito goliardico, sempre e comunque. E' una emanazione dell'AUC-SASO (Associazione Universitari Canavesani - Supremus Aurei Scorpionis Ordo - nel seguito AUC) Sovrano Ordine Goliardico in Eporedia atque Canavisio (IVREA) per il quale garantisce, senza interferenza alcuna, di custodire e proteggere la memoria storica e la tradizione goliardica. LA CURIA riconosce l'AUC quale UNICO ordine goliardico sovrano in Eporedia atque Canavisio. Si pone al servizio dell\xE2\x80\x99AUC quale depositaria della memoria storica e riconosce l'autorit\xC3\xA0 del suo Prefetto nell\xE2\x80\x99ambito delle norme che regolano i comportamenti ed i principi di Sancta Mater Goliardia. La CURIA non \xC3\xA8 e non sar\xC3\xA0 mai una alternativa dell\xE2\x80\x99AUC, in quanto i propri membri, derivandone dalle fila al termine della militanza attiva, ne conservano dignit\xC3\xA0, gradi e conformit\xC3\xA0 di spirito. La CURIA rappresenta il naturale prosieguo della costituente goliardica principale, in un differente contesto sociale.\r\n\
+    \r\n\
+    \r\n\
+    La CURIA \xC3\xA8 retta dal CAPO BRANCO e dal CUMSESSUM. Il CAPO BRANCO \xC3\xA8 l\xE2\x80\x99unico ed indiscusso capo supremo della CURIA, assume in se\xE2\x80\x99 tutti i poteri e voleri della CURIA, tranne la destituzione del CUMSESSUM. Il Capo Branco ha incarico annuale e viene eletto nel contesto dell\xE2\x80\x99Adunanza plenaria della CURIA nel Solstizio di Inverno mediante il TIRALEPETTEANNUSA."
+  Motto: "-"
+  Sigla: C.U.R.I.A.
+  indirizzo: "La CURIA \xC3\xA8 onnipresente. Laddove spiriti sovrani si radunano per celebrare fasti e ricorrenze in onore di Sancta Mater Goliardia, l\xC3\xAC \xC3\xA8 la sede."
+  note: "La CURIA e\xE2\x80\x99 uno stato d\xE2\x80\x99animo che travalica il limite temporale del singolo: i costituenti il gruppo sono tra loro uniti da un invisibile ma resistentissimo legame,di superior natura, che nel corso dei millenni poeti e cantastorie hanno appellato con il nome di Amicizia e che rappresenta il solo e unico legame indissolubile tra le genti di uno stesso pensiero. Questa unione e\xE2\x80\x99 resa salda ancor pi\xC3\xB9  dal trascorrere del tempo, con le sue vicissitudini umane, le sue necessit\xC3\xA0, i suoi problemi: la risata profonda  che sgorga dalla gola di un Curiale a seguito del \xE2\x80\x9Cdelirio kafkiano\xE2\x80\x9D, il canto che sorge spontaneo alla fine della nottata trascorsa insieme, le ore rubate al sonno e i boccali che si accatastano nella taverna fumosa, sono i simboli esteriori di quel divenire, eterno ed incorruttibile, di un presente che ha in se\xE2\x80\x99 qualcosa del passato e del futuro. L\xE2\x80\x99eternit\xC3\xA0\xE2\x80\x99 della GOLIARDIA. \r\n\
+    \r\n\
+    \xE2\x80\x9C\xE2\x80\xA6tutto questo non dovrebbe durare, per\xC3\xB2 durer\xC3\xA0 sempre; il sempre umano, beninteso, un secolo, due secoli \xE2\x80\xA6; e dopo sar\xC3\xA0 diverso ma peggiore. Noi fummo i gattopardi, i leoni; chi ci sostituir\xC3\xA0 saranno gli sciacalletti, le iene \xE2\x80\xA6\xE2\x80\x9D\r\n\
+    \r\n\
+    g. tomasi di Lampedusa \xE2\x80\x93 Il gattopardo."
+  m_fileImmagineTn: ivcuria.gif
+  "Citt\xC3\xA0": Ivrea (TO)
+  m_nPrecedenzaCittadina: "1"
+  m_bInSonno: "0"
+  Nome_veloce: Curia
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_114: 
+  ID_ORD: "126"
+  m_fileImmagine: pd-aquila reale.gif
+  Nome_completo: Serenissimus Realis Aquilae Goliardicus Ordo
+  m_bSerio: "1"
+  datadinascita: 2008-04-21 12:07:12
+  emailordine: paolo.rebez@alice.it
+  data_creazione: 2008-04-21 12:07:12
+  id_utente_creatore: "133"
+  storia: "Nel '66 muore l'ordine del Leone e da esso nascono l'Aquila Reale e la Fenice (quella di Venezia!); L'Ordine partecipa alla storica deposizione del Tribuno politico e alla sua sostituzione con il Tribuno Goliardico, sul finire degli anni '60. Continua imperterrito la sua opera goliardica fino alla Laurea dei suoi fondatori avvenuta tra il '72 ed il '74. Dopo alcuni anni d'oblio, o quasi, viene riaperto da Skailok gi\xC3\xA0 Rebez l'Otto Febbraio 780, inaugurando nuova vita gioia e letizia per la Goliardia d'Italia tutta."
+  Motto: Per Aspera Ad Pecora
+  Sigla: S.R.A.G.O.
+  indirizzo: "null"
+  note: "Al Magister Magnus spetta ex bolla tribunizia dignit\xC3\xA0 di capocitt\xC3\xA0."
+  m_fileImmagineTn: pd-drago.gif
+  "Citt\xC3\xA0": Padova
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Aquila Reale
+  ID_ORD_Vassallo_di: "21"
+  Sovrano: "0"
+ordini_087: 
+  ID_ORD: "95"
+  m_fileImmagine: ts_tisn.gif
+  Nome_completo: Tenebroso Impero dei Signori della Notte
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "174"
+  storia: "Il Tenebroso Impero dei Signori della Notte viene fondato a cavallo della met\xC3\xA0 del 1800 fra studenti dell'antica Scuola Superiore di Scienze Economiche di Trieste con scopi di solidariet\xC3\xA0 e ricreazione culturale: nasce cos\xC3\xAC il primo Ordine Goliardico triestino quando ancora la lingua madre della maggior parte della popolazione era l'Austriaco e il Triestino era la lingua dei filo-italiani, parlato quasi di nascosto. Seppur andato in sonno all\xE2\x80\x99inizio degli anni '70, quando la politicizzazione dell'Universit\xC3\xA0 oppresse il libero pensiero e quasi riusc\xC3\xAC ad estinguere la Goliardia, il libero pensiero sopravvisse e di nuovo, grazie al Principe Piovra Guzzante, nell'A.D. 1991 i colori argento e blu del T.I.S.N. si rividero nell'Ateneo Tergestino."
+  Motto: "null"
+  Sigla: TISN
+  indirizzo: ""
+  note: "Ordine vassallo del Goliardicus Ordo Solis Orientis dell\xE2\x80\x99Universit\xC3\xA0 di Trieste dal 1994."
+  m_fileImmagineTn: ts-tisn.gif
+  "Citt\xC3\xA0": Trieste
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Signori della Notte
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_059: 
+  ID_ORD: "59"
+  m_fileImmagine: ts-pomo1.gif
+  Nome_completo: Portoguensis Orbis Magnus Ordo
+  m_bSerio: "1"
+  datadinascita: 2007-03-21 09:18:16
+  emailordine: webmaster@portoguensi.com
+  data_creazione: 2007-03-21 09:18:16
+  id_utente_creatore: "1652"
+  storia: "null"
+  Motto: "null"
+  Sigla: P.O.M.O.
+  indirizzo: |-
+    Fulvio Salimbeni Merlot
+    Via delle Zudecche 5
+    34131 Trieste
+  note: |
+    www.portoguensi.com
+    
+    
+
+  m_fileImmagineTn: ts-pomo1.gif
+  "Citt\xC3\xA0": Trieste
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Pomo
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_171: 
+  ID_ORD: "188"
+  m_fileImmagine: omv_tp.gif
+  Nome_completo: Ordine del Mulino a Vento
+  m_bSerio: "1"
+  datadinascita: 2009-09-05 20:40:39
+  emailordine: ---
+  data_creazione: 2009-09-05 20:40:39
+  id_utente_creatore: "542"
+  storia: "L'Ordine del Mulino a Vento nasce a Trapani intorno al 1961 e fa Goliardia nella citt\xC3\xA0 siciliana fino ai primi anni '80... \r\n\
+    Se volete anche il resto della storia, agguantate un trapanese e ve la fate raccontare al Bar!"
+  Motto: "\"Ma com'\xC3\xA8 vistuto chisso??\" op.cit. Ade"
+  Sigla: O.M.V.
+  indirizzo: c/o Distorta
+  note: Ordine Minore Sovrano su Trapani e terre limitrofe, Vassallo del Sovrano Ordine Goliardico Speron di Ferro.
+  m_fileImmagineTn: omv_tp.gif
+  "Citt\xC3\xA0": Trapani
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Mulino a Vento
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"
+ordini_143: 
+  ID_ORD: "155"
+  m_fileImmagine: tudo.gif
+  Nome_completo: Tenebrarum Universalis Diabolicus Ordo
+  m_bSerio: "1"
+  datadinascita: 2007-10-11 00:17:12
+  emailordine: la_miry@hotmail.it
+  data_creazione: 2007-10-11 00:17:12
+  id_utente_creatore: "2516"
+  storia: "null"
+  Motto: In girum imus nocte ecce et consumimur igni
+  Sigla: T.u.d.o.
+  indirizzo: "null"
+  note: Ordine sovrano nel sottosuolo di Prato, mandamento e provincia, di Napoli e di Ancona
+  m_fileImmagineTn: tudo.gif
+  "Citt\xC3\xA0": Prato
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Tudo
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_115: 
+  ID_ORD: "127"
+  m_fileImmagine: _pla-cv.gif
+  Nome_completo: Sovrano Ordine Goliardico dei Clerici Vagantes
+  m_bSerio: "1"
+  datadinascita: 2008-05-07 15:46:16
+  emailordine: ignota
+  data_creazione: 2008-05-07 15:46:16
+  id_utente_creatore: "953"
+  storia: Tanta....
+  Motto: "null"
+  Sigla: S.O.G.C.V.
+  indirizzo: "null"
+  note: do, re, mi, fa, sol, la, si...... non necessariamente in questo ordine..puo anche essere re, sol, si, la, fa, do, mi... oppure  si, la, sol, fa, mi, re, do.....  oppure.....sol, fa, la, do, mi, si, re...... oppure...
+  m_fileImmagineTn: _pla_cv.gif
+  "Citt\xC3\xA0": Italia
+  m_nPrecedenzaCittadina: "1"
+  m_bInSonno: "0"
+  Nome_veloce: Clerici Vagantes
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_088: 
+  ID_ORD: "98"
+  m_fileImmagine: TS_Mercedes_web.gif
+  Nome_completo: Ordo Mercedes
+  m_bSerio: "1"
+  datadinascita: 2005-05-02 16:47:07
+  emailordine: ignota
+  data_creazione: 2005-05-02 16:47:07
+  id_utente_creatore: "542"
+  storia: "null"
+  Motto: "null"
+  Sigla: "null"
+  indirizzo: "null"
+  note: "null"
+  m_fileImmagineTn: TS_Mercedes_web.gif
+  "Citt\xC3\xA0": Trieste
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Mercedes
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_001: 
+  ID_ORD: "1"
+  m_fileImmagine: montecristo.jpg
+  Nome_completo: Goliardica Balla di Montecristo
+  m_bSerio: "1"
+  datadinascita: 2008-11-10 14:31:04
+  emailordine: lorella_casaaccorsi@hotmail.com
+  data_creazione: 2008-11-10 14:31:04
+  id_utente_creatore: "542"
+  storia: "Nato da una costola dell'Oca nel 2001? \r\n\
+    Ah questa \xC3\xA8 proprio una gran Balla!"
+  Motto: Pauci sed Boni
+  Sigla: GBM
+  indirizzo: Loretta Loretti c/o Caracciolo Via Padre F.M. Grimaldi 6 - 40122 Bologna
+  note: E' un gran bell'Ordine, sai?
+  m_fileImmagineTn: bo-monte.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "1974"
+  m_bInSonno: "0"
+  Nome_veloce: Montecristo
+  ID_ORD_Vassallo_di: "2"
+  Sovrano: "0"
+ordini_144: 
+  ID_ORD: "157"
+  m_fileImmagine: cam-gao.jpg
+  Nome_completo: Gaudente Academia de li Offuscati
+  m_bSerio: "1"
+  datadinascita: 2007-10-24 19:37:56
+  emailordine: gao.camerino@gmail.com
+  data_creazione: 2007-10-24 19:37:56
+  id_utente_creatore: "1818"
+  storia: Paga da bere
+  Motto: "-"
+  Sigla: G.A.O.
+  indirizzo: |-
+    Giovanni Zuccaro c/o Moreschini Livio
+    Via Le Mosse n.75
+    62032 Camerino (MC)
+  note: Paga da bere
+  m_fileImmagineTn: cam-gao_rid.jpg
+  "Citt\xC3\xA0": Camerino (MC)
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: G.A.O.
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "0"
+ordini_116: 
+  ID_ORD: "128"
+  m_fileImmagine: terroniatellus.gif
+  Nome_completo: Sultanato del Terronia Tellus del Ducato di Parma
+  m_bSerio: "1"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "170"
+  storia: "null"
+  Motto: "null"
+  Sigla: T.T.
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: terroniatellus.gif
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Terronia Tellus
+  ID_ORD_Vassallo_di: "26"
+  Sovrano: "0"
+ordini_030: 
+  ID_ORD: "169"
+  m_fileImmagine: pi-vestali.gif
+  Nome_completo: Sacrae Vestales Principatus
+  m_bSerio: "1"
+  datadinascita: 2009-03-08 17:49:17
+  emailordine: giux87@yahoo.it
+  data_creazione: 2009-03-08 17:49:17
+  id_utente_creatore: "542"
+  storia: ---
+  Motto: Per aspera ad astra
+  Sigla: S.V.P.
+  indirizzo: "Giulia Perri Via 2 settembre n\xC2\xB045 - 56122 Pisa"
+  note: ---
+  m_fileImmagineTn: pi-vestali_rid.gif
+  "Citt\xC3\xA0": Pisa
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Vestali
+  ID_ORD_Vassallo_di: "65"
+  Sovrano: "0"
+ordini_089: 
+  ID_ORD: "100"
+  m_fileImmagine: martini_grande.jpg
+  Nome_completo: Sacer Ordo Martini Bianco
+  m_bSerio: "0"
+  datadinascita: 0000-00-00 00:00:00
+  emailordine: ignota
+  data_creazione: 0000-00-00 00:00:00
+  id_utente_creatore: "3"
+  storia: "null"
+  Motto: "null"
+  Sigla: SOMB
+  indirizzo: ""
+  note: "null"
+  m_fileImmagineTn: martini piccolo.jpg
+  "Citt\xC3\xA0": Parma
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Martini Bianco
+  ID_ORD_Vassallo_di: "0"
+  Sovrano: "0"
+ordini_002: 
+  ID_ORD: "2"
+  m_fileImmagine: bo_blason.gif
+  Nome_completo: Sacer VenerabilisQue Fictonis Ordo
+  m_bSerio: "1"
+  datadinascita: 2008-10-24 14:42:29
+  emailordine: ---
+  data_creazione: 2008-10-24 14:42:29
+  id_utente_creatore: "542"
+  storia: ---
+  Motto: Aeterno Duro
+  Sigla: SVQFO
+  indirizzo: |-
+    Alessandro Ariemme
+    Via Isonzo 9 - 
+    40033 Casalecchio di Reno (BO)
+  note: ---
+  m_fileImmagineTn: _fitton.gif
+  "Citt\xC3\xA0": Bologna
+  m_nPrecedenzaCittadina: "0"
+  m_bInSonno: "0"
+  Nome_veloce: Fittone
+  ID_ORD_Vassallo_di: "-1"
+  Sovrano: "1"

@@ -1,0 +1,30 @@
+
+
+
+= INSTALL =
+
+rails new rails-ng
+cd rails-ng
+echo 'gem "nifty-generators"' >> Gemfile
+rails g --force nifty:layout
+rails g --force nifty:authentication
+rails g nifty:scaffold goliard name:string surname:string process_date:datetime address:string mobile:string goliardic_name:string noble_name:string order_id:integer user_id:integer subscription:datetime subscription_stamps:integer email:string scazzi_count:integer private_mail:boolean private_cell:boolean private_address:boolean photo:string faculty_id:integer points:integer male:boolean title:string
+
+# ha funzionato!
+
+echo '<div id="header"'" >
+   <% if logged_in? %>
+     Welcome <%= current_user.username %>.
+     <%= link_to "Edit profile", edit_user_path %> or
+     <%= link_to "Log out", logout_path %>
+   <% else %>
+     <%= link_to "Sign up", signup_path %> or
+     <%= link_to "log in", login_path %>.
+   <% end %>
+</div>' >> app/views/layouts/application.html.erb
+
+
+put:
+	 root :to => "goliards#index"
+	
+in config/routes.rb	

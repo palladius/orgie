@@ -1,0 +1,12 @@
+<h1>Editing bar_message</h1>
+
+<% form_for(@bar_message) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @bar_message %> |
+<%= link_to 'Back', bar_messages_path %>

@@ -1,0 +1,10 @@
+<% if @message.father? %>
+		<%= render :partial => "messages/single" , :locals => { :message => message }%>
+		<% message.sons.each{ |son| %>
+			<%= render :partial => "messages/single" , :locals => { :message => son }%>
+		<% } %>
+<% else %>
+		<h1>Beware, Im not a father!!!</h1>
+		My father is <%= linked_model(message.father) %>
+		<%= render :partial => "messages/single" , :locals => { :message => message }%>
+<% end %>

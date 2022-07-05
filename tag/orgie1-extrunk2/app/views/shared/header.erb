@@ -1,0 +1,26 @@
+<% @rendering_start = Time.now %>
+<div id="header">
+  <% unless controller.controller_name == "site" %>
+    <div id='nav-logo'>
+      <%= link_to image_tag("logos/logo-goliardia-production.jpg", :align => 'middle' , :width => 150, :border => 0),
+        :controller => :site, :action => :index %>
+      <%= link_to image_tag("logos/logo-goliardia-production.jpg",
+					:alt => 'Our brand new Orgie',
+					:border => '0',
+					:width => '150',
+					:align => 'left' ),
+        :controller => :site,
+        :action => :index
+      -%>
+    </div>
+  <% end %>
+
+  <%= render :partial => "shared/menu_items" -%>
+  <% unless controller.controller_name == "site" %>
+    <div id="nav-search">
+      <%= render :partial => "site/minimal_search_form" -%>
+    </div>
+    <br/>
+  <% end %>
+  <%= render :partial => 'shared/user_info'-%>
+</div>

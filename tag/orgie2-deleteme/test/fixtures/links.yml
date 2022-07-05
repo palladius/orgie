@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  titolo: MyString
+  id_login: 1
+  id_oggettoPuntato: 1
+  Data_creazione: 2009-10-02
+  tipo: MyString
+  m_battiva: false
+  URLlink: MyString
+  URLlinkFoto: MyString
+  Descrizione: MyText
+  m_bfotoattiva: false
+
+two:
+  titolo: MyString
+  id_login: 1
+  id_oggettoPuntato: 1
+  Data_creazione: 2009-10-02
+  tipo: MyString
+  m_battiva: false
+  URLlink: MyString
+  URLlinkFoto: MyString
+  Descrizione: MyText
+  m_bfotoattiva: false

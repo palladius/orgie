@@ -1,0 +1,2 @@
+module GmsTextsHelper
+end

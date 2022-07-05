@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nome_tabella: MyString
+  nome_campo: MyString
+  tipo_campo: MyString
+
+two:
+  nome_tabella: MyString
+  nome_campo: MyString
+  tipo_campo: MyString

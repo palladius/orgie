@@ -1,0 +1,382 @@
+# This file is auto-generated from the current state of the database. Instead of editing this file, 
+# please use the migrations feature of Active Record to incrementally modify your database, and
+# then regenerate this schema definition.
+#
+# Note that this schema.rb definition is the authoritative source for your database schema. If you need
+# to create the application database on another system, you should be using db:schema:load, not running
+# all the migrations from scratch. The latter is a flawed and unsustainable approach (the more migrations
+# you'll amass, the slower it'll run and the greater likelihood for issues).
+#
+# It's strongly recommended to check this file into your version control system.
+
+ActiveRecord::Schema.define(:version => 20090913081154) do
+
+  #OK migrato tu ADMNISTRATOR
+  create_table "amministratori", :primary_key => "ID_administrator", :force => true do |t|
+    t.integer "id_utente"
+  end
+
+  #OK picture_appearance
+  create_table "apparizioni_goliardi_in_foto", :primary_key => "ID_golinfoto", :force => true do |t|
+    t.integer  "id_foto"
+    t.integer  "id_gol"
+    t.string   "note"
+    t.datetime "data_commento"
+    t.integer  "id_utente_commento"
+  end
+
+  #OK migrato e fatto scaffold-modello 'events'
+  create_table "appuntamenti", :primary_key => "ID_appuntamento", :force => true do |t|
+    t.string   "Nome",               :limit => 50
+    t.string   "tipodiappuntamento", :limit => 50
+    t.text     "luogo",              :limit => 2147483647
+    t.datetime "data_inizio"
+    t.datetime "data_fine"
+    t.string   "città",             :limit => 50
+    t.integer  "Abdicabilita"
+    t.integer  "recapitogoliarda1"
+    t.integer  "recapitogoliarda2"
+    t.integer  "recapitogoliarda3"
+    t.integer  "id_login"
+    t.text     "note",               :limit => 2147483647
+    t.datetime "data_invio"
+  end
+
+
+  # migrato as 'songs', sarebbe bello farlo figlio di contenuti...
+  create_table "canzoni", :id => false, :force => true do |t|
+    t.integer  "ID_canzone"
+    t.string   "titolo"
+    t.integer  "id_login"
+    t.datetime "Data_creazione"
+    t.string   "Autore"
+    t.boolean  "m_bSeria",                             :default => false, :null => false
+    t.text     "Corpo",          :limit => 2147483647
+    t.text     "Note",           :limit => 2147483647
+    t.string   "tipo",           :limit => 32
+  end
+
+  # migrato a POSTTIONS
+  create_table "cariche", :primary_key => "ID_CARICA", :force => true do |t|
+    t.integer "ID_Ordine"
+    t.string  "nomecarica",       :limit => 50
+    t.integer "ID_CAR_staSottoA"
+    t.integer "CardinalitàMax"
+    t.string  "Dignità",         :limit => 50
+    t.boolean "Attiva",                          :default => false, :null => false
+    t.boolean "HC",                              :default => false, :null => false
+    t.string  "note",             :limit => 150
+    t.integer "m_nImportanza",                   :default => 0,     :null => false
+  end
+
+   #OK migrata
+  create_table "colorefeluca", :primary_key => "ID_COLOREFELUCA", :force => true do |t|
+    t.string "Facoltà",       :limit => 50
+    t.string "colore_default", :limit => 50
+    t.string "città",         :limit => 50
+  end
+
+  #OK CONTENT (ho molte speranze in sta cosa, cui far convolgere un po' tutto...)
+  create_table "contenuti", :primary_key => "idcontenuto", :force => true do |t|
+    t.string   "titolo"
+    t.integer  "idlogin"
+    t.text     "contenuto",            :limit => 2147483647
+    t.datetime "datacreazione"
+    t.integer  "m_nLivelloSegretezza"
+    t.boolean  "m_battivo",                                  :default => false, :null => false
+    t.boolean  "m_bInAttesa",                                :default => false, :null => false
+    t.string   "tipo",                 :limit => 32
+    t.integer  "idloginpubblicante"
+    t.boolean  "m_bSerio",                                   :default => false, :null => false
+    t.datetime "datapubblicazione"
+  end
+
+  # ==> event_presence
+  create_table "eventipresenze", :primary_key => "id_presenza", :force => true do |t|
+    t.integer  "id_utente"
+    t.integer  "id_appuntamento"
+    t.integer  "probabilita"
+    t.string   "commento"
+    t.integer  "m_nquantitotale"
+    t.datetime "datacreazione"
+  end
+
+  #OK ==> faculty
+  create_table "facolta", :id => false, :force => true do |t|
+    t.integer "ID_FACOLTA"
+    t.string  "Facolta",    :limit => 50
+  end
+
+  #NO ==> NON MIGRATA ma anche no..
+  create_table "faq", :primary_key => "idfaq", :force => true do |t|
+    t.string   "domanda"
+    t.text     "risposta", :limit => 2147483647
+    t.datetime "data"
+  end
+
+  #OK ==> PICTURE la diamo in outsurcing a flickr..
+  create_table "foto", :primary_key => "ID_foto", :force => true do |t|
+    t.string   "titolo_foto",      :limit => 100
+    t.string   "descrizione"
+    t.string   "percorso",         :limit => 150
+    t.string   "data_scatto",      :limit => 50
+    t.integer  "dimensione"
+    t.datetime "data_upload"
+    t.integer  "id_utente_upload"
+  end
+
+  #OK city_manager
+  create_table "gestione_citta", :primary_key => "ID_GEST_CITTA", :force => true do |t|
+    t.integer "id_login"
+    t.string  "città",   :limit => 50
+  end
+
+  # OK order_manager
+  create_table "gestione_ordini", :primary_key => "ID_GEST_ORDINI", :force => true do |t|
+    t.integer "ID_ORDINE"
+    t.integer "ID_LOGIN"
+  end
+
+  # OK couple
+  create_table "giococoppie", :id => false, :force => true do |t|
+    t.integer  "idUtenteVotante"
+    t.integer  "idUtenteVotato"
+    t.boolean  "m_bScoperebbe",                :default => false, :null => false
+    t.boolean  "m_bBacerebbe",                 :default => false, :null => false
+    t.datetime "dataVoto"
+    t.string   "commento"
+    t.integer  "m_nVoto"
+    t.string   "sexVotante",      :limit => 5
+    t.boolean  "m_bPrivato",                   :default => false, :null => false
+  end
+  # TODO
+  add_index "giococoppie", ["idUtenteVotante", "idUtenteVotato"], :name => "idUtenteVotante", :unique => true
+
+  #OK => gms_text vediamo se va...
+  create_table "gms", :primary_key => "id_gms", :force => true do |t|
+    t.datetime "data_invio"
+    t.boolean  "m_bNuovo",          :default => false, :null => false
+    t.integer  "idutentescrivente"
+    t.integer  "idutentericevente"
+    t.string   "messaggio"
+  end
+
+  #OK  migrando come 'Goliard' ho guglato e il termine sembra essere usato!
+  create_table "goliardi", :primary_key => "ID_GOL", :force => true do |t|
+    t.string   "Nome",               :limit => 50
+    t.string   "Cognome",            :limit => 50
+    t.datetime "DataProcesso"
+    t.string   "Indirizzo",          :limit => 50
+    t.string   "numcellulare",       :limit => 50
+    t.string   "Nomegoliardico",     :limit => 50
+    t.string   "Nomenobiliare",      :limit => 50
+    t.integer  "ID_Ordine"
+    t.integer  "id_login"
+    t.datetime "Dataiscrizione"
+    t.integer  "BolliAllIscrizione"
+    t.string   "email",              :limit => 50
+    t.integer  "contascazzi"
+    t.boolean  "privacy_mail",                     :default => false, :null => false
+    t.boolean  "privacy_cell",                     :default => false, :null => false
+    t.boolean  "privacy_address",                  :default => false, :null => false
+    t.string   "foto",               :limit => 50
+    t.integer  "ID_FACOLTA"
+    t.integer  "m_nPunti"
+    t.boolean  "m_bIsMaschio",                     :default => false, :null => false
+    t.string   "titolo",             :limit => 20, :default => "",    :null => false
+  end
+
+  #NO non lo migro piu..
+  create_table "indirizzi", :id => false, :force => true do |t|
+    t.integer "ID_address"
+    t.integer "ID_Utente"
+    t.string  "ipHost",          :limit => 16
+    t.string  "nomeHost",        :limit => 16
+    t.string  "nomeUser",        :limit => 10
+    t.string  "m_tDescrizione",  :limit => 80
+    t.boolean "m_bAttivo",                     :default => false, :null => false
+    t.integer "m_nContaAccessi"
+  end
+
+  #OK LINK migro come #hobo_model con nome 'link'
+  create_table "linkz", :primary_key => "ID_link", :force => true do |t|
+    t.string   "titolo"
+    t.integer  "id_login"
+    t.integer  "id_oggettoPuntato"
+    t.datetime "Data_creazione"
+    t.string   "tipo"
+    t.boolean  "m_battiva",                               :default => false, :null => false
+    t.string   "URLlink"
+    t.string   "URLlinkFoto"
+    t.boolean  "m_bfotoattiva",                           :default => false, :null => false
+    t.text     "Descrizione",       :limit => 2147483647
+  end
+
+  #NO INUTILE
+  create_table "livelli", :id => false, :force => true do |t|
+    t.integer "idLivello"
+    t.integer "numLivello"
+    t.string  "titolo",     :limit => 50
+  end
+
+  #OK legacy_login (legata in uno a uno con User generato da HOBO)
+  create_table "loginz", :primary_key => "ID_LOGIN", :force => true do |t|
+    t.string   "m_sNome",             :limit => 50
+    t.string   "m_sPwd",              :limit => 50
+    t.string   "m_hEmail",            :limit => 50
+    t.datetime "m_dataIscrizione"
+    t.string   "m_thumbnail",         :limit => 50
+    t.integer  "id_goliarda_default"
+    t.boolean  "m_bAdmin",                                  :default => false, :null => false
+    t.integer  "m_nPX"
+    t.integer  "m_nLivello"
+    t.boolean  "m_bIsMaschio",                              :default => false, :null => false
+    t.boolean  "m_bErreMoscia",                             :default => false, :null => false
+    t.boolean  "m_bAttivo",                                 :default => false, :null => false
+    t.boolean  "m_bGuest",                                  :default => false, :null => false
+    t.datetime "m_dataLastCollegato"
+    t.string   "m_sNote"
+    t.datetime "datanascita"
+    t.boolean  "m_bIsGoliard",                              :default => false, :null => false
+    t.string   "msn",                 :limit => 50
+    t.string   "interessi"
+    t.string   "icq",                 :limit => 20
+    t.string   "provincia",           :limit => 20
+    t.string   "gustisessuali"
+    t.boolean  "m_bSerio",                                  :default => false, :null => false
+    t.boolean  "m_bSingle",                                 :default => false, :null => false
+    t.boolean  "m_bPunizione",                              :default => false, :null => false
+    t.text     "m_snoteadmin",        :limit => 2147483647
+    t.boolean  "m_bmailpubblica",                           :default => false, :null => false
+  end
+
+  #OK migrato to MESSAGES
+  create_table "messaggi", :primary_key => "id_msg", :force => true do |t|
+    t.string   "titolo",          :limit => 150
+    t.integer  "id_login"
+    t.text     "messaggio",       :limit => 2147483647
+    t.datetime "data_creazione"
+    t.boolean  "pubblico",                              :default => false, :null => false
+    t.integer  "id_figliodi_msg"
+    t.integer  "id_tipo"
+  end
+
+  #OK migrato a ROLE
+  create_table "nomine", :primary_key => "ID_NOMINA", :force => true do |t|
+    t.integer  "id_goliarda"
+    t.integer  "id_carica"
+    t.datetime "data_nomina"
+    t.datetime "data_fine_nomina"
+    t.integer  "id_goliarda_nominante"
+    t.string   "note",                         :limit => 50
+    t.integer  "eventuale_numero_progressivo"
+    t.integer  "id_utente_postante"
+    t.datetime "data_inserimento_nomina"
+    t.boolean  "m_bAttiva",                                  :default => false, :null => false
+  end
+
+  # OK migrato a ORDER
+  create_table "ordini", :primary_key => "ID_ORD", :force => true do |t|
+    t.string   "Nome_veloce",            :limit => 50
+    t.string   "Nome_completo",          :limit => 50
+    t.string   "Sigla",                  :limit => 50
+    t.integer  "ID_ORD_Vassallo_di"
+    t.boolean  "Sovrano",                                      :default => false, :null => false
+    t.string   "Città",                 :limit => 50
+    t.datetime "datadinascita"
+    t.string   "Motto",                  :limit => 50
+    t.string   "m_fileImmagine",         :limit => 50
+    t.string   "m_fileImmagineTn",       :limit => 50
+    t.text     "note",                   :limit => 2147483647
+    t.text     "storia",                 :limit => 2147483647
+    t.integer  "id_utente_creatore"
+    t.datetime "data_creazione"
+    t.boolean  "m_bSerio",                                     :default => false, :null => false
+    t.string   "indirizzo",              :limit => 150,        :default => "",    :null => false
+    t.string   "emailordine",            :limit => 50,         :default => "-",   :null => false
+    t.boolean  "m_bInSonno",                                   :default => false, :null => false
+    t.integer  "m_nPrecedenzaCittadina",                       :default => 0,     :null => false
+  end
+
+  #NO mi rifiuto...
+  create_table "polls_domande", :primary_key => "id_domanda", :force => true do |t|
+    t.string  "TestoDomanda", :limit => 150
+    t.integer "id_poll"
+    t.string  "Foto",         :limit => 50
+    t.string  "tipoFoto",     :limit => 50
+  end
+
+  #NO IDEM
+  create_table "polls_titoli", :primary_key => "id_poll", :force => true do |t|
+    t.string   "Titolo",             :limit => 50
+    t.text     "Descrizione",        :limit => 2147483647
+    t.datetime "dataInizio"
+    t.datetime "dataFine"
+    t.datetime "dataCreazione"
+    t.integer  "id_utente_creatore"
+  end
+
+  #NO idem
+  create_table "polls_voti", :primary_key => "id_voto", :force => true do |t|
+    t.integer "id_utente"
+    t.integer "id_domanda"
+  end
+
+  #NO idem
+  create_table "punizioni", :primary_key => "id_punizione", :force => true do |t|
+    t.integer   "idutentepunente"
+    t.timestamp "datainizio",                                            :null => false
+    t.datetime  "datafine",                                              :null => false
+    t.string    "motivo",          :limit => 150,        :default => "", :null => false
+    t.text      "noteprivate",     :limit => 2147483647
+  end
+
+  #OK sql_query ma perche no :)
+  create_table "query_notevoli", :primary_key => "ID", :force => true do |t|
+    t.string   "titolo",         :limit => 50
+    t.datetime "data_creazione"
+    t.string   "note",           :limit => 50
+    t.text     "encoded_query",  :limit => 2147483647
+  end
+
+  #OK  migrato come city
+  create_table "regioni", :id => false, :force => true do |t|
+    t.string  "nomecitta",   :limit => 50
+    t.string  "sigla",       :limit => 50
+    t.string  "regione",     :limit => 50
+    t.integer "id_pseudoid"
+  end
+
+  # Messo nel TODO
+  add_index "regioni", ["id_pseudoid"], :name => "id_pseudoid", :unique => true
+  add_index "regioni", ["sigla"], :name => "sigla", :unique => true
+
+  # Speriamo in dio con l'ID maiuscolo...
+  #OK ==> goliard_manager # gestione goliardi singoli
+  create_table "ulteriori_gestioni_goliardiche", :primary_key => "ID", :force => true do |t|
+    t.integer "id_login"
+    t.integer "id_gol"
+    t.string  "note",     :limit => 50
+  end
+
+  # OK ma la primary key dev'essere una stringa, mi sa che non si puo mica...
+  # mi sa che la faccio diversa... mi invento un id che chiamo... ehi! id! e lascio chiave come
+  # stringa NON di chiave mi sa...
+  create_table "xxx_memoz", :primary_key => "chiave", :force => true do |t|
+    t.text "valore", :limit => 2147483647
+  end
+
+  # migrato ma inutile...
+  create_table "xxx_meta", :primary_key => "ID", :force => true do |t|
+    t.string "nome_tabella", :limit => 50
+    t.string "nome_campo",   :limit => 50
+    t.string "tipo_campo",   :limit => 50
+  end
+
+  # INUTILE, non usato, in realtà uso solo il MEMOZ (che contiene TEXT invece di string)
+  create_table "xxx_vari", :id => false, :force => true do |t|
+    t.string "chiave", :limit => 50
+    t.string "valore", :limit => 50
+  end
+
+end

@@ -1,0 +1,18 @@
+<h1>Listing bar_messages</h1>
+
+<table>
+  <tr>
+  </tr>
+
+<% @bar_messages.each do |bar_message| %>
+  <tr>
+    <td><%= link_to 'Show', bar_message %></td>
+    <td><%= link_to 'Edit', edit_bar_message_path(bar_message) %></td>
+    <td><%= link_to 'Destroy', bar_message, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New bar_message', new_bar_message_path %>

@@ -1,0 +1,118 @@
+--- 
+facolta_037: 
+  Facolta: scienze naturali
+  ID_FACOLTA: "142"
+facolta_026: 
+  Facolta: Chimica
+  ID_FACOLTA: "25"
+facolta_015: 
+  Facolta: Lettere
+  ID_FACOLTA: "14"
+facolta_004: 
+  Facolta: Belle arti
+  ID_FACOLTA: "2"
+facolta_038: 
+  Facolta: Geologia
+  ID_FACOLTA: "423"
+facolta_027: 
+  Facolta: Chimica industriale
+  ID_FACOLTA: "26"
+facolta_016: 
+  Facolta: Lingue
+  ID_FACOLTA: "15"
+facolta_005: 
+  Facolta: Biologia
+  ID_FACOLTA: "3"
+facolta_039: 
+  Facolta: Scienze Ambientali
+  ID_FACOLTA: "6303"
+facolta_028: 
+  Facolta: Astronomia
+  ID_FACOLTA: "27"
+facolta_017: 
+  Facolta: Magistero
+  ID_FACOLTA: "16"
+facolta_006: 
+  Facolta: CTF
+  ID_FACOLTA: "5"
+facolta_029: 
+  Facolta: Agraria
+  ID_FACOLTA: "28"
+facolta_018: 
+  Facolta: Matematica
+  ID_FACOLTA: "17"
+facolta_007: 
+  Facolta: Economia
+  ID_FACOLTA: "6"
+facolta_030: 
+  Facolta: ISEF
+  ID_FACOLTA: "29"
+facolta_019: 
+  Facolta: Medicina
+  ID_FACOLTA: "18"
+facolta_008: 
+  Facolta: Farmacia
+  ID_FACOLTA: "7"
+facolta_031: 
+  Facolta: Cons. beni culturali
+  ID_FACOLTA: "31"
+facolta_020: 
+  Facolta: Pedagogia
+  ID_FACOLTA: "19"
+facolta_009: 
+  Facolta: Filosofia
+  ID_FACOLTA: "8"
+facolta_032: 
+  Facolta: Archeologia
+  ID_FACOLTA: "32"
+facolta_021: 
+  Facolta: Scemenze politiche
+  ID_FACOLTA: "20"
+facolta_010: 
+  Facolta: Fisica
+  ID_FACOLTA: "9"
+facolta_033: 
+  Facolta: Biotecnologie
+  ID_FACOLTA: "34"
+facolta_022: 
+  Facolta: Scienze della Comunicazione
+  ID_FACOLTA: "21"
+facolta_011: 
+  Facolta: Giurisprudenza
+  ID_FACOLTA: "10"
+facolta_034: 
+  Facolta: scienze statistiche
+  ID_FACOLTA: "50"
+facolta_023: 
+  Facolta: Storia
+  ID_FACOLTA: "22"
+facolta_012: 
+  Facolta: Informatica
+  ID_FACOLTA: "11"
+facolta_001: 
+  Facolta: Sociologia
+  ID_FACOLTA: "4"
+facolta_035: 
+  Facolta: enologia
+  ID_FACOLTA: "51"
+facolta_024: 
+  Facolta: "altro\xE2\x80\xA6"
+  ID_FACOLTA: "23"
+facolta_013: 
+  Facolta: Ingegneria
+  ID_FACOLTA: "12"
+facolta_002: 
+  Facolta: Psicologia
+  ID_FACOLTA: "0"
+facolta_036: 
+  Facolta: Scienze e Tecnologie Alimentari
+  ID_FACOLTA: "52"
+facolta_025: 
+  Facolta: Veterinaria
+  ID_FACOLTA: "24"
+facolta_014: 
+  Facolta: Interprete e Traduttore
+  ID_FACOLTA: "13"
+facolta_003: 
+  Facolta: Architettura
+  ID_FACOLTA: "1"

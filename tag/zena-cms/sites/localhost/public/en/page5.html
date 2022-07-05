@@ -1,0 +1,406 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+  <title>localhost/help</title>
+<link href='/en/image17_tiny.png?812173644767' rel='shortcut icon' type='image/png'/>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  
+    <link href="/stylesheets/reset.css?1255955326" media="all" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/zena.css?1255955326" media="all" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/code.css?1255955326" media="all" rel="stylesheet" type="text/css" />
+<link href='/en/textdocument19.css?1255957182' rel='Stylesheet' type='text/css'/>
+  
+
+  <script src="/javascripts/prototype.js?1255955326" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1255955326" type="text/javascript"></script>
+<script src="/javascripts/tablekit.js?1255955326" type="text/javascript"></script>
+<script src="/javascripts/zena.js?1255955326" type="text/javascript"></script>
+            <script src="/calendar/calendar.js" type="text/javascript"></script>
+          <script src="/calendar/calendar-setup.js" type="text/javascript"></script>
+          <script src="/calendar/lang/calendar-en-utf8.js" type="text/javascript"></script>
+          <link href="/calendar/calendar-brown.css" media="screen" rel="Stylesheet" type="text/css" />
+          <script type="text/javascript" charset="utf-8">
+// <![CDATA[
+
+          Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d %H:%M";
+          Calendar._TT["FIRST_DAY"] = 0;
+          
+// ]]>
+</script>
+
+</head>
+
+<body>
+  <div id='top'><a href='/en'>localhost</a></div>  <div id='header'>
+    <div id='login'><a href="/oo/page5.html">login</a></div>
+    <div id='visitor'></div>
+    <div id='search'><div class="search">
+    <form action="/nodes/search" method="get">
+    <div class='wrapper'><input type='search' accesskey='s' id='search_field' style="color:#aaa;" name='q' onfocus='this.style.color="black";this.value="";' value='search'/></div>
+  </form>
+  </div></div>
+    <ol id='menu'>      <li class='on'><a href='/en/page5.html'>help</a></li>      <li><a href='/en/section6.html'>skins</a></li>    </ol>
+  </div>
+  <div id='container'>
+    <div id='title'>
+      <h1 class='s50'><span id='v_title5'>help</span></h1>
+      <div class='zazen summary' id='v_summary5'><table>
+		<tr>
+			<th>markup </th>
+			<th>result </th>
+		</tr>
+		<tr>
+			<td> <code>the *black* cat</code> </td>
+			<td> the <strong>black</strong> cat </td>
+		</tr>
+		<tr>
+			<td> <code>the _thin_ snake</code> </td>
+			<td> the <em>thin</em> snake </td>
+		</tr>
+		<tr>
+			<td> <code>please visit "this":http://example.org website</code> </td>
+			<td> please visit <a href="http://example.org">this</a> website </td>
+		</tr>
+		<tr>
+			<td> <code>view our "home page":1</code> </td>
+			<td> view our <a href="/en">home page</a> </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":1</code> </td>
+			<td> view: <a href="/en">localhost</a> </td>
+		</tr>
+		<tr>
+			<td> <code>view: ""::help</code> </td>
+			<td> link to element like &#8216;help&#8217; </td>
+		</tr>
+		<tr>
+			<td> <code>view: ""::help+</code> </td>
+			<td> link to second element like &#8216;help&#8217; </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":1.xml</code> </td>
+			<td> view: <a href="/en/project1.xml">localhost</a> (display in xml format) </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":1_print</code> </td>
+			<td> view: <a href="/en/project1_print.html">localhost</a> (display with &#8216;print&#8217; mode) </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":37_pv.data</code> </td>
+			<td> view: <span class='unknownLink'>unknown link</span> (display data in mode &#8216;pv&#8217;) </td>
+		</tr>
+		<tr>
+			<th>start with </th>
+			<th>heading type </th>
+		</tr>
+		<tr>
+			<td> <code>h1. </code> </td>
+			<td> level 1 heading </td>
+		</tr>
+		<tr>
+			<td> <code>h2. </code> </td>
+			<td> level 2 heading </td>
+		</tr>
+		<tr>
+			<td> ... </td>
+			<td> ... </td>
+		</tr>
+		<tr>
+			<th>start with </th>
+			<th>paragraph style </th>
+		</tr>
+		<tr>
+			<td> <code>p&gt;. </code> </td>
+			<td> align right </td>
+		</tr>
+		<tr>
+			<td> <code>p=. </code> </td>
+			<td> center text </td>
+		</tr>
+		<tr>
+			<td> <code>p&lt;. </code> </td>
+			<td> align left </td>
+		</tr>
+		<tr>
+			<td> <i>space</i> </td>
+			<td> space preserved paragraphe </td>
+		</tr>
+		<tr>
+			<td colspan="2">a line starting with a space = line break </td>
+		</tr>
+		<tr>
+			<th>markup </th>
+			<th>result </th>
+		</tr>
+		<tr>
+			<td> <code>!37!</code> </td>
+			<td> image &#8216;37&#8217; in std format </td>
+		</tr>
+		<tr>
+			<td> <code>!37_pv!</code> </td>
+			<td> image &#8216;37&#8217; in &#8216;pv&#8217; format </td>
+		</tr>
+		<tr>
+			<td> <code>!37_pv/fig. 3!</code> </td>
+			<td> image &#8216;37&#8217; in &#8216;pv&#8217; format with &#8216;fig. 3&#8217; as title </td>
+		</tr>
+		<tr>
+			<td> <code>!37_pv/!</code> </td>
+			<td> image &#8216;37&#8217; in &#8216;pv&#8217; format with it&#8217;s summary as title </td>
+		</tr>
+		<tr>
+			<td> <code>!&lt;.37!</code> </td>
+			<td> image &#8216;37&#8217;, float left (see below) </td>
+		</tr>
+		<tr>
+			<td> <code>!37!:http://example.org</code> </td>
+			<td> image &#8216;37&#8217;, link to &#8216;example.org&#8217; </td>
+		</tr>
+		<tr>
+			<td> <code>!&gt;.37!</code> </td>
+			<td> float right </td>
+		</tr>
+		<tr>
+			<td> <code>!=.37!</code> </td>
+			<td> center image </td>
+		</tr>
+		<tr>
+			<td> <code>!&lt;.37!</code> </td>
+			<td> float left </td>
+		</tr>
+		<tr>
+			<td> <code>![37,96]!</code> </td>
+			<td> gallery with images 37 and 96 </td>
+		</tr>
+		<tr>
+			<td> <code>![]!</code> </td>
+			<td> gallery with images in the node </td>
+		</tr>
+		<tr>
+			<th>markup </th>
+			<th>result </th>
+		</tr>
+		<tr>
+			<td> <code>!{59,86}!</code> </td>
+			<td> list documents 59 and 86 </td>
+		</tr>
+		<tr>
+			<td> <code>!{}!</code> </td>
+			<td> list all documents in the node </td>
+		</tr>
+	</table>
+
+
+
+
+	<p>For advanced topics (tables, classes, styles), please look at the documentation for <a href="http://hobix.com/textile/">textile</a>.</p></div>
+    </div>
+    <div id='context'>
+      
+        <h3><a href='/en'>localhost</a></h3>
+        <ol>
+          <li><a href='/en/page5.html'>help</a></li>          <li><a href='/en/section6.html'>skins</a></li>        </ol>
+      
+    </div>
+    <div id='content'>
+      <div id='related'>
+      </div>
+      <div id='main'>
+        <div class='zazen' id='v_text5'><h4>text and links</h4>
+
+
+	<table>
+		<tr>
+			<th>markup </th>
+			<th>result </th>
+		</tr>
+		<tr>
+			<td> <code>the *black* cat</code> </td>
+			<td> the <strong>black</strong> cat </td>
+		</tr>
+		<tr>
+			<td> <code>the _thin_ snake</code> </td>
+			<td> the <em>thin</em> snake </td>
+		</tr>
+		<tr>
+			<td> <code>please visit "this":http://example.org website</code> </td>
+			<td> please visit <a href="http://example.org">this</a> website </td>
+		</tr>
+		<tr>
+			<td> <code>view our "home page":1</code> </td>
+			<td> view our <a href="/en">home page</a> </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":1</code> </td>
+			<td> view: <a href="/en">localhost</a> </td>
+		</tr>
+		<tr>
+			<td> <code>view: ""::help</code> </td>
+			<td> link to element like &#8216;help&#8217; </td>
+		</tr>
+		<tr>
+			<td> <code>view: ""::help+</code> </td>
+			<td> link to second element like &#8216;help&#8217; </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":1.xml</code> </td>
+			<td> view: <a href="/en/project1.xml">localhost</a> (display in xml format) </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":1_print</code> </td>
+			<td> view: <a href="/en/project1_print.html">localhost</a> (display with &#8216;print&#8217; mode) </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":37_pv.data</code> </td>
+			<td> view: <span class='unknownLink'>unknown link</span> (display data in mode &#8216;pv&#8217;) </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":37#data</code> </td>
+			<td> link to anchor &#8216;data&#8217; on node 37 </td>
+		</tr>
+		<tr>
+			<td> <code>view: "":37#[parent/name]</code> </td>
+			<td> link to anchor with name of element on node 37&#8217;s parent </td>
+		</tr>
+	</table>
+
+
+
+
+	<h4>headings and paragraphs</h4>
+
+
+	<table>
+		<tr>
+			<th>start with </th>
+			<th>heading type </th>
+		</tr>
+		<tr>
+			<td> <code>h1. </code> </td>
+			<td> level 1 heading </td>
+		</tr>
+		<tr>
+			<td> <code>h2. </code> </td>
+			<td> level 2 heading </td>
+		</tr>
+		<tr>
+			<td> ... </td>
+			<td> ... </td>
+		</tr>
+		<tr>
+			<th>start with </th>
+			<th>paragraph style </th>
+		</tr>
+		<tr>
+			<td> <code>p&gt;. </code> </td>
+			<td> align right </td>
+		</tr>
+		<tr>
+			<td> <code>p=. </code> </td>
+			<td> center text </td>
+		</tr>
+		<tr>
+			<td> <code>p&lt;. </code> </td>
+			<td> align left </td>
+		</tr>
+		<tr>
+			<td> <i>space</i> </td>
+			<td> space preserved paragraphe </td>
+		</tr>
+		<tr>
+			<td colspan="2">a line starting with a space = line break </td>
+		</tr>
+	</table>
+
+
+
+
+	<h4>images</h4>
+
+
+	<table>
+		<tr>
+			<th>markup </th>
+			<th>result </th>
+		</tr>
+		<tr>
+			<td> <code>!37!</code> </td>
+			<td> image &#8216;37&#8217; in std format </td>
+		</tr>
+		<tr>
+			<td> <code>!37_pv!</code> </td>
+			<td> image &#8216;37&#8217; in &#8216;pv&#8217; format </td>
+		</tr>
+		<tr>
+			<td> <code>!37_pv/fig. 3!</code> </td>
+			<td> image &#8216;37&#8217; in &#8216;pv&#8217; format with &#8216;fig. 3&#8217; as title </td>
+		</tr>
+		<tr>
+			<td> <code>!37_pv/!</code> </td>
+			<td> image &#8216;37&#8217; in &#8216;pv&#8217; format with it&#8217;s summary as title </td>
+		</tr>
+		<tr>
+			<td> <code>!&lt;.37!</code> </td>
+			<td> image &#8216;37&#8217;, float left (see below) </td>
+		</tr>
+		<tr>
+			<td> <code>!37!:http://example.org</code> </td>
+			<td> image &#8216;37&#8217;, link to &#8216;example.org&#8217; </td>
+		</tr>
+		<tr>
+			<td> <code>!&gt;.37!</code> </td>
+			<td> float right </td>
+		</tr>
+		<tr>
+			<td> <code>!=.37!</code> </td>
+			<td> center image </td>
+		</tr>
+		<tr>
+			<td> <code>!&lt;.37!</code> </td>
+			<td> float left </td>
+		</tr>
+		<tr>
+			<td> <code>![37,96]!</code> </td>
+			<td> gallery with images 37 and 96 </td>
+		</tr>
+		<tr>
+			<td> <code>![]!</code> </td>
+			<td> gallery with images in the node </td>
+		</tr>
+	</table>
+
+
+
+
+	<h4>documents</h4>
+
+
+	<table>
+		<tr>
+			<th>markup </th>
+			<th>result </th>
+		</tr>
+		<tr>
+			<td> <code>!{59,86}!</code> </td>
+			<td> list documents 59 and 86 </td>
+		</tr>
+		<tr>
+			<td> <code>!{}!</code> </td>
+			<td> list all documents in the node </td>
+		</tr>
+	</table>
+
+
+
+
+	<p>For advanced topics (tables, classes, styles), please look at the documentation for <a href="http://hobix.com/textile/">textile</a>.</p></div>
+      </div><!-- main -->
+<div class='clear'>&nbsp;</div>
+    </div><!-- content -->
+<div class='clear'>&nbsp;</div>
+  </div><!-- container -->
+  <div id='footer'><a class='zena' href='http://zenadmin.org' title='zena 0.15.0'>a zen garden</a></div>
+</body>
+
+</html>

@@ -1,0 +1,513 @@
+--- 
+query_notevoli_039: 
+  encoded_query: !binary |
+    c2VsZWN0JTIwY291bnQlMjgqJTI5JTIwZnJvbSUyMGxvZ2lueiUwRCUwQSUy
+    MFdIRVJFJTIwbV9iZ3Vlc3QlMjAlM0QlMjBmYWxzZSUwRCUwQSUyMEFORCUy
+    MCUyMHByb3ZpbmNpYSUyMG5vdCUyMGluJTIwJTI4c2VsZWN0JTIwJTVCbm9t
+    ZSUyMGNpdHQlRTAlNUQlMjBmcm9tJTIwcmVnaW9uaSUyOSUwRCUwQQA=
+
+  data_creazione: 2003-09-11 22:22:15
+  ID: "399"
+  note: "conta la gente che ha una citt\xC3\xA0 NON contemplata!!!"
+  titolo: CONTA CITTADINI SBAGLIATI
+query_notevoli_028: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwY291bnQlMjgqJTI5JTIwJTBEJTBBRlJPTSUyMGdpb2NvY29w
+    cGllJTIwZyUwRCUwQXdoZXJlJTIwaWR1dGVudGV2b3RhbnRlJTNEMyUyMCUw
+    RCUwQSUyMGFuZCUyMCUyOGlkdXRlbnRldm90YXRvJTIwTk9UJTIwSU4lMjAl
+    MjhzZWxlY3QlMjBpZF9sb2dpbiUyMGZyb20lMjBsb2dpbnolMjklMjklMEQl
+    MEElMEQlMEEA
+
+  data_creazione: 2003-06-07 13:29:43
+  ID: "353"
+  note: query che contiene un NOT IN! incredibile!!!
+  titolo: votate inestenti QUERY CON NOT IN!!!
+query_notevoli_017: 
+  encoded_query: !binary |
+    aW5zZXJ0JTIwaW50byUyMGZhY29sdGElMjAlMjhpZF9mYWNvbHRhJTJDZmFj
+    b2x0YSUyOSUyMHZhbHVlcyUyMCUyODM0JTJDJTI3QmlvdGVjbm9sb2dpZSUy
+    NyUyOSUwRCUwQSUwRCUwQQA=
+
+  data_creazione: 2002-10-15 12:31:16
+  ID: "229"
+  note: "inserisci una nuova facolt\xC3\xA0.\r\n"
+  titolo: metti qui il titolo
+query_notevoli_006: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUyMEZST00lMjBsb2dpbnolMjB3aGVyZSUyMG1fc25v
+    bWUlMjAlM0QlMjAlMjdwYWxsYWRpdXMlMjclMEQlMEElMEQlMEEA
+
+  data_creazione: 2002-05-02 08:18:34
+  ID: "9"
+  note: "         Metti qui le eventuali note per favore se"
+  titolo: metti qui il titolo
+query_notevoli_040: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUwRCUwQSUyMEZST00lMjBsb2dpbnolMEQlMEElMjBX
+    SEVSRSUyMG1fYmd1ZXN0JTNEZmFsc2UlMEQlMEElMjBBTkQlMjBwcm92aW5j
+    aWElMjBpcyUyMG51bGwlMEQlMEEA
+
+  data_creazione: 2003-09-11 22:39:56
+  ID: "400"
+  note: "scova quelli con citt\xC3\xA0 NULLA"
+  titolo: trova cittadini NULLI
+query_notevoli_029: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwY291bnQlMjgqJTI5JTIwJTBEJTBBRlJPTSUyMGdpb2NvY29w
+    cGllJTIwZyUwRCUwQXdoZXJlJTIwaWR1dGVudGV2b3RhbnRlJTNEMyUyMCUw
+    RCUwQSUyMGFuZCUyMCUyOGlkdXRlbnRldm90YXRvJTIwTk9UJTIwSU4lMjAl
+    MjhzZWxlY3QlMjBpZF9sb2dpbiUyMGZyb20lMjBsb2dpbnolMjklMjklMEQl
+    MEElMEQlMEEA
+
+  data_creazione: 2003-06-07 13:30:01
+  ID: "354"
+  note: query che contiene un NOT IN! incredibile!!!
+  titolo: votate inestenti QUERY CON NOT IN!!!
+query_notevoli_018: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUwRCUwQSUyMEZST00lMjBsb2dpbnolMjB3aGVyZSUy
+    MG1fZGF0YUlzY3JpemlvbmUlM0RtX2RhdGFsYXN0Y29sbGVnYXRvJTBEJTBB
+    JTBEJTBBAA==
+
+  data_creazione: 2002-10-17 16:05:52
+  ID: "235"
+  note: "dice chi s'\xC3\xA8 collegato una volta sola... :-)\r\n"
+  titolo: metti qui il titolo
+query_notevoli_007: 
+  encoded_query: !binary |
+    JTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwU0VMRUNUJTIwKiUyMCUwRCUw
+    QSUyMEZST00lMjBxdWVyeV9ub3Rldm9saSUwRCUwQSUyMHdoZXJlJTIwdGl0
+    b2xvJTIwbGlrZSUyMCUyN2xvZ2luJTI3JTBEJTBBJTBEJTBBAA==
+
+  data_creazione: 2002-05-02 08:29:19
+  ID: "11"
+  note: "         Metti qui le eventuali note per favore se"
+  titolo: query con like sui loginz
+query_notevoli_041: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUwRCUwQSUyMEZST00lMjBvcmRpbmklMEQlMEElMjBX
+    SEVSRSUyMGNpdHQlRTAlMjBub3QlMjBpbiUyMCUyOHNlbGVjdCUyMCU1Qm5v
+    bWUlMjBjaXR0JUUwJTVEJTIwZnJvbSUyMHJlZ2lvbmklMjklMEQlMEEA
+
+  data_creazione: 2003-09-21 11:41:57
+  ID: "401"
+  note: tutti ordini in cui CITTA non sia nella tabella ap
+  titolo: "ordini appartenenti a citt\xC3\xA0 inesistenti"
+query_notevoli_030: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwZGlzdGluY3QlMjAlMjBpZHV0ZW50ZXZvdGF0byUyMEZST00l
+    MjBnaW9jb2NvcHBpZSUyMGclMjB3aGVyZSUyMCUyMCUyOGlkdXRlbnRldm90
+    YXRvJTIwTk9UJTIwSU4lMjAlMjhzZWxlY3QlMjBpZF9sb2dpbiUyMGZyb20l
+    MjBsb2dpbnolMjklMjklMEQlMEEA
+
+  data_creazione: 2003-06-07 13:43:14
+  ID: "357"
+  note: FIGATA! dice l'iud di persone votate ma inesistent
+  titolo: ZOMBIE giococoppie
+query_notevoli_019: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUwRCUwQSUyMEZST00lMjBsb2dpbnolMjB3aGVyZSUy
+    MG1fc25vbWUlMjBsaWtlJTIwJTI3JTI1ZGl0dGElMjUlMjclMEQlMEElMEQl
+    MEEA
+
+  data_creazione: 2003-01-13 14:42:04
+  ID: "300"
+  note: Metti qui le eventuali note per favore senza segni
+  titolo: metti qui il titolo
+query_notevoli_008: 
+  encoded_query: !binary |
+    JTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwU0VMRUNUJTIwKiUyMCUwRCUw
+    QSUyMEZST00lMjBjYXJpY2hlJTBEJTBBJTIwV0hFUkUlMjBpZF9vcmRpbmUl
+    M0QxJTBEJTBBJTBEJTBBJTBEJTBBAA==
+
+  data_creazione: 2002-05-02 20:39:13
+  ID: "12"
+  note: "         Metti qui le eventuali note per favore se"
+  titolo: metti qui il titolo
+query_notevoli_042: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwY291bnQlMjgqJTI5JTBEJTBBJTIwRlJPTSUyMG1lc3NhZ2dp
+    JTBEJTBBJTIwV0hFUkUlMjBpZF9maWdsaW9kaV9tc2clMjAlM0UlMjAwJTIw
+    QU5EJTIwaWRfZmlnbGlvZGlfbXNnJTIwbm90JTIwaW4lMjAlMjhzZWxlY3Ql
+    MjBpZF9tc2clMjBmcm9tJTIwbWVzc2FnZ2klMjklMEQlMEEA
+
+  data_creazione: 2003-09-28 15:47:40
+  ID: "402"
+  note: "conta i messaggi figli di un padre che non c'\xC3\xA8 pi\xC3\xB9"
+  titolo: conta MESSAGGI ORFANI
+query_notevoli_031: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUwRCUwQSUyMEZST00lMjBsb2dpbnolMjB3aGVyZSUy
+    MG1fc25vbWUlMjBsaWtlJTIwJTI3JTI1ZmFyaW5hMDAlMjUlMjclMEQlMEEl
+    MEQlMEElMEQlMEEA
+
+  data_creazione: 2003-07-01 16:45:23
+  ID: "360"
+  note: Metti qui le eventuali note per favore senza segni
+  titolo: metti qui il titolo
+query_notevoli_020: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwaTIuKiUyMCUwRCUwQSUyMEZST00lMjBpbmRpcml6emklMjBp
+    MSUyQ2luZGlyaXp6aSUyMGkyJTBEJTBBJTIwd2hlcmUlMjBpMS5tX3RkZXNj
+    cml6aW9uZSUyMGxpa2UlMjAlMjclMjVhdWd1c3RvJTI1JTI3JTIwJTBEJTBB
+    JTIwYW5kJTIwaTEuaXBob3N0JTNEaTIuaXBob3N0JTBEJTBBJTBEJTBBAA==
+
+  data_creazione: 2003-02-20 16:53:12
+  ID: "317"
+  note: trova i doppioni di ADDRESS...
+  titolo: metti qui il titolo
+query_notevoli_009: 
+  encoded_query: !binary |
+    JTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwU0VMRUNUJTIwYzEuJTVCbm9t
+    ZSUyMGNhcmljYSU1RCUyQ2MyLiU1Qm5vbWUlMjBjYXJpY2ElNUQlMEQlMEEl
+    MjBGUk9NJTIwY2FyaWNoZSUyMGMxJTJDJTIwY2FyaWNoZSUyMGMyJTBEJTBB
+    JTIwd2hlcmUlMjBjMS5pZF9jYXJfc3Rhc290dG9hJTNEYzIuaWRfY2FyaWNh
+    JTBEJTBBJTIwQU5EJTIwYzEuaWRfb3JkaW5lJTNEMSUwRCUwQSUwRCUwQSUw
+    RCUwQQA=
+
+  data_creazione: 2002-05-02 21:04:34
+  ID: "13"
+  note: dice tutti i sottoposti all internmo di un ordine
+  titolo: FIGATA sottoposti
+query_notevoli_043: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUwRCUwQSUyMEZST00lMjBsb2dpbnolMEQlMEElMjBXSEVS
+    RSUyMG5vdyUyOCUyOS1tX2RhdGFsYXN0Y29sbGVnYXRvJTIwJTNFJTIwMzAw
+    JTBEJTBBJTIwQU5EJTIwbV9iZ3Vlc3QlM0RmYWxzZSUwRCUwQSUyMG9yZGVy
+    JTIwYnklMjBtX3Nub21lJTBEJTBBAA==
+
+  data_creazione: 2003-11-09 19:05:35
+  ID: "403"
+  note: trova gli sbur-user che non sio collegano dal alme
+  titolo: SBURUSER che non si collegano da almeno 300 giorni
+query_notevoli_032: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUyMEZST00lMjBsb2dpbnolMjB3aGVyZSUyMG1fc25v
+    bWUlMjAlM0QlMjAlMjdmYXJpbmEwMCUyNyUwRCUwQSUwRCUwQSUwRCUwQQA=
+
+  data_creazione: 2003-07-01 16:46:19
+  ID: "361"
+  note: Metti qui le eventuali note per favore senza segni
+  titolo: metti qui il titolo
+query_notevoli_021: 
+  encoded_query: !binary |
+    ZGVsZXRlJTIwKiUyMCUwRCUwQSUyMEZST00lMjBxdWVyeV9ub3Rldm9saSUy
+    MHdoZXJlJTIwdGl0b2xvJTNEJTI3dW5kZWZpbmVkJTI3JTBEJTBBAA==
+
+  data_creazione: 2003-05-12 13:43:20
+  ID: "340"
+  note: dato che prima sto stronzo di db inserirva query n
+  titolo: cencella query notevoli BANALI
+query_notevoli_010: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwbi4lNUJpZF9ub21pbmElNUQlMkMlNUJub21lJTIwZ29saWFy
+    ZGljbyU1RCUyQyU1Qm5vbWUlMjBjYXJpY2ElNUQlMEQlMEElMjBGUk9NJTIw
+    bm9taW5lJTIwbiUyQyUyMGdvbGlhcmRpJTIwZyUyQ2NhcmljaGUlMjBjJTIw
+    JTIwd2hlcmUlMjBuLmlkX2dvbGlhcmRhJTNEZy5pZF9nb2wlMjAlMEQlMEFB
+    TkQlMjBjLmlkX2NhcmljYSUzRG4uaWRfY2FyaWNhJTBEJTBBJTBEJTBBAA==
+
+  data_creazione: 2002-05-09 17:22:35
+  ID: "14"
+  note: t dice il nome goliardico e la carica di un tipo x
+  titolo: "nomine: goliarda/carica"
+query_notevoli_044: 
+  encoded_query: !binary |
+    VVBEQVRFJTIwbG9naW56JTBEJTBBJTIwU0VUJTIwbV9iZ3Vlc3QlM0R0cnVl
+    JTBEJTBBJTIwV0hFUkUlMjBub3clMjglMjktbV9kYXRhbGFzdGNvbGxlZ2F0
+    byUyMCUzRSUyMDMwMCUwRCUwQSUyMEFORCUyMG1fYmd1ZXN0JTNEZmFsc2Ul
+    MEQlMEEA
+
+  data_creazione: 2003-11-09 19:07:10
+  ID: "404"
+  note: "Rende guest chi \xC3\xA8 USER ma non si collega da almeno"
+  titolo: rende guest gente che non si collega da moh
+query_notevoli_033: 
+  encoded_query: !binary |
+    ZGVsZXRlJTIwKiUyMCUwRCUwQSUyMEZST00lMjBwb2xsc192b3RpJTBEJTBB
+    JTIwV0hFUkUlMjBpZF91dGVudGUlM0QxMDI4JTBEJTBBAA==
+
+  data_creazione: 2003-07-13 15:09:10
+  ID: "367"
+  note: cancella tutti i voti dell'utente numero XXX (qui
+  titolo: metti qui il titolo
+query_notevoli_022: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUwRCUwQSUyMEZST00lMjBjYXJpY2hlJTIwd2hlcmUl
+    MEQlMEFpZF9jYXJpY2ElM0RpZF9jYXJfc3Rhc290dG9hJTBEJTBBAA==
+
+  data_creazione: 2003-05-12 15:18:34
+  ID: "342"
+  note: cariche che uno stronzo ha messo sotto a se stesse
+  titolo: osserva cariche autoreferenziali
+query_notevoli_011: 
+  encoded_query: !binary |
+    aW5zZXJ0JTIwaW50byUyMG9yZGluaSUyMCUyOCU1Qm5vbWVfdmVsb2NlJTVE
+    JTJDY2l0dCVFMCUyQ2lkX3V0ZW50ZV9jcmVhdG9yZSUyOSUyMHZhbHVlcyUy
+    MCUyOCUyN0FzaW5lbGxpJTI3JTJDJTI3Qm9sb2duYSUyNyUyQzMlMjklMEQl
+    MEElMEQlMEEA
+
+  data_creazione: 2002-06-20 11:27:17
+  ID: "103"
+  note: Metti qui le eventuali note per favore senza segni
+  titolo: metti qui il titolo
+query_notevoli_045: 
+  encoded_query: +SELECT+%2A+%0D%0A+FROM+loginz%0D%0A+WHERE+m_datalastcollegato+is+null%0D%0A%0D%0A
+  data_creazione: 2005-03-27 14:54:48
+  ID: "405"
+  note: queste poersone andrebbero arata, e bisognerebbe a
+  titolo: persone MAI collegate
+query_notevoli_034: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwZy4qJTJDbDEubV9zbm9tZSUyQ2wyLm1fc25vbWUlMjBGUk9N
+    JTIwZ2lvY29jb3BwaWUlMjBnJTJDJTIwbG9naW56JTIwbDElMkMlMjBsb2dp
+    bnolMjBsMiUyMFdIRVJFJTIwbDEuaWRfbG9naW4lM0RnLmlkdXRlbnRldm90
+    YW50ZSUyMGFuZCUyMGwyLmlkX2xvZ2luJTNEZy5pZHV0ZW50ZXZvdGF0byUy
+    MGFuZCUyMGwyLm1fYmlzbWFzY2hpbyUzRGZhbHNlJTIwYW5kJTBEJTBBbDEu
+    bV9iaXNtYXNjaGlvJTNEZmFsc2UlMEQlMEEA
+
+  data_creazione: 2003-07-17 23:27:56
+  ID: "372"
+  note: seleziona le coppie lesbo (donna vota donna)
+  titolo: seleziona COPPIE LESBO
+query_notevoli_023: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwbC5tX3Nub21lJTBEJTBBJTIwRlJPTSUyMGxvZ2lueiUyMGwl
+    MkNnaW9jb2NvcHBpZSUyMGclMEQlMEElMjBXSEVSRSUyMGwuaWRfbG9naW4l
+    M0RnLmlkdXRlbnRldm90YW50ZSUwRCUwQSUyMGFuZCUyMGwubV9iZ3Vlc3Ql
+    M0R0cnVlJTBEJTBBAA==
+
+  data_creazione: 2003-05-24 18:06:01
+  ID: "347"
+  note: utenti attualmente guest che hanno VOTATO...
+  titolo: GUEST VOTANTI
+query_notevoli_012: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwY291bnQlMjgqJTI5JTIwYXMlMjBxdWFudGUlMkNpZF91dGVu
+    dGVfcG9zdGFudGUlMjAlMkNtX3Nub21lJTBEJTBBJTIwRlJPTSUyMG5vbWlu
+    ZSUyQ2xvZ2lueiUwRCUwQSUyMHdoZXJlJTIwaWRfbG9naW4lM0RpZF91dGVu
+    dGVfcG9zdGFudGUlMjAlMEQlMEElMjBncm91cCUyMGJ5JTIwaWRfdXRlbnRl
+    X3Bvc3RhbnRlJTJDbV9zbm9tZSUyMCUwRCUwQSUyMG9yZGVyJTIwYnklMjBj
+    b3VudCUyOColMjklMjBkZXNjJTBEJTBBJTBEJTBBAA==
+
+  data_creazione: 2002-06-27 11:10:29
+  ID: "119"
+  note: dice quante nomine son state butatte su da ogni ut
+  titolo: chi ha bbuttato su piu nomine
+query_notevoli_001: 
+  encoded_query: !binary |
+    c2VsZWN0IFtub21lIGdvbGlhcmRpY29dLFtub21lIG5vYmlsaWFyZV0gZnJv
+    bSBnb2xpYXJkaSBvcmRlciBieSBbbm9tZSBnb2xpYXJkaWNvXQA=
+
+  data_creazione: 2002-04-30 00:00:00
+  ID: "1"
+  note: semplice e sbura
+  titolo: nomi cognomi e mail
+query_notevoli_046: 
+  encoded_query: SELECT+%2A+%0D%0A+FROM+loginz%0D%0A+WHERE+m_snome+like+%5C%27milite+ign%25%5C%27
+  data_creazione: 2007-11-22 20:27:04
+  ID: "406"
+  note: |
+    note
+
+  titolo: titolo
+query_notevoli_035: 
+  encoded_query: !binary |
+    ZGVsZXRlJTIwKiUyMEZST00lMjBnZXN0aW9uZV9jaXR0YSUyMHdoZXJlJTIw
+    aWRfbG9naW4lM0QzAA==
+
+  data_creazione: 2003-07-17 23:37:42
+  ID: "373"
+  note: "toglie gestione citt\xC3\xA0 all'utente numero 3"
+  titolo: KILLUSER1
+query_notevoli_024: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwbV9zbm9tZSUyQyUyMG1fbnB4JTIwJTBEJTBBJTIwRlJPTSUy
+    MGxvZ2lueiUwRCUwQSUyMFdIRVJFJTIwbV9iZ3Vlc3QlM0R0cnVlJTIwYW5k
+    JTIwbV9ucHglM0UxMCUwRCUwQSUyMG9yZGVyJTIwYnklMjBtX25weCUyMGRl
+    c2MlMEQlMEEA
+
+  data_creazione: 2003-05-25 21:24:30
+  ID: "349"
+  note: i guest con + px e almeno 10 px... sono i piu afic
+  titolo: GUEST con molti PX
+query_notevoli_013: 
+  encoded_query: !binary |
+    aW5zZXJ0JTIwaW50byUyMCUyMG9yZGluaSUyMCUyOG5vbWVfdmVsb2NlJTJD
+    JTIwJTVCbm9tZSUyMGNvbXBsZXRvJTVEJTJDc2lnbGElMkMlNUJjaXR0JUUw
+    JTVEJTJDaWRfdXRlbnRlX2NyZWF0b3JlJTI5JTIwJTBEJTBBJTBEJTBBVkFM
+    VUVTJTIwJTI4JTI3U2lnbm9yaSUyMGRlbGxhJTIwTm90dGUlMjclMkMlMjdU
+    ZW5lYnJvc28lMjBJbXBlcm8lMjBkZWklMjBTaWdub3JpJTIwZGVsbGElMjBO
+    b3R0ZSUyNyUyQyUyMCUyN1RJU04lMjclMkMlMjAlMjdUcmllc3RlJTI3JTJD
+    JTIwMyUyOSUwRCUwQSUwRCUwQSUwRCUwQQA=
+
+  data_creazione: 2002-08-03 18:46:07
+  ID: "151"
+  note: "\xC3\xA8 stato un duro calvario ma ce lho fatta. PS manca"
+  titolo: inserimento dei signori della notte...
+query_notevoli_002: 
+  encoded_query: !binary |
+    U0VMRUNUIG8ubm9tZV92ZWxvY2UsZy5bbm9tZSBnb2xpYXJkaWNvXSxvLmNp
+    dHTDoCAgRlJPTSBnb2xpYXJkaSBnLCBvcmRpbmkgbyAgIHdoZXJlIGcuaWRf
+    b3JkaW5lID0gby5pZF9vcmQA
+
+  data_creazione: 2002-05-01 00:00:00
+  ID: "2"
+  note: una figata di query, il giusto incrocio tra sacro
+  titolo: "Nomi e relativi ordini e citt\xC3\xA0"
+query_notevoli_047: 
+  encoded_query: SELECT+%2A+%0D%0A+FROM+loginz%0D%0A+WHERE+m_snome+like+%5C%27gabriel%25%5C%27
+  data_creazione: 2008-01-19 08:54:41
+  ID: "407"
+  note: note
+  titolo: titolo
+query_notevoli_036: 
+  encoded_query: !binary |
+    ZGVsZXRlJTIwKiUyMGZyb20lMjBpbmRpcml6emklMjB3aGVyZSUyMG1fdGRl
+    c2NyaXppb25lJTNEJTI3ZGklMjBhbm9uaW1vJTI3JTBEJTBBJTBEJTBBJTBE
+    JTBBAA==
+
+  data_creazione: 2003-07-18 00:17:17
+  ID: "375"
+  note: "deriva da necessit\xC3\xA0 x un bug precedente in cui ano"
+  titolo: cencella IP loggati con nome anonimo
+query_notevoli_025: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUwRCUwQSUyMEZST00lMjBsb2dpbnolMEQlMEElMjBX
+    SEVSRSUyMG1fYmlzbWFzY2hpbyUzRGZhbHNlJTIwYW5kJTIwJTBEJTBBJTIw
+    bXNuJTIwbGlrZSUyMCUyNyUyNUAlMjUlMjclMEQlMEEA
+
+  data_creazione: 2003-05-25 21:45:10
+  ID: "350"
+  note: |
+    donne con msn dichiarato...
+
+  titolo: donne con msn
+query_notevoli_014: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwKiUyMCUwRCUwQSUyMEZST00lMjBsb2dpbnolMjBsMSUyQyUy
+    MGxvZ2lueiUyMGwyJTIwd2hlcmUlMjBsMS5tX2hlbWFpbCUzRGwyLm1faGVt
+    YWlsJTIwQU5EJTIwbDEuaWRfbG9naW4lMjAlM0MlM0UlMjBsMi5pZF9sb2dp
+    bgA=
+
+  data_creazione: 2002-08-18 12:49:58
+  ID: "153"
+  note: "ti d\xC3\xA0 tutte i login con email doppiona."
+  titolo: loginz con email doppie FIGATA
+query_notevoli_003: 
+  encoded_query: !binary |
+    IFNFTEVDVCAqIEZST00gbG9naW56IAA=
+
+  data_creazione: 2002-05-01 14:51:46
+  ID: "4"
+  note: " Metti qui le eventuali note per favore senza segn"
+  titolo: tutti i loginz
+query_notevoli_048: 
+  encoded_query: SELECT+%2A+%0D%0A+FROM+loginz%0D%0A+WHERE+m_snome+like+%5C%27%2Aiena%25%5C%27
+  data_creazione: 2008-01-19 08:55:09
+  ID: "408"
+  note: note
+  titolo: titolo
+query_notevoli_037: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwZy4qJTJDbDEubV9zbm9tZSUyQ2wyLm1fc25vbWUlMjBGUk9N
+    JTIwZ2lvY29jb3BwaWUlMjBnJTJDJTIwbG9naW56JTIwbDElMkMlMjBsb2dp
+    bnolMjBsMiUyMFdIRVJFJTIwbDEuaWRfbG9naW4lM0RnLmlkdXRlbnRldm90
+    YW50ZSUyMGFuZCUyMGwyLmlkX2xvZ2luJTNEZy5pZHV0ZW50ZXZvdGF0byUy
+    MGFuZCUyMGwyLm1fYmlzbWFzY2hpbyUzRHRydWUlMjBhbmQlMEQlMEFsMS5t
+    X2Jpc21hc2NoaW8lM0R0cnVlJTBEJTBBAA==
+
+  data_creazione: 2003-08-22 16:47:05
+  ID: "397"
+  note: Metti qui le eventuali note per favore senza segni
+  titolo: metti qui il titolo
+query_notevoli_026: 
+  encoded_query: !binary |
+    aW5zZXJ0JTIwaW50byUyMHJlZ2lvbmklMjAlMjglNUJub21lJTIwY2l0dCVF
+    MCU1RCUyQ3NpZ2xhJTJDcmVnaW9uZSUyOSUyMHZhbHVlcyUyMCUyOCUyN0Fy
+    Z2VudGElMjclMkMlMjdBRyUyNyUyQyUyN0VtaWxpYSUyNyUyOSUwRCUwQQA=
+
+  data_creazione: 2003-06-03 02:07:30
+  ID: "351"
+  note: "esempio di inserimento della ciott\xC3\xA0 di argenta nel"
+  titolo: "inserisci citt\xC3\xA0"
+query_notevoli_015: 
+  encoded_query: !binary |
+    Q1JFQVRFJTIwVEFCTEUlMjBDYW56b25pJTIwJTI4JTVCSURfY2Fuem9uZSU1
+    RCUyMGludGVnZXIlMkMlMjAlNUJ0aXRvbG8lNUQlMjB0ZXh0JTJDJTIwJTVC
+    aWRfbG9naW4lNUQlMjBsb25nJTIwJTJDJTIwJTVCRGF0YV9jcmVhemlvbmUl
+    NUQlMjBkYXRlJTJDJTIwJTVCQXV0b3JlJTVEJTIwdGV4dCUyQyUyMCU1Qm1f
+    YlNlcmlhJTVEJTIweWVzbm8lMkMlMjAlNUJDb3JwbyU1RCUyMG1lbW8lMkMl
+    MjAlNUJOb3RlJTVEJTIwbWVtbyUyQyUyMENPTlNUUkFJTlQlMjAlNUJJbmRp
+    Y2UxJTVEJTIwUFJJTUFSWSUyMEtFWSUyMCUyOCU1QklEX2NhbnpvbmUlNUQl
+    MjklMjAlMjklM0IlMEQlMEEA
+
+  data_creazione: 2002-09-01 19:12:05
+  ID: "171"
+  note: crea tabella!!!!
+  titolo: metti qui il titolo
+query_notevoli_004: 
+  encoded_query: !binary |
+    ICAgICAgICAgU0VMRUNUICogDQogRlJPTSBvcmRpbmkgbyANCiBXSEVSRSBv
+    LmNpdHTDoD0iYm9sb2duYSINCg0KAA==
+
+  data_creazione: 2002-05-01 14:58:58
+  ID: "6"
+  note: "         Metti qui le eventuali note per favore se"
+  titolo: metti qui il titolo
+query_notevoli_049: 
+  encoded_query: SELECT+%2A+%0D%0A+FROM+loginz%0D%0A+WHERE+m_snome+like+%5C%27iena%25%5C%27
+  data_creazione: 2008-01-19 08:55:26
+  ID: "409"
+  note: note
+  titolo: titolo
+query_notevoli_038: 
+  encoded_query: !binary |
+    VVBEQVRFJTIwbG9naW56JTBEJTBBJTIwU0VUJTIwbV9iZ3Vlc3QlMjAlM0Ql
+    MjB0cnVlJTBEJTBBJTIwV0hFUkUlMjBtX2JndWVzdCUyMCUzRCUyMGZhbHNl
+    JTBEJTBBJTIwQU5EJTIwJTIwcHJvdmluY2lhJTIwJTNEJTIwJTI3bnVsbCUy
+    NyUwRCUwQQA=
+
+  data_creazione: 2003-09-11 22:19:23
+  ID: "398"
+  note: "rende guest chi non ha settato la citt\xC3\xA0!"
+  titolo: GUESTIZZA i NON CITTADINI
+query_notevoli_027: 
+  encoded_query: !binary |
+    U0VMRUNUJTIwY291bnQlMjgqJTI5JTIwJTJDJTIwaWR1dGVudGV2b3RhdG8l
+    MEQlMEElMjBGUk9NJTIwJTIwZ2lvY29jb3BwaWUlMEQlMEElMjB3aGVyZSUy
+    MGlkdXRlbnRldm90YW50ZSUzRDMlMEQlMEElMjBncm91cCUyMGJ5JTIwaWR1
+    dGVudGV2b3RhdG8lMEQlMEElMjBoYXZpbmclMjBjb3VudCUyOColMjklMjAl
+    M0UlMjAxJTBEJTBBAA==
+
+  data_creazione: 2003-06-07 13:23:42
+  ID: "352"
+  note: query raggrupposa che trova tutte le coppie MIE do
+  titolo: Voti miei doppi
+query_notevoli_016: 
+  encoded_query: !binary |
+    Q1JFQVRFJTIwVEFCTEUlMjBpbmRpcml6emklMjAlMEQlMEElMjglNUJJRF9h
+    ZGRyZXNzJTVEJTIwbG9uZyUyQyUwRCUwQSUyMCU1QklEX1V0ZW50ZSU1RCUy
+    MGxvbmclMkMlMEQlMEElMjAlNUJpcEhvc3QlNUQlMjB0ZXh0JTI4MTYlMjkl
+    MkMlMjAlMEQlMEElMjAlNUJub21lSG9zdCU1RCUyMHRleHQlMjg0MCUyOSUy
+    QyUyMCUwRCUwQSUyMCU1Qm5vbWVVc2VyJTVEJTIwdGV4dCUyODQwJTI5JTJD
+    JTIwJTBEJTBBJTIwJTVCbV90RGVzY3JpemlvbmUlNUQlMjB0ZXh0JTI4ODAl
+    MjklMkMlMEQlMEElMjAlNUJtX2JBdHRpdm8lNUQlMjB5ZXNubyUyQyUwRCUw
+    QSUyMCU1Qm1fbkNvbnRhQWNjZXNzaSU1RCUyMGxvbmclMkMlMEQlMEElMEQl
+    MEElMjBDT05TVFJBSU5UJTIwJTVCaW5kaXJpenpvJTVEJTIwUFJJTUFSWSUy
+    MEtFWSUyMCUyOCU1QklEX2FkZHJlc3MlNUQlMjklMjAlMEQlMEElMjklM0Il
+    MjAlMEQlMEEA
+
+  data_creazione: 2002-09-16 20:22:28
+  ID: "185"
+  note: crea table indirizzi (x toglierla usa DROP TABLE c
+  titolo: metti qui il titolo
+query_notevoli_005: 
+  encoded_query: !binary |
+    JTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwJTIwU0VMRUNUJTIwKiUyMCUwRCUw
+    QSUyMEZST00lMjBsb2dpbnolMEQlMEFXSEVSRSUyMElEX2xvZ2luJTIwJTNE
+    JTIwMiUwRCUwQQA=
+
+  data_creazione: 2002-05-01 15:31:13
+  ID: "8"
+  note: dice seconda riga di loginz
+  titolo: loginz2

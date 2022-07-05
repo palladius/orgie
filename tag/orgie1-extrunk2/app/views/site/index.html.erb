@@ -1,0 +1,31 @@
+<div id="index-body" >
+  <center>
+    <%= image_tag "logos/goliardia.png" , :align => 'middle' , :width => 300 %>
+    <br/><br/>
+    <% form_tag( '/site/index', :method => 'get' ) do %>
+      <%= text_field_tag 'q', if params[:q] then params[:q] end, :size => "50"  %>
+      <script type="text/javascript">
+        document.getElementById('q').focus();
+      </script>
+      <input type='submit' value="Go" />
+    <% end %>
+
+  </center>
+</div>
+<% if params[:q] then %>
+  <%= render :partial => "search_result" %>
+<% else %>
+  <h1>Index</h1>
+  Benvenuto su Orgie, il nuovo sito goliardico on Rails!
+
+  <% if logged_in? %>
+    <p><strong>You are logged in as <%=h current_user.login %></strong></p>
+    <p><%= link_to 'Logout', logout_path %></p>
+  <% else %>
+    <p><strong>You are currently not logged in.</strong></p>
+    <p>
+      <%= link_to 'Login', login_path %> or
+      <%= link_to 'Sign Up', signup_path %>
+    </p>
+  <% end %>
+<% end %>

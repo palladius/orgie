@@ -1,0 +1,57 @@
+<% title "Goliards" %>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Surname</th>
+    <th>Process Date</th>
+    <th>Address</th>
+    <th>Mobile</th>
+    <th>Goliardic Name</th>
+    <th>Noble Name</th>
+    <th>Order</th>
+    <th>User</th>
+    <th>Subscription</th>
+    <th>Subscription Stamps</th>
+    <th>Email</th>
+    <th>Scazzi Count</th>
+    <th>Privacy Mail</th>
+    <th>Privacy Cell</th>
+    <th>Privacy Address</th>
+    <th>Photo</th>
+    <th>Faculty</th>
+    <th>Points</th>
+    <th>Male</th>
+    <th>Title</th>
+  </tr>
+  <% for goliard in @goliards %>
+    <tr>
+      <td><%= goliard.name %></td>
+      <td><%= goliard.surname %></td>
+      <td><%= goliard.process_date %></td>
+      <td><%= goliard.address %></td>
+      <td><%= goliard.mobile %></td>
+      <td><%= goliard.goliardic_name %></td>
+      <td><%= goliard.noble_name %></td>
+      <td><%= goliard.order_id %></td>
+      <td><%= goliard.user_id %></td>
+      <td><%= goliard.subscription %></td>
+      <td><%= goliard.subscription_stamps %></td>
+      <td><%= goliard.email %></td>
+      <td><%= goliard.scazzi_count %></td>
+      <td><%= goliard.private_mail %></td>
+      <td><%= goliard.private_cell %></td>
+      <td><%= goliard.private_address %></td>
+      <td><%= goliard.photo %></td>
+      <td><%= goliard.faculty_id %></td>
+      <td><%= goliard.points %></td>
+      <td><%= goliard.male %></td>
+      <td><%= goliard.title %></td>
+      <td><%= link_to "Show", goliard %></td>
+      <td><%= link_to "Edit", edit_goliard_path(goliard) %></td>
+      <td><%= link_to "Destroy", goliard, :confirm => 'Are you sure?', :method => :delete %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Goliard", new_goliard_path %></p>

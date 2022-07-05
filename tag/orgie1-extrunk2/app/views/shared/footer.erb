@@ -1,0 +1,51 @@
+<div id='page_footer'>
+	<%# visualize_admin_stuff = false
+	
+	def history_icon (expl)
+		image_tag("icons/history.png", :height => 18 , :title => "#{expl} History" , :align => 'middle' )
+	end
+
+	#def warning_host?()
+		#failover_hosts =	%w[ cdb-staging2 marvin slartibartfast ]
+		#failover_hosts.include?( Socket.gethostname )
+	#end
+%>
+	<hr/>
+	<div align='center' >
+		<%#= image_tag "icons/environment/"+ENV["RAILS_ENV"] +".png", :height => 30 , :align => "left", :title => 'Flag color stands for environment type: '+ ENV["RAILS_ENV"]	%>
+		<%# svn_revision = "$Rev: 70 $".gsub('$','').split(' ')[1]
+		svn_id = "$Id: footer.erb 70 2009-10-02 16:24:48Z riccardo $".gsub('$','')
+
+	%>
+		<p class="footer-small">
+			<a href="http://wwww.goliardia.it/" target="_blank">Gol</a>
+			<b>Orgie</b> v. <tt><%#= APP_CONFIG['code_ver_name'] %></tt>
+			- <b>Code</b> v<tt><%#= APP_CONFIG['code_version'] %></tt> <%#= tooltip(APP_CONFIG['code_history'], history_icon('code') ) if(true) # user_session.admin? %>
+			<b>Rev</b>	<tt><%#=  svn_revision%> </tt>
+			<b>DB</b>	 v<%#= APP_CONFIG['db_version'] %> <%#= tooltip(APP_CONFIG['db_history'],	history_icon('DB') ) #if user_session.admin? %>
+			<b>H</b> <span class='<%#= "failover" if failover_host? %>'>
+						<%=Socket.gethostname%> <%= "<i>(<b>FailOver</b>! Apparently primary server is down!)</i>" if failover_host? %>
+					</span>
+
+			<%# if( true )# user_session.admin? %>
+				<br/>
+				<b>SVN</b> <tt><%#=svn_id%></tt>
+				<b>DIR</b>	<tt><%= RAILS_ROOT.split('/')[-2..-1].join('/') %></tt>
+				<a href='/api/'>api/</a>
+				<a href='/admin/'>admin/</a>
+				<%
+				rendering_stop = Time.now
+				rendering_time = rendering_stop - @rendering_start
+			%>
+				<%#= image_tag "icons/time.png", :height => 15	 %>
+				<%#= rendering_time %>''
+			<%# end %>
+		</p>
+	</div>
+
+	<%# if ENV["RAILS_ENV"] == 'development' # && visualize_admin_stuff %>
+		<p class="footer-small">
+			<%#= render :partial => 'shared/footer_development' %>
+		</p>
+	<%# end %>
+</div>

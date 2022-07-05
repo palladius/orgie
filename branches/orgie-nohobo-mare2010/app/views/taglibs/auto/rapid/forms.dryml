@@ -1,0 +1,299 @@
+<!-- AUTOMATICALLY GENERATED FILE - DO NOT EDIT -->
+
+<def tag="form" for="City">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="nomecitta, sigla, regione, id_pseudoid" param/>
+    <div param="actions">
+      <submit label="#{ht 'cities.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="CityManager">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="id_login, città" param/>
+    <div param="actions">
+      <submit label="#{ht 'city_managers.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Content">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="titolo, idlogin, contenuto, datacreazione, m_nLivelloSegretezza, m_battivo, m_bInAttesa, tipo, idloginpubblicante, m_bSerio, datapubblicazione" param/>
+    <div param="actions">
+      <submit label="#{ht 'contents.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Couple">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="idUtenteVotante, idUtenteVotato, m_bScoperebbe, m_bBacerebbe, dataVoto, commento, m_nVoto, sexVotante, m_bPrivato" param/>
+    <div param="actions">
+      <submit label="#{ht 'couples.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="EventPresence">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="id_utente, id_appuntamento, probabilita, commento, m_nquantitotale, datacreazione" param/>
+    <div param="actions">
+      <submit label="#{ht 'event_presences.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Faculty">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="ID_FACOLTA, Facolta" param/>
+    <div param="actions">
+      <submit label="#{ht 'faculties.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="GmsText">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="data_invio, m_bNuovo, idutentescrivente, idutentericevente, messaggio" param/>
+    <div param="actions">
+      <submit label="#{ht 'gms_texts.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="GoliardManager">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="id_login, id_gol, note" param/>
+    <div param="actions">
+      <submit label="#{ht 'goliard_managers.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Goliard">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="Nome, Cognome, DataProcesso, Indirizzo, numcellulare, Nomegoliardico, Nomenobiliare, ID_Ordine, id_login, Dataiscrizione, BolliAllIscrizione, email, contascazzi, privacy_mail, privacy_cell, privacy_address, foto, ID_FACOLTA, m_nPunti, m_bIsMaschio, titolo" param/>
+    <div param="actions">
+      <submit label="#{ht 'goliards.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="HatColor">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="Facoltà, colore_default, città" param/>
+    <div param="actions">
+      <submit label="#{ht 'hat_colors.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="LegacyLogin">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="m_sNome, m_hEmail, m_dataIscrizione, m_thumbnail, id_goliarda_default, m_bAdmin, m_nPX, m_nLivello, m_bIsMaschio, m_bErreMoscia, m_bAttivo, m_bGuest, m_dataLastCollegato, m_sNote, datanascita, m_bIsGoliard, msn, interessi, icq, provincia, gustisessuali, m_bSerio, m_bSingle, m_bPunizione, m_bmailpubblica" param/>
+    <div param="actions">
+      <submit label="#{ht 'legacy_logins.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Link">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="id_login, titolo, id_oggettoPuntato, Data_creazione, tipo, m_battiva, URLlink, URLlinkFoto, m_bfotoattiva, Descrizione, legacy_login" param/>
+    <div param="actions">
+      <submit label="#{ht 'links.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Message">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="titolo, id_login, messaggio, data_creazione, pubblico, id_figliodi_msg, id_tipo, legacy_login, message" param/>
+    <div param="actions">
+      <submit label="#{ht 'messages.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="OrderManager">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="ID_ORDINE, ID_LOGIN" param/>
+    <div param="actions">
+      <submit label="#{ht 'order_managers.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Order">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="Città, id_utente_creatore, Nome_veloce, Nome_completo, Sigla, ID_ORD_Vassallo_di, Sovrano, datadinascita, Motto, m_fileImmagine, m_fileImmagineTn, note, storia, data_creazione, m_bSerio, indirizzo, emailordine, m_bInSonno, m_nPrecedenzaCittadina, city, legacy_login" param/>
+    <div param="actions">
+      <submit label="#{ht 'orders.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="PictureAppearance">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="id_foto, id_gol, note, data_commento, id_utente_commento" param/>
+    <div param="actions">
+      <submit label="#{ht 'picture_appearances.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Picture">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="titolo_foto, descrizione, percorso, data_scatto, dimensione, data_upload, id_utente_upload" param/>
+    <div param="actions">
+      <submit label="#{ht 'pictures.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Position">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="ID_Ordine, nomecarica, ID_CAR_staSottoA, CardinalitàMax, Dignità, Attiva, HC, note, m_nImportanza" param/>
+    <div param="actions">
+      <submit label="#{ht 'positions.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Role">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="id_goliarda, id_carica, data_nomina, data_fine_nomina, id_goliarda_nominante, note, eventuale_numero_progressivo, id_utente_postante, data_inserimento_nomina, m_bAttiva" param/>
+    <div param="actions">
+      <submit label="#{ht 'roles.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="Song">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="titolo, id_login, Data_creazione, Autore, m_bSeria, Corpo, Note, tipo" param/>
+    <div param="actions">
+      <submit label="#{ht 'songs.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="SqlQuery">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="titolo, data_creazione, note, encoded_query" param/>
+    <div param="actions">
+      <submit label="#{ht 'sql_queries.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+
+<def tag="form" for="User">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="name, email, legacy_login" param/>
+    <div param="actions">
+      <submit label="#{ht 'users.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+<def tag="signup-form" polymorphic/>
+<def tag="signup-form" for="User">
+  <form lifecycle="signup" merge param="default">
+    <error-messages param/>
+    <field-list fields="name, email_address, password, password_confirmation" param/>
+    <div param="actions">
+      <submit label="#{ht 'users.actions.signup', :default=>['Signup']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+<def tag="reset-password-form" polymorphic/>
+<def tag="reset-password-form" for="User">
+  <form lifecycle="reset_password" merge param="default">
+    <error-messages param/>
+    <input type="hidden" name="key" value="&this.lifecycle.provided_key" if="&this.lifecycle.provided_key"/>
+    <field-list fields="password, password_confirmation" param/>
+    <div param="actions">
+      <submit label="#{ht 'users.actions.reset_password', :default=>['Reset Password']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+<def tag="form" for="XxxMemo">
+  <form merge param="default">
+    <error-messages param/>
+    <field-list fields="chiave, valore" param/>
+    <div param="actions">
+      <submit label="#{ht 'xxx_memos.actions.save', :default=>['Save']}" param/><or-cancel param="cancel"/>
+    </div>
+  </form>
+</def>
+
+
+

@@ -1,0 +1,256 @@
+--- 
+regioni_049: 
+  nomecitta: Irlanda
+  id_pseudoid: "46"
+  regione: Nazione
+  sigla: YR
+regioni_038: 
+  nomecitta: Olanda
+  id_pseudoid: "38"
+  regione: Nazione
+  sigla: YO
+regioni_027: 
+  nomecitta: Argenta
+  id_pseudoid: "27"
+  regione: Emilia
+  sigla: AG
+regioni_016: 
+  nomecitta: Macerata
+  id_pseudoid: "16"
+  regione: Marche
+  sigla: MC
+regioni_005: 
+  nomecitta: Parma
+  id_pseudoid: "5"
+  regione: Emilia
+  sigla: PR
+regioni_050: 
+  nomecitta: Trapani
+  id_pseudoid: "51"
+  regione: Sicilia
+  sigla: TP
+regioni_039: 
+  nomecitta: Lecce
+  id_pseudoid: "39"
+  regione: Puglia
+  sigla: LE
+regioni_028: 
+  nomecitta: Inghilterra
+  id_pseudoid: "28"
+  regione: Nazione
+  sigla: YI
+regioni_017: 
+  nomecitta: Camerino (MC)
+  id_pseudoid: "17"
+  regione: Marche
+  sigla: XC
+regioni_006: 
+  nomecitta: Modena
+  id_pseudoid: "6"
+  regione: Emilia
+  sigla: MO
+regioni_051: 
+  nomecitta: Dublino
+  id_pseudoid: "52"
+  regione: Irlanda
+  sigla: ZD
+regioni_040: 
+  nomecitta: Ravenna
+  id_pseudoid: "40"
+  regione: Emilia
+  sigla: RA
+regioni_029: 
+  nomecitta: Spagna
+  id_pseudoid: "29"
+  regione: Nazione
+  sigla: YE
+regioni_018: 
+  nomecitta: Udine
+  id_pseudoid: "18"
+  regione: Friuli Venezia Giulia
+  sigla: UD
+regioni_007: 
+  nomecitta: Milano
+  id_pseudoid: "7"
+  regione: Lombardia
+  sigla: MI
+regioni_041: 
+  nomecitta: Catania
+  id_pseudoid: "41"
+  regione: Sicilia
+  sigla: CT
+regioni_030: 
+  nomecitta: Belgio
+  id_pseudoid: "30"
+  regione: Nazione
+  sigla: YB
+regioni_019: 
+  nomecitta: Piombino (PI)
+  id_pseudoid: "19"
+  regione: Toscana
+  sigla: XB
+regioni_008: 
+  nomecitta: Genova
+  id_pseudoid: "8"
+  regione: Liguria
+  sigla: GE
+regioni_042: 
+  nomecitta: Siena
+  id_pseudoid: "42"
+  regione: Toscana
+  sigla: SI
+regioni_031: 
+  nomecitta: Francia
+  id_pseudoid: "31"
+  regione: Nazione
+  sigla: YF
+regioni_020: 
+  nomecitta: San Severo (FG)
+  id_pseudoid: "20"
+  regione: Puglia
+  sigla: XS
+regioni_009: 
+  nomecitta: Torino
+  id_pseudoid: "9"
+  regione: Piemonte
+  sigla: TO
+regioni_043: 
+  nomecitta: Voghera (PV)
+  id_pseudoid: "43"
+  regione: Lombardia
+  sigla: XV
+regioni_032: 
+  nomecitta: America
+  id_pseudoid: "32"
+  regione: Nazione
+  sigla: YA
+regioni_021: 
+  nomecitta: Palermo
+  id_pseudoid: "21"
+  regione: Sicilia
+  sigla: PA
+regioni_010: 
+  nomecitta: Pisa
+  id_pseudoid: "10"
+  regione: Toscana
+  sigla: PI
+regioni_044: 
+  nomecitta: Roma
+  id_pseudoid: "44"
+  regione: Lazio
+  sigla: RM
+regioni_033: 
+  nomecitta: Altro (in Italia)
+  id_pseudoid: "33"
+  regione: Italia
+  sigla: Z1
+regioni_022: 
+  nomecitta: Alghero (SS)
+  id_pseudoid: "22"
+  regione: Sardegna
+  sigla: XA
+regioni_011: 
+  nomecitta: Firenze
+  id_pseudoid: "11"
+  regione: Toscana
+  sigla: FI
+regioni_045: 
+  nomecitta: Ozieri (SS)
+  id_pseudoid: "101"
+  regione: Sardegna
+  sigla: XO
+regioni_034: 
+  nomecitta: Altro (estero)
+  id_pseudoid: "34"
+  regione: Nazione
+  sigla: YY
+regioni_023: 
+  nomecitta: Sassari
+  id_pseudoid: "23"
+  regione: Sardegna
+  sigla: SS
+regioni_012: 
+  nomecitta: Prato
+  id_pseudoid: "12"
+  regione: Toscana
+  sigla: PO
+regioni_001: 
+  nomecitta: Bologna
+  id_pseudoid: "1"
+  regione: Emilia
+  sigla: BO
+regioni_046: 
+  nomecitta: Livorno
+  id_pseudoid: "102"
+  regione: Toscana
+  sigla: LI
+regioni_035: 
+  nomecitta: Grottammare
+  id_pseudoid: "35"
+  regione: Marche
+  sigla: XG
+regioni_024: 
+  nomecitta: Padova
+  id_pseudoid: "24"
+  regione: Veneto
+  sigla: PD
+regioni_013: 
+  nomecitta: Ivrea (TO)
+  id_pseudoid: "13"
+  regione: Piemonte
+  sigla: XI
+regioni_002: 
+  nomecitta: Perugia
+  id_pseudoid: "2"
+  regione: Umbria
+  sigla: PG
+regioni_047: 
+  nomecitta: Spoleto (PG)
+  id_pseudoid: "55"
+  regione: Umbria
+  sigla: XP
+regioni_036: 
+  nomecitta: Diano Marina (IM)
+  id_pseudoid: "36"
+  regione: Liguria
+  sigla: IM
+regioni_025: 
+  nomecitta: Foggia
+  id_pseudoid: "25"
+  regione: Puglia
+  sigla: FG
+regioni_014: 
+  nomecitta: Urbino
+  id_pseudoid: "14"
+  regione: Marche
+  sigla: UR
+regioni_003: 
+  nomecitta: Pavia
+  id_pseudoid: "3"
+  regione: Lombardia
+  sigla: PV
+regioni_048: 
+  nomecitta: Verona
+  id_pseudoid: "45"
+  regione: Veneto
+  sigla: VR
+regioni_037: 
+  nomecitta: Teramo
+  id_pseudoid: "37"
+  regione: Abruzzo
+  sigla: TE
+regioni_026: 
+  nomecitta: Italia
+  id_pseudoid: "26"
+  regione: Italia
+  sigla: XX
+regioni_015: 
+  nomecitta: Trieste
+  id_pseudoid: "15"
+  regione: Friuli Venezia Giulia
+  sigla: TS
+regioni_004: 
+  nomecitta: Ferrara
+  id_pseudoid: "4"
+  regione: Emilia
+  sigla: FE
