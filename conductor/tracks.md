@@ -19,3 +19,8 @@
 - [x] **Track: Blog & Messages feature implementation, mapping legacy 'Contents' and disabling login for now**
 *Link: [./tracks/blog-messages_20260517/](./tracks/blog-messages_20260517/)*
 
+---
+
+- [ ] **Track: Canzoniere (Songs) Portal with split-pane layout and search**
+*Link: [./tracks/canzoniere-portal_20260517/](./tracks/canzoniere-portal_20260517/)*
+
