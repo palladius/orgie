@@ -16,6 +16,6 @@
 
 ---
 
-- [ ] **Track: Blog & Messages feature implementation, mapping legacy 'Contents' and disabling login for now**
+- [x] **Track: Blog & Messages feature implementation, mapping legacy 'Contents' and disabling login for now**
 *Link: [./tracks/blog-messages_20260517/](./tracks/blog-messages_20260517/)*
 

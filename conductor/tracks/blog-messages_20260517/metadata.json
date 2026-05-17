@@ -1,8 +1,8 @@
 {
   "track_id": "blog-messages_20260517",
   "type": "feature",
-  "status": "new",
+  "status": "completed",
   "created_at": "2026-05-17T22:00:00Z",
-  "updated_at": "2026-05-17T22:00:00Z",
+  "updated_at": "2026-05-17T22:30:00Z",
   "description": "Blog & Messages feature implementation, mapping legacy 'Contents' and disabling login for now"
 }

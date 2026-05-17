@@ -12,7 +12,7 @@ This document maps the legacy Goliardia (PHP/MySQL) schema to the new modern Eng
 | `colorefeluca` | `hat_colors` | Traditional goliardia colors. |
 | `contenuti` | `contents` / `posts` | General content/articles. |
 | `facolta` | `faculties` | Academic faculties. |
-| `goliardi` | `users` / `members` | The core "Goliarda" profile. |
+| `goliardi` | `goliardi` (Model: `Goliarda`) | The core "Goliarda" profile. |
 | `indirizzi` | `addresses` | User IP/Host tracking or physical? (Legacy: IP tracking) |
 | `linkz` | `links` | External or internal links. |
 | `loginz` | `accounts` / `credentials` | Authentication data. |
@@ -27,13 +27,14 @@ This document maps the legacy Goliardia (PHP/MySQL) schema to the new modern Eng
 - `Citt` -> `city`
 - `id_utente_creatore` -> `creator_account_id`
 
-### `goliardi` -> `members`
+### `goliardi` -> `goliardi` (Model: `Goliarda`)
 - `ID_GOL` -> `id`
 - `Nome` -> `first_name`
 - `Cognome` -> `last_name`
 - `DataProcesso` -> `initiation_date` (Goliardia process)
 - `Nomegoliardico` -> `nickname` / `goliardic_name`
 - `foto` -> `avatar_url` (to GCS)
+
 
 ### `appuntamenti` -> `events`
 - `ID_appuntamento` -> `id`
