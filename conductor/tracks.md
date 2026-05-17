@@ -11,6 +11,11 @@
 
 ---
 
-- [ ] **Track: Collation fix and prefixed parallel table migration strategy**
+- [x] **Track: Collation fix and prefixed parallel table migration strategy**
 *Link: [./tracks/collation-parallel-mig_20260517/](./tracks/collation-parallel-mig_20260517/)*
+
+---
+
+- [ ] **Track: Blog & Messages feature implementation, mapping legacy 'Contents' and disabling login for now**
+*Link: [./tracks/blog-messages_20260517/](./tracks/blog-messages_20260517/)*
 
